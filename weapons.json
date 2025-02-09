@@ -1,0 +1,328 @@
+[
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Daybreak",
+        "Image": "https://terraria.wiki.gg/images/7/77/Daybreak.png",
+        "Type": "Weapon",
+        "Damage": "150 (Melee)",
+        "Knockback": "5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "16 (Very fast)",
+        "Velocity": "20 (effective)",
+        "Tooltip": "'Rend your foes asunder with a spear of light!'",
+        "Rarity": "10*",
+        "Sell": "10 GC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Ice_Sickle",
+        "Image": "https://terraria.wiki.gg/images/e/ea/Ice_Sickle.png",
+        "Type": "Weapon",
+        "Damage": "50 (Desktop, Console and Mobile versions) / 40 (Old-gen console and 3DS versions) (Melee)",
+        "Knockback": "5.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Velocity": "12",
+        "Tooltip": "Shoots an icy sickle",
+        "Rarity": "05*",
+        "Sell": "5 GC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Poisoned_Knife",
+        "Image": "https://terraria.wiki.gg/images/0/02/Poisoned_Knife.png",
+        "Type": "Weapon",
+        "Damage": "14 (Desktop, Console and Mobile versions) / 13 (Old-gen console and 3DS versions) (Ranged)",
+        "Knockback": "2.4 (Very weak)",
+        "Consumable": "\u2714\ufe0f",
+        "Critical chance": "8%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "12",
+        "Rarity": "00*",
+        "Sell": "12 CC",
+        "Research": "99 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Weather_Pain",
+        "Image": "https://terraria.wiki.gg/images/5/5d/Weather_Pain.png",
+        "Type": "Weapon",
+        "Damage": "13 (Magic)",
+        "Knockback": "1 (Extremely weak)",
+        "Mana": "30",
+        "Critical chance": "4%",
+        "Use time": "45 (Very slow)",
+        "Velocity": "1",
+        "Tooltip": "Ignores 10 points of enemy Defense'What a pane... heh'",
+        "Rarity": "02*",
+        "Sell": "1 GC50 SC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Silver_Axe",
+        "Image": "https://terraria.wiki.gg/images/8/83/Silver_Axe.png",
+        "Type": "Tool",
+        "Damage": "6 (Melee)",
+        "Knockback": "4.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "26 (Average)",
+        "Tool speed": "18",
+        "Rarity": "00*",
+        "Sell": "8 SC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Kaleidoscope",
+        "Image": "https://terraria.wiki.gg/images/8/86/Kaleidoscope.png",
+        "Type": "Weapon",
+        "Damage": "180 (Summon)",
+        "Knockback": "4 (Weak)",
+        "Use time": "30 (Average)",
+        "Velocity": "12 (effective)",
+        "Tooltip": "20 summon tag damage10% summon tag critical strike chanceYour summons will focus struck enemies",
+        "Rarity": "08*",
+        "Sell": "5 GC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Nimbus_Rod",
+        "Image": "https://terraria.wiki.gg/images/b/b7/Nimbus_Rod.png",
+        "Type": "Weapon",
+        "Damage": "30 (Magic)",
+        "Knockback": "0 (No knockback)",
+        "Mana": "30",
+        "Critical chance": "4%",
+        "Use time": "22 (Fast)",
+        "Velocity": "16",
+        "Tooltip": "Summons a cloud to rain down on your foes",
+        "Rarity": "06*",
+        "Sell": "3 GC50 SC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Ruler",
+        "Image": "https://terraria.wiki.gg/images/a/aa/Ruler.png",
+        "Type": "Weapon",
+        "Damage": "12 (Melee)",
+        "Knockback": "0.5 (Extremely weak)",
+        "Critical chance": "4%",
+        "Use time": "20 (Very fast)",
+        "Velocity": "4.8 (effective)",
+        "Rarity": "01*",
+        "Buy": "10 SC",
+        "Sell": "2 SC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Buy"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Sticky_Dynamite",
+        "Image": "https://terraria.wiki.gg/images/7/7d/Sticky_Dynamite.png",
+        "Type": "Weapon",
+        "Damage": "250",
+        "Knockback": "0 (No knockback)",
+        "Consumable": "\u2714\ufe0f",
+        "Use time": "40 (Very slow)",
+        "Velocity": "4",
+        "Tooltip": "A large explosion that will destroy most tiles'Tossing may be difficult.'",
+        "Rarity": "01*",
+        "Sell": "4 SC",
+        "Research": "99 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Malaise",
+        "Image": "https://terraria.wiki.gg/images/d/d1/Malaise.png",
+        "Type": "Weapon",
+        "Damage": "16 (Melee)",
+        "Knockback": "4.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Velocity": "16",
+        "Rarity": "01*",
+        "Sell": "1 GC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Mythril_Sword",
+        "Image": "https://terraria.wiki.gg/images/c/c8/Mythril_Sword.png",
+        "Type": "Weapon",
+        "Damage": "50 (Desktop, Console and Mobile versions) / 39 (Old-gen console and 3DS versions) (Melee)",
+        "Knockback": "6 (Average)",
+        "Critical chance": "4%",
+        "Use time": "20 (Very fast) (Desktop, Console and Mobile versions) / 26 (Average) (Old-gen console and 3DS versions)",
+        "Rarity": "04*",
+        "Sell": "2 GC7 SC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Paladin%27s_Hammer",
+        "Image": "https://terraria.wiki.gg/images/f/f7/Paladin%27s_Hammer.png",
+        "Type": "Weapon",
+        "Damage": "90 (Melee)",
+        "Knockback": "9 (Very strong)",
+        "Critical chance": "4%",
+        "Use time": "15 (Very fast)",
+        "Velocity": "42 (effective)",
+        "Tooltip": "A powerful returning hammer",
+        "Rarity": "08*",
+        "Sell": "10 GC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Category:Items_of_rarity_2",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Sticky_Grenade",
+        "Image": "https://terraria.wiki.gg/images/9/9d/Sticky_Grenade.png",
+        "Type": "Weapon",
+        "Damage": "60 (Ranged)",
+        "Knockback": "8 (Very strong)",
+        "Consumable": "\u2714\ufe0f",
+        "Critical chance": "4%",
+        "Use time": "45 (Very slow)",
+        "Velocity": "5.5",
+        "Tooltip": "A small explosion that will not destroy tiles'Tossing may be difficult.'",
+        "Max stack": "9999 (Desktop, Console and Mobile versions) / 30 (Old-gen console version)",
+        "Rarity": "00*",
+        "Sell": "15 CC",
+        "Research": "99 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Breathing_Reed",
+        "Image": "https://terraria.wiki.gg/images/9/91/Breathing_Reed.png",
+        "Type": "WeaponTool",
+        "Damage": "10 (Melee)",
+        "Knockback": "4 (Weak)",
+        "Critical chance": "4%",
+        "Use time": "27 (Average)",
+        "Tooltip": "Increases breath time and allows breathing in water",
+        "Rarity": "01*",
+        "Sell": "20 SC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Loot"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Elf_Melter",
+        "Image": "https://terraria.wiki.gg/images/d/de/Elf_Melter.png",
+        "Type": "Weapon",
+        "Uses ammo": "Gel",
+        "Damage": "53 (Ranged)",
+        "Knockback": "0.425 (Extremely weak)",
+        "Critical chance": "4%",
+        "Use time": "30 (Average)",
+        "Velocity": "25.5 (not affected by ammo)",
+        "Tooltip": "Uses gel for ammoIgnores 15 points of enemy Defense",
+        "Rarity": "08*",
+        "Sell": "10 GC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Category:Items_of_rarity_9",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Category:Items_of_rarity_5",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Last_Prism",
+        "Image": "https://terraria.wiki.gg/images/0/0e/Last_Prism.png",
+        "Type": "Weapon",
+        "Damage": "100 (Magic)",
+        "Knockback": "0.25 (Extremely weak)",
+        "Mana": "12",
+        "Critical chance": "4%",
+        "Use time": "10 (Very fast)",
+        "Velocity": "30",
+        "Tooltip": "'Fire a lifeform disintegration rainbow'",
+        "Rarity": "10*",
+        "Sell": "10 GC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    },
+    {
+        "URL": "https://terraria.wiki.gg/wiki/Platinum_Axe",
+        "Image": "https://terraria.wiki.gg/images/7/75/Platinum_Axe.png",
+        "Type": "Tool",
+        "Damage": "8 (Melee)",
+        "Knockback": "4.5 (Average)",
+        "Critical chance": "4%",
+        "Use time": "25 (Fast)",
+        "Tool speed": "17",
+        "Rarity": "00*",
+        "Sell": "24 SC",
+        "Research": "1 required",
+        "Version Added": "Unknown",
+        "Method of Obtainment": [
+            "Unknown"
+        ]
+    }
+]
