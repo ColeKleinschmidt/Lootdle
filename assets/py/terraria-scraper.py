@@ -27,46 +27,55 @@ def get_weapon_links():
     print(f"Found {len(weapon_links)} weapon links")
     return list(set(weapon_links))  # Remove duplicates
 
-def get_version_added(soup):
-    version = None
-    history_section = soup.find("h2", id="History")
-    if history_section:
-        # Locate the correct version tag
-        history_div = history_section.find_next("div", class_="history-header", id="history_desktop")
-        if history_div:
-            version_tag = history_div.find_next("ul").find("li", id=re.compile(r"history_Desktop_\d"))
-            if version_tag:
-                version = version_tag["id"].replace("history_Desktop_", "")
+def detect_crafting(soup):
+    crafting_header = soup.find("span", class_="mw-headline", id="Recipes")
+    if crafting_header:
+        crafting_table = crafting_header.find_next("table", class_=re.compile(r"cellborder|craftingtable"))
+        if crafting_table:
+            return "Crafting"
+    return None
 
-    return version if version else "Unknown"
+def detect_drop(soup):
+    keywords = ["drop", "chance", "%"]
+    paragraphs = soup.find_all("p")
+    for paragraph in paragraphs:
+        text = paragraph.get_text().lower()
+        if all(keyword in text for keyword in keywords):
+            return "Drop"
+    return None
 
-def get_method_of_obtainment(soup):
-    obtain_methods = set()
+def detect_loot(soup):
+    loot_phrases = ["found in chests", "found in crates", "can be found in", "chest", "crate"]
+    paragraphs = soup.find_all("p")
+    for paragraph in paragraphs:
+        text = paragraph.get_text().lower()
+        if any(phrase in text for phrase in loot_phrases):
+            return "Loot"
+    return None
 
-    # Crafting detection
-    crafting_section = soup.find("h3", id="Recipes")
-    crafting_table = soup.find("table", class_="terraria cellborder recipes sortable jquery-tablesorter")
-    if crafting_section and crafting_table:
-        obtain_methods.add("Crafting")
+def detect_buy(soup):
+    buy_row = soup.select_one("#mw-content-text > div.mw-parser-output > div.infobox.item > div:nth-child(3) > table > tbody > tr:nth-child(9)")
+    if buy_row and "Buy" in buy_row.get_text():
+        return "Buy"
+    return None
 
-    # Buy detection
-    buy_section = soup.find("table", class_="stat")
-    if buy_section and buy_section.find("th", string=lambda s: s and "Buy" in s):
-        obtain_methods.add("Buy")
+def detect_game_stage(soup):
+    paragraphs = soup.find_all("p")
+    for paragraph in paragraphs:
+        text = paragraph.get_text().lower()
+        if "pre-hardmode" in text:
+            return "Pre-Hardmode"
+        if "hardmode" in text:
+            return "Hardmode"
+    return None
 
-    # Loot detection (Check for % and 'chest' in paragraphs)
-    parser_output = soup.find("div", class_="mw-parser-output")
-    if parser_output:
-        for p in parser_output.find_all("p"):
-            if re.search(r"\d{1,2}\.\d{1,2}%", p.text) and "chest" in p.text.lower():
-                obtain_methods.add("Loot")
+def extract_number(value):
+    match = re.search(r"\d+", value)
+    return match.group(0) if match else value
 
-    # Enemy Drop detection
-    enemy_drop_section = soup.find("div", class_="drop infobox modesbox c-normal mw-collapsible mw-made-collapsible")
-    if enemy_drop_section and enemy_drop_section.find("div", class_="title", string=lambda s: s and "Obtained From" in s):
-        obtain_methods.add("Enemy Drop")
-
-    return list(obtain_methods) if obtain_methods else ["Unknown"]
+def extract_text_after_number(value):
+    match = re.search(r"\((.*?)\)", value)  # Extract text inside parentheses
+    return match.group(1) if match else value
 
 def get_weapon_data(weapon_url):
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -86,8 +95,9 @@ def get_weapon_data(weapon_url):
         img_src = image_tag["src"]
         weapon_data["Image"] = BASE_URL + img_src if img_src.startswith("/") else img_src
 
-    # Extract Stats from <table class="stat">
+    # Extract All Stats from <table class="stat">
     stats_table = soup.find("table", class_="stat")
+
     if stats_table:
         for row in stats_table.find_all("tr"):
             th = row.find("th")
@@ -95,21 +105,61 @@ def get_weapon_data(weapon_url):
             if th and td:
                 key = th.text.strip()
                 value = td.text.strip()
-                weapon_data[key] = value  # Store all stats dynamically
 
-    # Extract Version Added
-    weapon_data["Version Added"] = get_version_added(soup)
+                if "Damage" in key and "Critical" not in key:
+                    damage_number = extract_number(value)
+                    weapon_data["Damage"] = damage_number if damage_number else "Unknown"
+                    damage_type = td.find("span", class_="small-bold")
+                    weapon_data["Damage Type"] = damage_type.text.strip().strip("()") if damage_type else "Unknown"
 
-    # Extract Method of Obtainment
-    weapon_data["Method of Obtainment"] = get_method_of_obtainment(soup)
+                elif "Knockback" in key:
+                    knockback = td.find("span", class_="knockback")
+                    weapon_data["Knockback"] = knockback.text.strip().strip("()") if knockback else "Unknown"
+
+                elif "Use time" in key:
+                    usetime = td.find("span", class_="usetime")
+                    weapon_data["Use Time"] = usetime.text.strip().strip("()") if usetime else "Unknown"
+
+                elif "Critical chance" in key:
+                    critical_match = re.search(r"\d+%", value)
+                    weapon_data["Critical chance"] = critical_match.group(0) if critical_match else "Unknown"
+
+                elif "Consumable" in key:
+                    weapon_data["Consumable"] = "Yes" if "\u2714\ufe0f" in value else "No"
+
+                else:
+                    weapon_data[key] = value
+
+    # Detect methods of obtainment
+    methods = []
+    crafting = detect_crafting(soup)
+    if crafting:
+        methods.append(crafting)
+
+    drop = detect_drop(soup)
+    if drop:
+        methods.append(drop)
+
+    loot = detect_loot(soup)
+    if loot:
+        methods.append(loot)
+
+    buy = detect_buy(soup)
+    if buy:
+        methods.append(buy)
+
+    weapon_data["Method of Obtainment"] = methods if methods else None
+
+    # Detect game stage
+    weapon_data["Game Stage"] = detect_game_stage(soup)
 
     return weapon_data
 
 def main():
     weapons = []
-    weapon_links = get_weapon_links()
+    weapon_links = get_weapon_links()  # Get all weapon links dynamically
 
-    for index, link in enumerate(weapon_links[:20]):  # Scrapes all weapons
+    for index, link in enumerate(weapon_links):  # Scrape all weapons
         print(f"Scraping {index+1}/{len(weapon_links)}: {link}")
         weapon_data = get_weapon_data(link)
         weapons.append(weapon_data)
