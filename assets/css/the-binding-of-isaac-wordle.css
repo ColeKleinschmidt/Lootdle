@@ -1,0 +1,47 @@
+body 
+{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url("../images/the-binding-of-isaac-wordle-background.png");
+    margin: 0;
+    padding: 20px;
+}
+
+#game-container 
+{
+    max-width: 500px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#guess-input 
+{
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+button 
+{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#feedback 
+{
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+
+#attempts 
+{
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666;
+}
