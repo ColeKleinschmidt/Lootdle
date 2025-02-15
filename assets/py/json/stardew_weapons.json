@@ -1,0 +1,1137 @@
+[
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d7/Rusty_Sword.png",
+        "Name": "Rusty Sword",
+        "Level": "1",
+        "Description": "A rusty, dull old sword.",
+        "Damage": "2-5",
+        "Crit Chance": ".02",
+        "Stats": [
+            "N/A"
+        ],
+        "Location": [
+            "The Mines"
+        ],
+        "Buy Price": "250g",
+        "Sell Price": "50g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/da/Steel_Smallsword.png",
+        "Name": "Steel Smallsword",
+        "Level": "1",
+        "Description": "A standard metal blade.",
+        "Damage": "4-8",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+2)"
+        ],
+        "Location": [
+            "The Mines Chest"
+        ],
+        "Buy Price": "750g",
+        "Sell Price": "50g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/06/Wooden_Blade.png",
+        "Name": "Wooden Blade",
+        "Level": "1",
+        "Description": "Not bad for a piece of carved wood.",
+        "Damage": "3-7",
+        "Crit Chance": ".02",
+        "Stats": [
+            "N/A"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "250g",
+        "Sell Price": "50g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/19/Pirate%27s_Sword.png",
+        "Name": "Pirate's Sword",
+        "Level": "2",
+        "Description": "It looks like a pirate owned this once.",
+        "Damage": "8-14",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+2)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "850g",
+        "Sell Price": "100g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/b0/Silver_Saber.png",
+        "Name": "Silver Saber",
+        "Level": "2",
+        "Description": "Plated with silver to deter rust.",
+        "Damage": "8-15",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Defense (+1)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "750g",
+        "Sell Price": "100g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/1e/Cutlass.png",
+        "Name": "Cutlass",
+        "Level": "3",
+        "Description": "A finely crafted blade.",
+        "Damage": "9-17",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+2)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "1500g",
+        "Sell Price": "150g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/17/Forest_Sword.png",
+        "Name": "Forest Sword",
+        "Level": "3",
+        "Description": "Made powerful by forest magic.",
+        "Damage": "8-18",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+2)",
+            "Defense (+1)"
+        ],
+        "Location": [
+            "The Mines"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "150g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3c/Iron_Edge.png",
+        "Name": "Iron Edge",
+        "Level": "3",
+        "Description": "A heavy broadsword.",
+        "Damage": "12-25",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-2)",
+            "Defense (+1)",
+            "Weight (+3)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "The Mines"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "150g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/35/Insect_Head.png",
+        "Name": "Insect Head",
+        "Level": "6",
+        "Description": "Not very pleasant to wield.",
+        "Damage": "20-30",
+        "Crit Chance": ".04",
+        "Stats": [
+            "Speed (+2)",
+            "Crit. Chance (+2)"
+        ],
+        "Location": [
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "10000g",
+        "Sell Price": "200g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/29/Bone_Sword.png",
+        "Name": "Bone Sword",
+        "Level": "5",
+        "Description": "A very light piece of sharpened bone.",
+        "Damage": "20-30",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+4)",
+            "Weight (+2)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "Adventurer's Guild",
+            "Skeleton drops"
+        ],
+        "Buy Price": "6000g",
+        "Sell Price": "250g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Claymore.png",
+        "Name": "Claymore",
+        "Level": "5",
+        "Description": "It's really heavy.",
+        "Damage": "20-32",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-4)",
+            "Defense (+2)",
+            "Weight (+3)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "2000g",
+        "Sell Price": "250g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/26/Neptune%27s_Glaive.png",
+        "Name": "Neptune's Glaive",
+        "Level": "5",
+        "Description": "An heirloom from beyond the Gem Sea.",
+        "Damage": "18-35",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-1)",
+            "Defense (+2)",
+            "Weight (+4)"
+        ],
+        "Location": [
+            "Fishing Treasure Chests"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "250g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Templar%27s_Blade.png",
+        "Name": "Templar's Blade",
+        "Level": "5",
+        "Description": "It once belonged to an honorable knight.",
+        "Damage": "22-29",
+        "Crit Chance": "0",
+        "Stats": [
+            "Defense (+1)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "4000g",
+        "Sell Price": "250g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/73/Obsidian_Edge.png",
+        "Name": "Obsidian Edge",
+        "Level": "6",
+        "Description": "It's incredibly sharp.",
+        "Damage": "30-45",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-1)",
+            "Crit. Power (+10)"
+        ],
+        "Location": [
+            "The Mines Chest"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "300g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/30/Ossified_Blade.png",
+        "Name": "Ossified Blade",
+        "Level": "6",
+        "Description": "A large, sharp blade formed from bone.",
+        "Damage": "26-42",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-2)",
+            "Defense (+1)",
+            "Weight (+2)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "Mystery Box"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "300g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Holy_Blade.png",
+        "Name": "Holy Blade",
+        "Level": "7",
+        "Description": "It feels hopeful to wield.",
+        "Damage": "20-27",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+4)",
+            "Defense(+2)",
+            "Crusader"
+        ],
+        "Location": [
+            "The Mines"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "350g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/51/Tempered_Broadsword.png",
+        "Name": "Tempered Broadsword",
+        "Level": "7",
+        "Description": "It looks like it could withstand anything.",
+        "Damage": "29-44",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-3)",
+            "Defense (+3)",
+            "Weight (+3)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "Skull Cavern"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "350g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/4d/Yeti_Tooth.png",
+        "Name": "Yeti Tooth",
+        "Level": "7",
+        "Description": "It's icy cold to the touch.",
+        "Damage": "26-42",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Defense (+4)",
+            "Crit. Power (+10)"
+        ],
+        "Location": [
+            "The Mines"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "350g",
+        "Range": "Unknown"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/ee/Steel_Falchion.png",
+        "Name": "Steel Falchion",
+        "Level": "8",
+        "Description": "Light and powerful.",
+        "Damage": "28-46",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+4)",
+            "Crit. Power (+20)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "The Mines",
+            "Skull Cavern",
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "9000g",
+        "Sell Price": "400g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Dark_Sword.png",
+        "Name": "Dark Sword",
+        "Level": "9",
+        "Description": "It's glowing with vampire energy.",
+        "Damage": "30-45",
+        "Crit Chance": ".04",
+        "Stats": [
+            "Speed (-5)",
+            "Crit. Chance (+2)",
+            "Weight (+5)",
+            "Vampiric (9%)"
+        ],
+        "Location": [
+            "Haunted Skull drop"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "450g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/a0/Lava_Katana.png",
+        "Name": "Lava Katana",
+        "Level": "10",
+        "Description": "A powerful blade forged in a pool of churning lava.",
+        "Damage": "55-64",
+        "Crit Chance": ".015",
+        "Stats": [
+            "Defense (+3)",
+            "Crit. Power (+25)",
+            "Weight (+3)"
+        ],
+        "Location": [
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "25000g",
+        "Sell Price": "500g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e8/Dragontooth_Cutlass.png",
+        "Name": "Dragontooth Cutlass",
+        "Level": "13",
+        "Description": "The blade was forged from a magical tooth.",
+        "Damage": "75-90",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Crit. Power (+50)"
+        ],
+        "Location": [
+            "Volcano Dungeon Chest"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "650g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/38/Dwarf_Sword.png",
+        "Name": "Dwarf Sword",
+        "Level": "13",
+        "Description": "It's ancient, but the blade never dulls.",
+        "Damage": "65-75",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+2)",
+            "Defense (+4)"
+        ],
+        "Location": [
+            "Volcano Dungeon Chest"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "650g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/44/Galaxy_Sword.png",
+        "Name": "Galaxy Sword",
+        "Level": "13",
+        "Description": "It's unlike anything you've ever seen.",
+        "Damage": "60-80",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+4)"
+        ],
+        "Location": [
+            "The Desert"
+        ],
+        "Buy Price": "50000g",
+        "Sell Price": "650g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/40/Infinity_Blade.png",
+        "Name": "Infinity Blade",
+        "Level": "17",
+        "Description": "The true form of the Galaxy Sword.",
+        "Damage": "80-100",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+4)",
+            "Defense (+2)"
+        ],
+        "Location": [
+            "The Forge"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "850g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/66/Haley%27s_Iron.png",
+        "Name": "Haley's Iron",
+        "Level": "6",
+        "Description": "It's searing hot and smells like Haley's hair.",
+        "Damage": "30-45",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-1)",
+            "Crit. Power(+10)"
+        ],
+        "Location": [
+            "The Desert"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "300g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/69/Leah%27s_Whittler.png",
+        "Name": "Leah's Whittler",
+        "Level": "6",
+        "Description": "Leah's favorite tool for shaping driftwood.",
+        "Damage": "30-45",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-1)",
+            "Crit. Power (+10)"
+        ],
+        "Location": [
+            "The Desert"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "300g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/63/Meowmere.png",
+        "Name": "Meowmere",
+        "Level": "4",
+        "Description": "An unusual weapon from a far away land...",
+        "Damage": "20-20",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+4)",
+            "Weight (+2)"
+        ],
+        "Location": [
+            "Wizard's Tower"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "200g",
+        "Range": "Medium"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Carving_Knife.png",
+        "Name": "Carving Knife",
+        "Level": "1",
+        "Description": "A small, light blade.",
+        "Damage": "1-3",
+        "Crit Chance": ".04",
+        "Stats": [
+            "Crit. Chance (+2)"
+        ],
+        "Location": [
+            "The Mines"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "50g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Iron_Dirk.png",
+        "Name": "Iron Dirk",
+        "Level": "1",
+        "Description": "A common dagger.",
+        "Damage": "2-4",
+        "Crit Chance": ".03",
+        "Stats": [
+            "Crit. Chance (+2)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "500g",
+        "Sell Price": "50g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/00/Wind_Spire.png",
+        "Name": "Wind Spire",
+        "Level": "1",
+        "Description": "A swift little blade.",
+        "Damage": "1-5",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Crit. Chance (+1)",
+            "Crit. Power (+10)",
+            "Weight (+5)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "The Mines"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "50g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Elf_Blade.png",
+        "Name": "Elf Blade",
+        "Level": "2",
+        "Description": "Only the nimble hands of an elf could craft this.",
+        "Damage": "3-5",
+        "Crit Chance": ".04",
+        "Stats": [
+            "Crit. Chance (+2)"
+        ],
+        "Location": [
+            "The Mines Chest"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "100g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/7c/Burglar%27s_Shank.png",
+        "Name": "Burglar's Shank",
+        "Level": "4",
+        "Description": "A weapon of choice for the swift and silent.",
+        "Damage": "7-12",
+        "Crit Chance": ".04",
+        "Stats": [
+            "Crit. Chance (+2)",
+            "Crit. Power (+25)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "The Mines",
+            "Skull Cavern"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "200g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/8a/Crystal_Dagger.png",
+        "Name": "Crystal Dagger",
+        "Level": "4",
+        "Description": "The blade is made of purified quartz.",
+        "Damage": "4-10",
+        "Crit Chance": ".03",
+        "Stats": [
+            "Crit. Chance (+2)",
+            "Crit. Power (+50)",
+            "Weight (+5)"
+        ],
+        "Location": [
+            "The Mines"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "200g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/47/Shadow_Dagger.png",
+        "Name": "Shadow Dagger",
+        "Level": "4",
+        "Description": "When you hold the blade to your ear you can hear 1,000 souls shrieking.",
+        "Damage": "10-20",
+        "Crit Chance": ".04",
+        "Stats": [
+            "Crit. Chance (+2)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "The Mines"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "200g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Broken_Trident.png",
+        "Name": "Broken Trident",
+        "Level": "5",
+        "Description": "It came from the sea, but it's still sharp.",
+        "Damage": "15-26",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Crit. Chance (+1)"
+        ],
+        "Location": [
+            "Fishing Treasure Chests"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "250g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/94/Wicked_Kris.png",
+        "Name": "Wicked Kris",
+        "Level": "8",
+        "Description": "The blade is made of an iridium alloy.",
+        "Damage": "24-30",
+        "Crit Chance": ".06",
+        "Stats": [
+            "Crit. Chance (+4)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "Skull Cavern"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "400g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/68/Galaxy_Dagger.png",
+        "Name": "Galaxy Dagger",
+        "Level": "8",
+        "Description": "It's unlike anything you've seen.",
+        "Damage": "30-40",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+1)",
+            "Crit. Chance (+1)",
+            "Weight (+5)"
+        ],
+        "Location": [
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "35000g",
+        "Sell Price": "400g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/99/Dwarf_Dagger.png",
+        "Name": "Dwarf Dagger",
+        "Level": "11",
+        "Description": "It's ancient, but the blade never dulls.",
+        "Damage": "32-38",
+        "Crit Chance": ".03",
+        "Stats": [
+            "Speed (+1)",
+            "Defense (+6)",
+            "Crit. Chance (+2)",
+            "Weight(+5)"
+        ],
+        "Location": [
+            "Volcano Dungeon Chest"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "550g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/95/Dragontooth_Shiv.png",
+        "Name": "Dragontooth Shiv",
+        "Level": "12",
+        "Description": "The blade was forged from a magical tooth.",
+        "Damage": "40-50",
+        "Crit Chance": ".05",
+        "Stats": [
+            "Crit. Chance (+3)",
+            "Crit. Power (+100)",
+            "Weight (+5)"
+        ],
+        "Location": [
+            "Volcano Dungeon Chest"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "600g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/62/Iridium_Needle.png",
+        "Name": "Iridium Needle",
+        "Level": "12",
+        "Description": "The point is unbelievably sharp, even down to the atomic level.",
+        "Damage": "20-35",
+        "Crit Chance": "0.1",
+        "Stats": [
+            "Crit. Chance (+6)",
+            "Crit. Power (+200)"
+        ],
+        "Location": [
+            "Shrine of Challenge"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "600g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d6/Infinity_Dagger.png",
+        "Name": "Infinity Dagger",
+        "Level": "16",
+        "Description": "The true form of the Galaxy Dagger.",
+        "Damage": "50-70",
+        "Crit Chance": ".06",
+        "Stats": [
+            "Speed (+1)",
+            "Defense (+3)",
+            "Crit. Chance (+4)",
+            "Weight (+5)"
+        ],
+        "Location": [
+            "The Forge"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "800g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/70/Elliott%27s_Pencil.png",
+        "Name": "Elliott's Pencil",
+        "Level": "8",
+        "Description": "Elliott used this to write his book. It's sharp!",
+        "Damage": "24-30",
+        "Crit Chance": ".06",
+        "Stats": [
+            "Crit. Chance (+4)"
+        ],
+        "Location": [
+            "The Desert"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "200g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/72/Abby%27s_Planchette.png",
+        "Name": "Abby's Planchette",
+        "Level": "8",
+        "Description": "It's made from fine marblewood.",
+        "Damage": "24-30",
+        "Crit Chance": ".06",
+        "Stats": [
+            "Speed (+154)",
+            "Crit. Chance (+1)",
+            "Weight (+5)"
+        ],
+        "Location": [
+            "The Desert"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "200g",
+        "Range": "Short"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Femur.png",
+        "Name": "Femur",
+        "Level": "2",
+        "Description": "An old, heavy bone caked in centuries of grime.",
+        "Damage": "6-11",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+2)"
+        ],
+        "Location": [
+            "The Mines Chest"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "100g",
+        "Range": "Long"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/51/Wood_Club.png",
+        "Name": "Wood Club",
+        "Level": "2",
+        "Description": "A solid piece of wood, crudely chiseled into a club shape.",
+        "Damage": "9-16",
+        "Crit Chance": ".02",
+        "Stats": [
+            "N/A"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "The Mines"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "100g",
+        "Range": "Long"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/ac/Wood_Mallet.png",
+        "Name": "Wood Mallet",
+        "Level": "3",
+        "Description": "The solid head packs a punch. Relatively light for a club.",
+        "Damage": "15-24",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+2)",
+            "Weight (+2)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "The Mines",
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "2000g",
+        "Sell Price": "150g",
+        "Range": "Long"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/36/Lead_Rod.png",
+        "Name": "Lead Rod",
+        "Level": "4",
+        "Description": "It's incredibly heavy.",
+        "Damage": "18-27",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-4)"
+        ],
+        "Location": [
+            "The Mines"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "200g",
+        "Range": "Long"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e0/Kudgel.png",
+        "Name": "Kudgel",
+        "Level": "5",
+        "Description": "A brute's companion.",
+        "Damage": "27-40",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-1)",
+            "Crit. Power (+50)",
+            "Weight (+2)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "The Mines"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "250g",
+        "Range": "Unknown"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/c/c7/The_Slammer.png",
+        "Name": "The Slammer",
+        "Level": "7",
+        "Description": "An extremely heavy gavel that'll send foes flying.",
+        "Damage": "40-55",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-2)"
+        ],
+        "Location": [
+            "The Mines Chest",
+            "The Mines",
+            "Skull Cavern"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "350g",
+        "Range": "Unknown"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/8a/Galaxy_Hammer.png",
+        "Name": "Galaxy Hammer",
+        "Level": "12",
+        "Description": "It's made from an ultra-light material you've never seen before.",
+        "Damage": "70-90",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+2)",
+            "Weight (+5)"
+        ],
+        "Location": [
+            "Adventurer's Guild"
+        ],
+        "Buy Price": "75000g",
+        "Sell Price": "600g",
+        "Range": "Long"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Dwarf_Hammer.png",
+        "Name": "Dwarf Hammer",
+        "Level": "13",
+        "Description": "It emits a very faint whirring sound.",
+        "Damage": "75-85",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Defense (+2)",
+            "Weight (+5)"
+        ],
+        "Location": [
+            "Volcano Dungeon Chest"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "650g",
+        "Range": "Long"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/18/Dragontooth_Club.png",
+        "Name": "Dragontooth Club",
+        "Level": "14",
+        "Description": "This club was crafted from a magical tooth.",
+        "Damage": "80-100",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Crit. Power (+50)",
+            "Weight (+3)"
+        ],
+        "Location": [
+            "Volcano Dungeon Chest"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "700g",
+        "Range": "Long"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/87/Infinity_Gavel.png",
+        "Name": "Infinity Gavel",
+        "Level": "17",
+        "Description": "The true form of the Galaxy Hammer.",
+        "Damage": "100-120",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (+2)",
+            "Defense (+1)",
+            "Weight (+5)"
+        ],
+        "Location": [
+            "The Forge"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "850g",
+        "Range": "Long"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/17/Alex%27s_Bat.png",
+        "Name": "Alex's Bat",
+        "Level": "7",
+        "Description": "The sweet spot is dented from Alex's famous Grand Slam.",
+        "Damage": "40-55",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-2)"
+        ],
+        "Location": [
+            "The Desert"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "350g",
+        "Range": "Long"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/09/Harvey%27s_Mallet.png",
+        "Name": "Harvey's Mallet",
+        "Level": "7",
+        "Description": "It brings back memories of Harvey's clinic.",
+        "Damage": "40-55",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-2)"
+        ],
+        "Location": [
+            "The Desert"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "350g",
+        "Range": "Long"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Maru%27s_Wrench.png",
+        "Name": "Maru's Wrench",
+        "Level": "7",
+        "Description": "A big, metal wrench. It smells like Maru.",
+        "Damage": "40-55",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-2)"
+        ],
+        "Location": [
+            "The Desert"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "150g",
+        "Range": "Unknown"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/9c/Penny%27s_Fryer.png",
+        "Name": "Penny's Fryer",
+        "Level": "7",
+        "Description": "Penny's favorite frying pan. There's some rubbery gunk stuck to the inside.",
+        "Damage": "40-55",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-2)"
+        ],
+        "Location": [
+            "The Desert"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "150g",
+        "Range": "Unknown"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/dc/Sam%27s_Old_Guitar.png",
+        "Name": "Sam's Old Guitar",
+        "Level": "7",
+        "Description": "It's seen better days.",
+        "Damage": "40-55",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-2)"
+        ],
+        "Location": [
+            "The Desert"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "350g",
+        "Range": "Unknown"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/37/Seb%27s_Lost_Mace.png",
+        "Name": "Seb's Lost Mace",
+        "Level": "7",
+        "Description": "One of Sebastian's medieval replicas.",
+        "Damage": "40-55",
+        "Crit Chance": ".02",
+        "Stats": [
+            "Speed (-2)"
+        ],
+        "Location": [
+            "The Desert"
+        ],
+        "Buy Price": "None",
+        "Sell Price": "350g",
+        "Range": "Unknown"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Slingshot.png",
+        "Name": "Slingshot",
+        "Level": "N/A",
+        "Description": "Requires stones for ammo.",
+        "Damage": "1-101",
+        "Crit Chance": ".02",
+        "Stats": [
+            "N/A"
+        ],
+        "Location": [
+            "The Mines"
+        ],
+        "Buy Price": "500g",
+        "Sell Price": "N/A",
+        "Range": "Long"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/63/Master_Slingshot.png",
+        "Name": "Master Slingshot",
+        "Level": "N/A",
+        "Description": "Requires stones for ammo.",
+        "Damage": "2-202",
+        "Crit Chance": ".02",
+        "Stats": [
+            "N/A"
+        ],
+        "Location": [
+            "The Mines"
+        ],
+        "Buy Price": "1000g",
+        "Sell Price": "N/A",
+        "Range": "Long"
+    }
+
+]

@@ -1,0 +1,882 @@
+[
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/73/Sap.png",
+        "Name": "Sap",
+        "Description": "A fluid obtained from trees.",
+        "Base Sell Price": "2g",
+        "Iridium Sell Price": "N/A",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "Trees"
+        ],
+        "Energy": "-5",
+        "Health": "+0",
+        "Used In": [
+            "Basic Fertilizer",
+            "Fiber Seeds",
+            "Quality Bobber",
+            "Quality Fertilizer",
+            "Statue of Blessings",
+            "Trap Bobber",
+            "Torch"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+        "Name": "Common Mushroom",
+        "Description": "Slightly nutty, with good texture.",
+        "Base Sell Price": "40g",
+        "Iridium Sell Price": "80g",
+        "Season": [
+            "Spring",
+            "Summer",
+            "Fall"
+        ],
+        "Source": [
+            "Secret Woods",
+            "Farm Cave",
+            "Cindersap Forest",
+            "Mountain",
+            "Backwoods",
+            "Mushroom Log"
+        ],
+        "Energy": "+38",
+        "Health": "+17",
+        "Used In": [
+            "Fall Foraging Bundle",
+            "Fall Seeds",
+            "Fried Mushroom",
+            "Stir Fry",
+            "Tom Kha Soup",
+            "Dried Mushrooms",
+            "Pickles"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+        "Name": "Daffodil",
+        "Description": "A traditional spring flower that makes a nice gift.",
+        "Base Sell Price": "30g",
+        "Iridium Sell Price": "60g",
+        "Season": [
+            "Spring"
+        ],
+        "Source": [
+            "Pelican Town",
+            "Bus Stop",
+            "Railroad"
+        ],
+        "Energy": "+0",
+        "Health": "+0",
+        "Used In": [
+            "Spring Foraging Bundle",
+            "Spring Seeds",
+            "Sandy (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+        "Name": "Dandelion",
+        "Description": "Not the prettiest flower, but the leaves make a good salad.",
+        "Base Sell Price": "40g",
+        "Iridium Sell Price": "80g",
+        "Season": [
+            "Spring"
+        ],
+        "Source": [
+            "Cindersap Forest",
+            "Bus Stop",
+            "Railroad",
+            "Forest Farm"
+        ],
+        "Energy": "+25",
+        "Health": "+11",
+        "Used In": [
+            "Spring Foraging Bundle",
+            "Spring Seeds",
+            "Salad",
+            "Juice",
+            "Pickles"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+        "Name": "Leek",
+        "Description": "A tasty relative of the onion.",
+        "Base Sell Price": "60g",
+        "Iridium Sell Price": "120g",
+        "Season": [
+            "Spring"
+        ],
+        "Source": [
+            "Backwoods",
+            "Mountain",
+            "Forest Farm",
+            "Bus Stop",
+            "Railroad"
+        ],
+        "Energy": "+40",
+        "Health": "+18",
+        "Used In": [
+            "Spring Foraging Bundle",
+            "Spring Seeds",
+            "Salad",
+            "Juice",
+            "Pickles",
+            "George (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+        "Name": "Morel",
+        "Description": "Sought after for its unique nutty flavor.",
+        "Base Sell Price": "150g",
+        "Iridium Sell Price": "300g",
+        "Season": [
+            "Spring"
+        ],
+        "Source": [
+            "Secret Woods",
+            "Forest Farm",
+            "Farm Cave",
+            "Mushroom Log"
+        ],
+        "Energy": "+20",
+        "Health": "+9",
+        "Used In": [
+            "Exotic Foraging Bundle",
+            "Fried Mushroom",
+            "Life Elixir",
+            "Dried Mushrooms",
+            "Pickles"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png",
+        "Name": "Salmonberry",
+        "Description": "A spring-time berry with the flavor of the forest.",
+        "Base Sell Price": "5g",
+        "Iridium Sell Price": "10g",
+        "Season": [
+            "Spring"
+        ],
+        "Source": [
+            "Bushes",
+            "Farm Cave"
+        ],
+        "Energy": "+25",
+        "Health": "+11",
+        "Used In": [
+            "Dried Fruit",
+            "Jelly",
+            "Wine"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png",
+        "Name": "Spring Onion",
+        "Description": "These grow wild during the spring.",
+        "Base Sell Price": "8g",
+        "Iridium Sell Price": "16g",
+        "Season": [
+            "Spring"
+        ],
+        "Source": [
+            "Cindersap Forest"
+        ],
+        "Energy": "+13",
+        "Health": "+5",
+        "Used In": [
+            "Juice",
+            "Pickles"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+        "Name": "Wild Horseradish",
+        "Description": "A spicy root found in the spring.",
+        "Base Sell Price": "50g",
+        "Iridium Sell Price": "100g",
+        "Season": [
+            "Spring"
+        ],
+        "Source": [
+            "Secret Woods",
+            "Cindersap Forest",
+            "Backwoods",
+            "Mountain",
+            "Forest Farm"
+        ],
+        "Energy": "+13",
+        "Health": "+5",
+        "Used In": [
+            "Spring Foraging Bundle",
+            "Spring Seeds",
+            "Shrimp Cocktail",
+            "Juice",
+            "Pickles",
+            "Krobus (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/48/Fiddlehead_Fern.png",
+        "Name": "Fiddlehead Fern",
+        "Description": "The young shoots are an edible specialty.",
+        "Base Sell Price": "90g",
+        "Iridium Sell Price": "180g",
+        "Season": [
+            "Summer",
+            "Any (The Mines)"
+        ],
+        "Source": [
+            "Secret Woods",
+            "Ginger Island",
+            "The Mines",
+            "Skull Cavern"
+        ],
+        "Energy": "+25",
+        "Health": "+11",
+        "Used In": [
+            "Chef's Bundle",
+            "Fiddlehead Risotto",
+            "Juice",
+            "Pickles"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png",
+        "Name": "Grape",
+        "Description": "A sweet cluster of fruit.",
+        "Base Sell Price": "80g",
+        "Iridium Sell Price": "160g",
+        "Season": [
+            "Summer"
+        ],
+        "Source": [
+            "Backwoods",
+            "Mountain",
+            "Bus Stop",
+            "Railroad",
+            "Forest Farm"
+        ],
+        "Energy": "+38",
+        "Health": "+17",
+        "Used In": [
+            "Summer Foraging Bundle",
+            "Summer Seeds",
+            "Jelly",
+            "Raisins",
+            "Wine",
+            "Vincent (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Red_Mushroom.png",
+        "Name": "Red Mushroom",
+        "Description": "A spotted mushroom sometimes found in caves.",
+        "Base Sell Price": "75g",
+        "Iridium Sell Price": "150g",
+        "Season": [
+            "Summer",
+            "Fall",
+            "Any (The Mines)"
+        ],
+        "Source": [
+            "Secret Woods",
+            "Farm Cave",
+            "Forest Farm",
+            "The Mines",
+            "Mushroom Log",
+            "Skull Cavern"
+        ],
+        "Energy": "-50",
+        "Health": "+0",
+        "Used In": [
+            "Exotic Foraging Bundle",
+            "Dye Bundle",
+            "Life Elixir"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png",
+        "Name": "Spice Berry",
+        "Description": "It fills the air with a pungent aroma.",
+        "Base Sell Price": "80g",
+        "Iridium Sell Price": "160g",
+        "Season": [
+            "Summer"
+        ],
+        "Source": [
+            "Cindersap Forest",
+            "Backwoods",
+            "Mountain",
+            "Bus Stop",
+            "Railroad",
+            "Forest Farm",
+            "Farm Cave"
+        ],
+        "Energy": "+25",
+        "Health": "+11",
+        "Used In": [
+            "Summer Foraging Bundle",
+            "Summer Seeds",
+            "Dried Fruit",
+            "Jelly",
+            "Wine"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png",
+        "Name": "Sweet Pea",
+        "Description": "A fragrant summer flower.",
+        "Base Sell Price": "50g",
+        "Iridium Sell Price": "100g",
+        "Season": [
+            "Summer"
+        ],
+        "Source": [
+            "Pelican Town",
+            "Cindersap Forest",
+            "Bus Stop",
+            "Railroad",
+            "Forest Farm"
+        ],
+        "Energy": "+0",
+        "Health": "+0",
+        "Used In": [
+            "Summer Foraging Bundle",
+            "Summer Seeds",
+            "Sandy (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png",
+        "Name": "Blackberry",
+        "Description": "An early-fall treat.",
+        "Base Sell Price": "20g",
+        "Iridium Sell Price": "40g",
+        "Season": [
+            "Fall"
+        ],
+        "Source": [
+            "Pelican Town",
+            "Cindersap Forest",
+            "Railroad",
+            "On bushes during Blackberry Season",
+            "Farm Cave"
+        ],
+        "Energy": "+25",
+        "Health": "+11",
+        "Used In": [
+            "Fall Foraging Bundle",
+            "Fall Seeds",
+            "Blackberry Cobbler",
+            "Dried Fruit",
+            "Jelly",
+            "Wine"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png",
+        "Name": "Chanterelle",
+        "Description": "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+        "Base Sell Price": "160g",
+        "Iridium Sell Price": "320g",
+        "Season": [
+            "Fall"
+        ],
+        "Source": [
+            "Secret Woods",
+            "Forest Farm",
+            "Farm Cave",
+            "Mushroom Log"
+        ],
+        "Energy": "+75",
+        "Health": "+33",
+        "Used In": [
+            "Life Elixir",
+            "Dried Mushrooms",
+            "Pickles"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+        "Name": "Hazelnut",
+        "Description": "That's one big hazelnut!",
+        "Base Sell Price": "90g",
+        "Iridium Sell Price": "180g",
+        "Season": [
+            "Fall"
+        ],
+        "Source": [
+            "Backwoods",
+            "Mountain",
+            "Bus Stop",
+            "Railroad",
+            "Trees"
+        ],
+        "Energy": "+30",
+        "Health": "+13",
+        "Used In": [
+            "Fall Foraging Bundle",
+            "Fall Seeds",
+            "Roasted Hazelnut",
+            "Stuffing",
+            "Juice",
+            "Pickles"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+        "Name": "Purple Mushroom",
+        "Description": "A rare mushroom found deep in caves.",
+        "Base Sell Price": "250g",
+        "Iridium Sell Price": "500g",
+        "Season": [
+            "Fall",
+            "Any (The Mines)"
+        ],
+        "Source": [
+            "Forest Farm",
+            "Farm Cave",
+            "The Mines",
+            "Mushroom Log",
+            "Skull Cavern"
+        ],
+        "Energy": "+125",
+        "Health": "+56",
+        "Used In": [
+            "Exotic Foraging Bundle",
+            "Field Research Bundle",
+            "Life Elixir",
+            "Dried Mushrooms",
+            "Pickles",
+            "Wizard (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3b/Wild_Plum.png",
+        "Name": "Wild Plum",
+        "Description": "Tart and juicy with a pungent aroma.",
+        "Base Sell Price": "80g",
+        "Iridium Sell Price": "160g",
+        "Season": [
+            "Fall"
+        ],
+        "Source": [
+            "Bus Stop",
+            "Railroad",
+            "Backwoods",
+            "Mountain",
+            "Farm Cave"
+        ],
+        "Energy": "+25",
+        "Health": "+11",
+        "Used In": [
+            "Fall Foraging Bundle",
+            "Fall Seeds",
+            "Plum Pudding",
+            "Dried Fruit",
+            "Jelly",
+            "Wine"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png",
+        "Name": "Crocus",
+        "Description": "A flower that can bloom in the winter.",
+        "Base Sell Price": "60g",
+        "Iridium Sell Price": "120g",
+        "Season": [
+            "Winter"
+        ],
+        "Source": [
+            "Pelican Town",
+            "Railroad",
+            "Bus Stop",
+            "Mountain",
+            "Cindersap Forest",
+            "Backwoods"
+        ],
+        "Energy": "+0",
+        "Health": "+0",
+        "Used In": [
+            "Winter Foraging Bundle",
+            "Winter Seeds",
+            "Sandy (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/16/Crystal_Fruit.png",
+        "Name": "Crystal Fruit",
+        "Description": "A delicate fruit that pops up from the snow.",
+        "Base Sell Price": "150g",
+        "Iridium Sell Price": "300g",
+        "Season": [
+            "Winter"
+        ],
+        "Source": [
+            "Railroad",
+            "Cindersap Forest",
+            "Mountain",
+            "Bus Stop",
+            "Backwoods",
+            "Pelican Town"
+        ],
+        "Energy": "+63",
+        "Health": "+28",
+        "Used In": [
+            "Winter Foraging Bundle",
+            "Winter Seeds",
+            "Dried Fruit",
+            "Jelly",
+            "Wine"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png",
+        "Name": "Holly",
+        "Description": "The leaves and bright red berries make a popular winter decoration.",
+        "Base Sell Price": "80g",
+        "Iridium Sell Price": "160g",
+        "Season": [
+            "Winter"
+        ],
+        "Source": [
+            "Secret Woods",
+            "Backwoods",
+            "Pelican Town",
+            "Bus Stop",
+            "Cindersap Forest",
+            "Mountain"
+        ],
+        "Energy": "-37",
+        "Health": "+0",
+        "Used In": [
+            "Winter Foraging Bundle",
+            "Winter Star Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png",
+        "Name": "Snow Yam",
+        "Description": "This little yam was hiding beneath the snow.",
+        "Base Sell Price": "100g",
+        "Iridium Sell Price": "200g",
+        "Season": [
+            "Winter"
+        ],
+        "Source": [
+            "Tilling Soil"
+        ],
+        "Energy": "+30",
+        "Health": "+13",
+        "Used In": [
+            "Winter Foraging Bundle",
+            "Winter Seeds",
+            "Juice",
+            "Pickles"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png",
+        "Name": "Winter Root",
+        "Description": "A starchy tuber.",
+        "Base Sell Price": "70g",
+        "Iridium Sell Price": "140g",
+        "Season": [
+            "Winter"
+        ],
+        "Source": [
+            "Tilling Soil"
+        ],
+        "Energy": "+25",
+        "Health": "+11",
+        "Used In": [
+            "Winter Foraging Bundle",
+            "Winter Seeds",
+            "Roots Platter",
+            "Juice",
+            "Pickles"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png",
+        "Name": "Clam",
+        "Description": "There's a chewy little guy in there...",
+        "Base Sell Price": "50g",
+        "Iridium Sell Price": "100g",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "The Beach"
+        ],
+        "Energy": "N/A",
+        "Health": "N/A",
+        "Used In": [
+            "Chowder",
+            "Crab Pot Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Cockle.png",
+        "Name": "Cockle",
+        "Description": "A common saltwater clam.",
+        "Base Sell Price": "50g",
+        "Iridium Sell Price": "100g",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "The Beach"
+        ],
+        "Energy": "N/A",
+        "Health": "N/A",
+        "Used In": [
+            "Crab Pot Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png",
+        "Name": "Coral",
+        "Description": "A colony of tiny creatures that clump together to form beautiful structures.",
+        "Base Sell Price": "80g",
+        "Iridium Sell Price": "160g",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "The Beach"
+        ],
+        "Energy": "N/A",
+        "Health": "N/A",
+        "Used In": [
+            "Warp Totem: Beach"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Mussel.png",
+        "Name": "Mussel",
+        "Description": "A common bivalve that often lives in clusters.",
+        "Base Sell Price": "30g",
+        "Iridium Sell Price": "60g",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "The Beach"
+        ],
+        "Energy": "N/A",
+        "Health": "N/A",
+        "Used In": [
+            "Fish Stew",
+            "Crab Pot Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/a4/Nautilus_Shell.png",
+        "Name": "Nautilus Shell",
+        "Description": "An ancient shell.",
+        "Base Sell Price": "120g",
+        "Iridium Sell Price": "240g",
+        "Season": [
+            "Winter"
+        ],
+        "Source": [
+            "The Beach"
+        ],
+        "Energy": "N/A",
+        "Health": "N/A",
+        "Used In": [
+            "Field Research Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/54/Oyster.png",
+        "Name": "Oyster",
+        "Description": "Constantly filters water to find food. In the process, it removes dangerous toxins from the environment.",
+        "Base Sell Price": "40g",
+        "Iridium Sell Price": "80g",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "The Beach"
+        ],
+        "Energy": "N/A",
+        "Health": "N/A",
+        "Used In": [
+            "Crab Pot Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Rainbow_Shell.png",
+        "Name": "Rainbow Shell",
+        "Description": "It's a very beautiful shell.",
+        "Base Sell Price": "300g",
+        "Iridium Sell Price": "600g",
+        "Season": [
+            "Summer"
+        ],
+        "Source": [
+            "The Beach"
+        ],
+        "Energy": "N/A",
+        "Health": "N/A",
+        "Used In": [
+            "'The Mysterious Qi' Quest"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e7/Sea_Urchin.png",
+        "Name": "Sea Urchin",
+        "Description": "A slow-moving, spiny creature that some consider a delicacy.",
+        "Base Sell Price": "160g",
+        "Iridium Sell Price": "320g",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "The Beach"
+        ],
+        "Energy": "N/A",
+        "Health": "N/A",
+        "Used In": [
+            "Dye Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/13/Seaweed.png",
+        "Name": "Seaweed",
+        "Description": "It can be used in cooking.",
+        "Base Sell Price": "20g",
+        "Iridium Sell Price": "40g",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "The Beach"
+        ],
+        "Energy": "N/A",
+        "Health": "N/A",
+        "Used In": [
+            "Maki Roll",
+            "Fish Pond"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/34/Cave_Carrot.png",
+        "Name": "Cave Carrot",
+        "Description": "A starchy snack found in caves. It helps miners work longer.",
+        "Base Sell Price": "25g",
+        "Iridium Sell Price": "N/A",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "The Mines"
+        ],
+        "Energy": "+30",
+        "Health": "+13",
+        "Used In": [
+            "Exotic Foraging Bundle",
+            "Survival Burger",
+            "Miner's Treat",
+            "Roots Platter",
+            "Stir Fry",
+            "Juice",
+            "Pickles"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png",
+        "Name": "Cactus Fruit",
+        "Description": "The sweet fruit of the prickly pear cactus.",
+        "Base Sell Price": "75g",
+        "Iridium Sell Price": "150g",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "The Desert"
+        ],
+        "Energy": "+75",
+        "Health": "+33",
+        "Used In": [
+            "Exotic Foraging Bundle",
+            "Dried Fruit",
+            "Jelly",
+            "Wine",
+            "Linus (loved gift)",
+            "Pam (loved gift)",
+            "Sam (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png",
+        "Name": "Coconut",
+        "Description": "A seed of the coconut palm. It has many culinary uses.",
+        "Base Sell Price": "100g",
+        "Iridium Sell Price": "200g",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "The Desert"
+        ],
+        "Energy": "N/A",
+        "Health": "N/A",
+        "Used In": [
+            "Exotic Foraging Bundle",
+            "Tom Kha Soup",
+            "Dried Fruit",
+            "Jelly",
+            "Wine",
+            "Haley (loved gift)",
+            "Linus (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png",
+        "Name": "Ginger",
+        "Description": "This sharp, spicy root is said to increase vitality.",
+        "Base Sell Price": "60g",
+        "Iridium Sell Price": "N/A",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "Ginger Island"
+        ],
+        "Energy": "+25",
+        "Health": "+11",
+        "Used In": [
+            "Juice",
+            "Pickles",
+            "Ginger Ale",
+            "Cures Nauseated"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/77/Magma_Cap.png",
+        "Name": "Magma Cap",
+        "Description": "A very rare mushroom that lives next to pools of lava.",
+        "Base Sell Price": "400g",
+        "Iridium Sell Price": "800g",
+        "Season": [
+            "All Seasons"
+        ],
+        "Source": [
+            "Volcano Dungeon"
+        ],
+        "Energy": "+175",
+        "Health": "+78",
+        "Used In": [
+            "Dried Mushrooms",
+            "Pickles"
+        ]
+    }
+]

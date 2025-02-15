@@ -1,0 +1,1584 @@
+[
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/ba/Pufferfish.png",
+        "Name": "Pufferfish",
+        "Description": "Inflates when threatened.",
+        "Base Sell Price": "200g",
+        "Location": [
+            "Ocean",
+            "Ginger Island Oceans"
+        ],
+        "Time": [
+            "12pm - 4pm"
+        ],
+        "Season": [
+            "Summer",
+            "All Seasons on Ginger Island"
+        ],
+        "Weather": [
+            "Sun"
+        ],
+        "Size": "1-37in",
+        "Used In": [
+            "Specialty Fish Bundle",
+            "Abigail (loved gift)",
+            "'Aquatic Research' Quest"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/79/Anchovy.png",
+        "Name": "Anchovy",
+        "Description": "A small silver fish found in the ocean.",
+        "Base Sell Price": "30g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "Spring",
+            "Fall"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "1-17in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Tuna.png",
+        "Name": "Tuna",
+        "Description": "A large fish that lives in the ocean.",
+        "Base Sell Price": "100g",
+        "Location": [
+            "Ocean",
+            "Ginger Island Oceans"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "Summer",
+            "Winter",
+            "All Seasons on Ginger Island"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "12-61in",
+        "Used In": [
+            "Ocean Fish Bundle",
+            "Quality Fish Bundle",
+            "Fish Taco"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/04/Sardine.png",
+        "Name": "Sardine",
+        "Description": "A common ocean fish.",
+        "Base Sell Price": "40g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "Spring",
+            "Fall",
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "1-13in",
+        "Used In": [
+            "Ocean Fish Bundle",
+            "Dish O' The Sea"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/82/Bream.png",
+        "Name": "Bream",
+        "Description": "A fairly common river fish that becomes active at night.",
+        "Base Sell Price": "45g",
+        "Location": [
+            "River (Town+Forest)"
+        ],
+        "Time": [
+            "6pm - 2am"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "12-31in",
+        "Used In": [
+            "Night Fishing Bundle",
+            "Baked Fish"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/11/Largemouth_Bass.png",
+        "Name": "Largemouth Bass",
+        "Description": "A popular fish that lives in lakes.",
+        "Base Sell Price": "100g",
+        "Location": [
+            "The Mountain",
+            "Lake"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "11-31in",
+        "Used In": [
+            "Lake Fish Bundle",
+            "Quality Fish Bundle",
+            "Crispy Bass",
+             "'Fish Casserole' Quest"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Smallmouth_Bass.png",
+        "Name": "Smallmouth Bass",
+        "Description": "A freshwater fish that is very sensitive to pollution.",
+        "Base Sell Price": "50g",
+        "Location": [
+            "River (Town)",
+            "Forest Pond"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "Spring",
+            "Fall"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "12-25in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/14/Rainbow_Trout.png",
+        "Name": "Rainbow Trout",
+        "Description": "A freshwater trout with colorful markings.",
+        "Base Sell Price": "65g",
+        "Location": [
+            "River (Town+Forest)",
+            "The Mountain",
+            "Lake"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "Summer"
+        ],
+        "Weather": [
+            "Sun"
+        ],
+        "Size": "10-26in",
+        "Used In": [
+            "Trout Soup"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e0/Salmon.png",
+        "Name": "Salmon",
+        "Description": "Swims upstream to lay its eggs.",
+        "Base Sell Price": "75g",
+        "Location": [
+            "River (Town+Forest)",
+            "Forest Waterfalls"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "Fall"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "24-66in",
+        "Used In": [
+            "Salmon Dinner"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/05/Walleye.png",
+        "Name": "Walleye",
+        "Description": "A freshwater fish caught at night.",
+        "Base Sell Price": "105g",
+        "Location": [
+            "River (Town+Forest)",
+            "Forest Pond",
+            "The Mountain",
+            "Lake"
+        ],
+        "Time": [
+            "12pm - 2am"
+        ],
+        "Season": [
+            "Fall",
+            "Winter (with Rain Totem)"
+        ],
+        "Weather": [
+            "Rain"
+        ],
+        "Size": "10-41in",
+        "Used In": [
+            "Night Fishing Bundle",
+            "Quality Fish Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/43/Perch.png",
+        "Name": "Perch",
+        "Description": "A freshwater fish of the winter.",
+        "Base Sell Price": "55g",
+        "Location": [
+            "River (Town+Forest)",
+            "Forest Pond",
+            "The Mountain",
+            "Lake"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "10-25in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Carp.png",
+        "Name": "Carp",
+        "Description": "A common pond fish.",
+        "Base Sell Price": "30g",
+        "Location": [
+            "The Mountain",
+            "Lake",
+            "Secret Woods",
+            "Pond",
+            "The Sewers"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "15-51in",
+        "Used In": [
+            "Lake Fish Bundle",
+            "Carp Surprise"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/99/Catfish.png",
+        "Name": "Catfish",
+        "Description": "An uncommon fish found in streams.",
+        "Base Sell Price": "200g",
+        "Location": [
+            "River (Town+Forest)",
+            "Secret Woods",
+            "Pond",
+            "Witch's Swamp"
+        ],
+        "Time": [
+            "6am - 12am"
+        ],
+        "Season": [
+            "Spring",
+            "Fall",
+            "Spring & Summer (Secret Woods Pond)",
+            "Winter (with Rain Totem)"
+        ],
+        "Weather": [
+            "Rain"
+        ],
+        "Size": "12-73in",
+        "Used In": [
+            "River Fish Bundle",
+            "Willy (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/31/Pike.png",
+        "Name": "Pike",
+        "Description": "A freshwater fish that's difficult to catch.",
+        "Base Sell Price": "100g",
+        "Location": [
+            "River (Town+Forest)",
+            "Forest Pond"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "Summer",
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "15-61in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/56/Sunfish.png",
+        "Name": "Sunfish",
+        "Description": "A common river fish.",
+        "Base Sell Price": "30g",
+        "Location": [
+            "River (Town+Forest)"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "Spring",
+            "Summer"
+        ],
+        "Weather": [
+            "Sun",
+            "Wind"
+        ],
+        "Size": "5-16in",
+        "Used In": [
+            "River Fish Bundle",
+            "Baked Fish"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Red_Mullet.png",
+        "Name": "Red Mullet",
+        "Description": "Long ago these were kept as pets.",
+        "Base Sell Price": "75g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "Summer",
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "8-23in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Herring.png",
+        "Name": "Herring",
+        "Description": "A common ocean fish.",
+        "Base Sell Price": "30g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "Spring",
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "8-21in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/91/Eel.png",
+        "Name": "Eel",
+        "Description": "A long, slippery little fish.",
+        "Base Sell Price": "85g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "4pm - 2am"
+        ],
+        "Season": [
+            "Spring",
+            "Fall"
+        ],
+        "Weather": [
+            "Rain"
+        ],
+        "Size": "12-81in",
+        "Used In": [
+            "Night Fishing Bundle",
+            "Fried Eel",
+            "Spicy Eel"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png",
+        "Name": "Octopus",
+        "Description": "A mysterious and intelligent creature.",
+        "Base Sell Price": "150g",
+        "Location": [
+            "Ocean, Ginger Island oceans"
+        ],
+        "Time": [
+            "6am - 1pm"
+        ],
+        "Season": [
+            "Summer",
+            "All Seasons on Ginger Island"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "12-49in",
+        "Used In": [
+            "Master Fisher's Bundle",
+            "Willy (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d3/Red_Snapper.png",
+        "Name": "Red Snapper",
+        "Description": "A popular fish with a nice red color.",
+        "Base Sell Price": "50g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "Summer",
+            "Fall",
+            "Winter (with Rain Totem)"
+        ],
+        "Weather": [
+            "Rain"
+        ],
+        "Size": "8-26in",
+        "Used In": [
+            "Ocean Fish Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/81/Squid.png",
+        "Name": "Squid",
+        "Description": "A deep sea creature that can grow to enormous size.",
+        "Base Sell Price": "80g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "6pm - 2am"
+        ],
+        "Season": [
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "12-49in",
+        "Used In": [
+            "Fried Calamari",
+            "'Catch a Squid' Quest"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png",
+        "Name": "Sea Cucumber",
+        "Description": "A slippery, slimy creature found on the ocean floor.",
+        "Base Sell Price": "75g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "Fall",
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "3-21in",
+        "Used In": [
+            "Lucky Lunch",
+            "Willy (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Super_Cucumber.png",
+        "Name": "Super Cucumber",
+        "Description": "A rare, purple variety of sea cucumber.",
+        "Base Sell Price": "250g",
+        "Location": [
+            "Ocean, Ginger Island oceans"
+        ],
+        "Time": [
+            "6pm - 2am"
+        ],
+        "Season": [
+            "Summer",
+            "Fall",
+            "All Seasons on Ginger Island"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "12-37in",
+        "Used In": [
+            "Wizard (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/72/Ghostfish.png",
+        "Name": "Ghostfish",
+        "Description": "A pale, blind fish found in underground lakes.",
+        "Base Sell Price": "45g",
+        "Location": [
+            "The Mines",
+            "Ghost drops"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "10-36in",
+        "Used In": [
+            "Specialty Fish Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/03/Stonefish.png",
+        "Name": "Stonefish",
+        "Description": "A bizarre fish that's shaped like a brick.",
+        "Base Sell Price": "300g",
+        "Location": [
+            "The Mines"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "14-16in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/63/Ice_Pip.png",
+        "Name": "Ice Pip",
+        "Description": "A rare fish that thrives in extremely cold conditions.",
+        "Base Sell Price": "500g",
+        "Location": [
+            "The Mines"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "7-9in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/12/Lava_Eel.png",
+        "Name": "Lava Eel",
+        "Description": "It can somehow survive in pools of red-hot lava.",
+        "Base Sell Price": "700g",
+        "Location": [
+            "The Mines",
+            "Volcano Caldera"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "31-33in",
+        "Used In": [
+            "Master Fisher's Bundle",
+            "Dwarf (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Sandfish.png",
+        "Name": "Sandfish",
+        "Description": "It tries to hide using camouflage.",
+        "Base Sell Price": "75g",
+        "Location": [
+            "The Desert"
+        ],
+        "Time": [
+            "6am - 8pm"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "8-25in",
+        "Used In": [
+            "Specialty Fish Bundle",
+            "Penny (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/76/Scorpion_Carp.png",
+        "Name": "Scorpion Carp",
+        "Description": "It's like a regular carp but with a sharp stinger.",
+        "Base Sell Price": "150g",
+        "Location": [
+            "The Desert"
+        ],
+        "Time": [
+            "6am - 8pm"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "12-33in",
+        "Used In": [
+            "Master Fisher's Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/85/Flounder.png",
+        "Name": "Flounder",
+        "Description": "It lives on the bottom, so both eyes are on top of its head.",
+        "Base Sell Price": "100g",
+        "Location": [
+            "Ocean, Ginger Island oceans"
+        ],
+        "Time": [
+            "6am - 8pm"
+        ],
+        "Season": [
+            "Spring",
+            "Summer",
+            "All Seasons on Ginger Island"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "4-17in",
+        "Used In": [
+            "Seafoam Pudding"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/33/Midnight_Carp.png",
+        "Name": "Midnight Carp",
+        "Description": "This shy fish only feels comfortable at night.",
+        "Base Sell Price": "150g",
+        "Location": [
+            "Mountain Lake",
+            "Cindersap Forest Pond",
+            "Ginger Island (Pond+River"
+        ],
+        "Time": [
+            "10pm - 2am"
+        ],
+        "Season": [
+            "Fall",
+            "Winter",
+            "All Seasons on Ginger Island"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "12-53in",
+        "Used In": [
+            "Seafoam Pudding"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/42/Sturgeon.png",
+        "Name": "Sturgeon",
+        "Description": "An ancient bottom-feeder with a dwindling population. Females can live up to 150 years.",
+        "Base Sell Price": "200g",
+        "Location": [
+            "Mountain Lake"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "Summer",
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "12-61in",
+        "Used In": [
+            "Lake Fish Bundle",
+            "Willy (loved gift)"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/01/Tiger_Trout.png",
+        "Name": "Tiger Trout",
+        "Description": "A rare hybrid trout that cannot bear offspring of its own.",
+        "Base Sell Price": "150g",
+        "Location": [
+            "River (Town+Forest)"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "Fall",
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "10-21in",
+        "Used In": [
+            "River Fish Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/db/Bullhead.png",
+        "Name": "Bullhead",
+        "Description": "A relative of the catfish that eats a variety of foods off the lake bottom.",
+        "Base Sell Price": "75g",
+        "Location": [
+            "Mountain Lake"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "12-31in",
+        "Used In": [
+            "Lake Fish Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/73/Tilapia.png",
+        "Name": "Tilapia",
+        "Description": "A primarily vegetarian fish that prefers warm water.",
+        "Base Sell Price": "75g",
+        "Location": [
+            "Ocean",
+            "Ginger Island Rivers"
+        ],
+        "Time": [
+            "6am - 2pm"
+        ],
+        "Season": [
+            "Summer",
+            "Fall",
+            "All Seasons on Ginger Island"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "11-31in",
+        "Used In": [
+            "Ocean Fish Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Chub.png",
+        "Name": "Chub",
+        "Description": "A common freshwater fish known for its voracious appetite.",
+        "Base Sell Price": "50g",
+        "Location": [
+            "Cindersap Forest River,Mountain Lake"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "12-25in",
+        "Used In": [
+            "Field Research Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/18/Dorado.png",
+        "Name": "Dorado",
+        "Description": "A fierce carnivore with brilliant orange scales.",
+        "Base Sell Price": "100g",
+        "Location": [
+            "Cindersap Forest",
+            "River"
+        ],
+        "Time": [
+            "6am - 7pm"
+        ],
+        "Season": [
+            "Summer"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "24-33in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Albacore.png",
+        "Name": "Albacore",
+        "Description": "Prefers temperature \"edges\" where cool and warm water meet.",
+        "Base Sell Price": "75g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "6am - 11am",
+            "6pm - 2am"
+        ],
+        "Season": [
+            "Fall",
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "20-41in",
+        "Used In": [
+            "'Fish Stew' Quest"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/ef/Shad.png",
+        "Name": "Shad",
+        "Description": "Lives in a school at sea, but returns to the rivers to spawn.",
+        "Base Sell Price": "60g",
+        "Location": [
+            "River (Town+Forest)"
+        ],
+        "Time": [
+            "9am - 2am"
+        ],
+        "Season": [
+            "Spring",
+            "Summer",
+            "Fall"
+        ],
+        "Weather": [
+            "Rain"
+        ],
+        "Size": "20-49in",
+        "Used In": [
+            "River Fish Bundle",
+            "Quality Fish Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/87/Lingcod.png",
+        "Name": "Lingcod",
+        "Description": "A fearsome predator that will eat almost anything it can cram into its mouth.",
+        "Base Sell Price": "120g",
+        "Location": [
+            "River (Town+Forest)",
+            "Mountain Lake"
+        ],
+        "Time": [
+            "Any time"
+        ],
+        "Season": [
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "30-51in",
+        "Used In": [
+            "'Catch a Lingcod' Quest"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/02/Halibut.png",
+        "Name": "Halibut",
+        "Description": "A flat fish that lives on the ocean floor.",
+        "Base Sell Price": "80g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "6am - 11am",
+            "7pm - 2am"
+        ],
+        "Season": [
+            "Spring",
+            "Summer",
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "10-34in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/97/Woodskip.png",
+        "Name": "Woodskip",
+        "Description": "A very sensitive fish that can only live in pools deep in the forest.",
+        "Base Sell Price": "75g",
+        "Location": [
+            "Secret Woods",
+            "Pond",
+            "Forest Farm"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "11-31in",
+        "Used In": [
+            "Specialty Fish Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Void_Salmon.png",
+        "Name": "Void Salmon",
+        "Description": "A salmon, twisted by void energy. The fresh meat is jet black, but rapidly turns pink when exposed to air.",
+        "Base Sell Price": "150g",
+        "Location": [
+            "Witch's Swamp"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "24-66in",
+        "Used In": [
+            "The Missing Bundle"
+        ]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/34/Slimejack.png",
+        "Name": "Slimejack",
+        "Description": "He's coated in a very thick layer of slime. He keeps slipping out of your hands!",
+        "Base Sell Price": "100g",
+        "Location": [
+            "Mutant Bug Lair"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "8-26in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3a/Stingray.png",
+        "Name": "Stingray",
+        "Description": "Despite having a toxic stinger, these fish are shy and prefer to avoid humans.",
+        "Base Sell Price": "180g",
+        "Location": [
+            "Pirate Cove (Ginger Island)"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "18-61in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Lionfish.png",
+        "Name": "Lionfish",
+        "Description": "An aggressive, predatory fish with venomous spines.",
+        "Base Sell Price": "100g",
+        "Location": [
+            "Ginger Island Ocean"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "3-13in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/ee/Blue_Discus.png",
+        "Name": "Blue Discus",
+        "Description": "A brightly colored tropical fish that is popular in aquariums.",
+        "Base Sell Price": "120g",
+        "Location": [
+            "Ginger Island (Pond+Rivers"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "2-10in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/67/Goby.png",
+        "Name": "Goby",
+        "Description": "Some types of Gobies can climb up waterfalls.",
+        "Base Sell Price": "150g",
+        "Location": [
+            "Forest Waterfalls"
+        ],
+        "Time": [
+            "Anytime"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "3-13in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/83/Midnight_Squid.png",
+        "Name": "Midnight Squid",
+        "Description": "A strange and mysterious denizen of the ocean's twilight depths.",
+        "Base Sell Price": "100g",
+        "Location": [
+            "Night Market"
+        ],
+        "Time": [
+            "5pm - 2am",
+            "Any (Magic Bait)"
+        ],
+        "Season": [
+            "Winter",
+            "Any (Magic Bait)"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "8-26in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/8c/Spook_Fish.png",
+        "Name": "Spook Fish",
+        "Description": "The huge eyes can detect the faint silhouettes of prey.",
+        "Base Sell Price": "220g",
+        "Location": [
+            "Night Market"
+        ],
+        "Time": [
+            "5pm - 2am",
+            "Any (Magic Bait)"
+        ],
+        "Season": [
+            "Winter",
+            "Any (Magic Bait)"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "8-26in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/7f/Blobfish.png",
+        "Name": "Blobfish",
+        "Description": "This odd creature floats above the ocean floor, consuming any edible material in its path.",
+        "Base Sell Price": "500g",
+        "Location": [
+            "Night Market"
+        ],
+        "Time": [
+            "5pm - 2am",
+            "Any (Magic Bait)"
+        ],
+        "Season": [
+            "Winter",
+            "Any (Magic Bait)"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "8-26in",
+        "Used In": ["Master Fisher's Bundle"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/dc/Crimsonfish.png",
+        "Name": "Crimsonfish",
+        "Description": "Lives deep in the ocean but likes to lay its eggs in the warm summer water.",
+        "Base Sell Price": "1500g",
+        "Location": [
+            "The Beach"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "Summer"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "19-21in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/bf/Angler.png",
+        "Name": "Angler",
+        "Description": "Uses a bioluminescent dangler to attract prey.",
+        "Base Sell Price": "900g",
+        "Location": [
+            "JojaMart"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "Fall"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "17-19in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/10/Legend.png",
+        "Name": "Legend",
+        "Description": "The king of all fish! They said he'd never be caught.",
+        "Base Sell Price": "5000g",
+        "Location": [
+            "The Mountain Lake"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "Spring"
+        ],
+        "Weather": [
+            "Rain"
+        ],
+        "Size": "49-51in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/f/fd/Glacierfish.png",
+        "Name": "Glacierfish",
+        "Description": "Builds a nest on the underside of glaciers.",
+        "Base Sell Price": "1000g",
+        "Location": [
+            "Cindersap Forest"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "Winter"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "26-28in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/c/cb/Mutant_Carp.png",
+        "Name": "Mutant Carp",
+        "Description": "The strange waters of the sewer turned this carp into a monstrosity.",
+        "Base Sell Price": "1000g",
+        "Location": [
+            "The Sewers"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "35-37in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/12/Son_of_Crimsonfish.png",
+        "Name": "Son of Crimsonfish",
+        "Description": "He hatched in the warm summer water, and followed in the footsteps of his father.",
+        "Base Sell Price": "1500g",
+        "Location": [
+            "The Beach"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "19-21in",
+        "Used In": ["'Extended Family' Quest"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Ms._Angler.png",
+        "Name": "Ms. Angler",
+        "Description": "Uses a bioluminescent dangler to attract prey.",
+        "Base Sell Price": "900g",
+        "Location": [
+            "JojaMart"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "17-19in",
+        "Used In": ["'Extended Family' Quest"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Legend_II.png",
+        "Name": "Legend II",
+        "Description": "The successor to the original Legend.",
+        "Base Sell Price": "5000g",
+        "Location": [
+            "The Mountain Lake"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "49-51in",
+        "Used In": ["'Extended Family' Quest"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/db/Glacierfish_Jr..png",
+        "Name": "Glacierfish Jr.",
+        "Description": "The original Glacierfish had a son...",
+        "Base Sell Price": "1000g",
+        "Location": [
+            "Cindersap Forest"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "26-28in",
+        "Used In": ["'Extended Family' Quest"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/57/Radioactive_Carp.png",
+        "Name": "Radioactive Carp",
+        "Description": "A carp that spent one too many years in toxic sludge.",
+        "Base Sell Price": "1000g",
+        "Location": [
+            "The Sewers"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "26-28in",
+        "Used In": ["'Extended Family' Quest"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Lobster.png",
+        "Name": "Lobster",
+        "Description": "A large ocean-dwelling crustacean with a strong tail.",
+        "Base Sell Price": "120g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "2-20in",
+        "Used In": ["Lobster Bisque",  "'Wanted Lobster' Quest", "Elliott (loved gift)"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png",
+        "Name": "Clam",
+        "Description": "There's a chewy little guy in there...",
+        "Base Sell Price": "50g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "1-5in",
+        "Used In": ["Chowder"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/53/Crayfish.png",
+        "Name": "Crayfish",
+        "Description": "A small freshwater relative of the lobster.",
+        "Base Sell Price": "75g",
+        "Location": [
+            "Freshwater"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "1-8in",
+        "Used In": ["Fish Stew"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/63/Crab.png",
+        "Name": "Crab",
+        "Description": "A marine crustacean with two powerful pincers.",
+        "Base Sell Price": "100g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "1-20in",
+        "Used In": ["Crab Cakes"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Cockle.png",
+        "Name": "Cockle",
+        "Description": "A common saltwater clam.",
+        "Base Sell Price": "50g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "1-5in",
+        "Used In": ["None"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Mussel.png",
+        "Name": "Mussel",
+        "Description": "A common bivalve that often lives in clusters.",
+        "Base Sell Price": "30g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "1-5in",
+        "Used In": ["Fish Stew"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/91/Shrimp.png",
+        "Name": "Shrimp",
+        "Description": "A scavenger that feeds off the ocean floor. Widely prized for its meat.",
+        "Base Sell Price": "60g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "1-3in",
+        "Used In": ["Tom Kha Soup", "Shrimp Cocktail"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png",
+        "Name": "Snail",
+        "Description": "A wide-ranging mollusc that lives in a spiral shell.",
+        "Base Sell Price": "65g",
+        "Location": [
+            "Freshwater"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "1-5in",
+        "Used In": ["Escargot", "Vincent (loved gift)"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Periwinkle.png",
+        "Name": "Periwinkle",
+        "Description": "A tiny freshwater snail that lives in a blue shell.",
+        "Base Sell Price": "20g",
+        "Location": [
+            "Freshwater"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "1-3in",
+        "Used In": ["Strange Bun", "Fish Stew"]
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/54/Oyster.png",
+        "Name": "Oyster",
+        "Description": "Constantly filters water to find food. In the process, it removes dangerous toxins from the environment.",
+        "Base Sell Price": "40g",
+        "Location": [
+            "Ocean"
+        ],
+        "Time": [
+            "Any"
+        ],
+        "Season": [
+            "All Seasons"
+        ],
+        "Weather": [
+            "Any"
+        ],
+        "Size": "1-5in",
+        "Used In": ["None"]
+    }
+]

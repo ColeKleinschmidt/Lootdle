@@ -1,0 +1,1607 @@
+[
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/18/Fried_Egg.png",
+        "Name": "Fried Egg",
+        "Description": "Sunny-side up.",
+        "Ingredients": [
+            "Egg"
+        ],
+        "Energy": "50",
+        "Health": "22",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": ["Starter"],
+        "Sell Price": "35g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png",
+        "Name": "Omelet",
+        "Description": "It's super fluffy.",
+        "Ingredients": [
+            "Egg",
+            "Milk"
+        ],
+        "Energy": "100",
+        "Health": "45",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce",
+            "Stardrop Saloon"
+        ],
+        "Sell Price": "125g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png",
+        "Name": "Salad",
+        "Description": "A healthy garden salad.",
+        "Ingredients": [
+            "Leek",
+            "Dandelion",
+            "Vinegar"
+        ],
+        "Energy": "113",
+        "Health": "50",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Emily"
+        ],
+        "Sell Price": "110g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cheese_Cauliflower.png",
+        "Name": "Cheese Cauliflower",
+        "Description": "It smells great!",
+        "Ingredients": [
+            "Cauliflower",
+            "Cheese"
+        ],
+        "Energy": "138",
+        "Health": "62",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Pam"
+        ],
+        "Sell Price": "300g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/94/Baked_Fish.png",
+        "Name": "Baked Fish",
+        "Description": "Baked fish on a bed of herbs.",
+        "Ingredients": [
+            "Sunfish",
+            "Bream",
+            "Wheat Flour"
+        ],
+        "Energy": "75",
+        "Health": "33",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "100g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/76/Parsnip_Soup.png",
+        "Name": "Parsnip Soup",
+        "Description": "It's fresh and hearty.",
+        "Ingredients": [
+            "Parsnip",
+            "Milk",
+            "Vinegar"
+        ],
+        "Energy": "85",
+        "Health": "38",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Caroline"
+        ],
+        "Sell Price": "120g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/0a/Vegetable_Medley.png",
+        "Name": "Vegetable Medley",
+        "Description": "This is very nutritious.",
+        "Ingredients": [
+            "Tomato",
+            "Beet"
+        ],
+        "Energy": "165",
+        "Health": "74",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Caroline"
+        ],
+        "Sell Price": "120g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png",
+        "Name": "Complete Breakfast",
+        "Description": "You'll feel ready to take on the world!",
+        "Ingredients": [
+            "Fried Egg",
+            "Milk",
+            "Hashbrowns",
+            "Pancakes"
+        ],
+        "Energy": "200",
+        "Health": "90",
+        "Buffs": [
+            "Farming",
+            "Max Energy"
+        ],
+        "Buff Duration": "7m",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "350g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/25/Fried_Calamari.png",
+        "Name": "Fried Calamari",
+        "Description": "It's so chewy.",
+        "Ingredients": [
+            "Squid",
+            "Wheat Flour",
+            "Oil"
+        ],
+        "Energy": "80",
+        "Health": "36",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Jodi"
+        ],
+        "Sell Price": "150g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/5e/Strange_Bun.png",
+        "Name": "Strange Bun",
+        "Description": "What's inside?",
+        "Ingredients": [
+            "Wheat Flour",
+            "Periwinkle",
+            "Void Mayonnaise"
+        ],
+        "Energy": "100",
+        "Health": "45",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Shane"
+        ],
+        "Sell Price": "225g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Lucky_Lunch.png",
+        "Name": "Lucky Lunch",
+        "Description": "A special little meal.",
+        "Ingredients": [
+            "Sea Cucumber",
+            "Tortilla",
+            "Blue Jazz"
+        ],
+        "Energy": "100",
+        "Health": "45",
+        "Buffs": [
+            "Luck"
+        ],
+        "Buff Duration": "11m 11s",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "250g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/4a/Fried_Mushroom.png",
+        "Name": "Fried Mushroom",
+        "Description": "Earthy and aromatic.",
+        "Ingredients": [
+            "Common Mushroom",
+            "Morel",
+            "Oil"
+        ],
+        "Energy": "135",
+        "Health": "60",
+        "Buffs": [
+            "Attack"
+        ],
+        "Buff Duration": "7m",
+        "Recipe Source": [
+            "Demetrius"
+        ],
+        "Sell Price": "200g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png",
+        "Name": "Pizza",
+        "Description": "It's popular for all the right reasons.",
+        "Ingredients": [
+            "Wheat Flour",
+            "Tomato",
+            "Cheese"
+        ],
+        "Energy": "150",
+        "Health": "67",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce",
+            "Stardrop Saloon"
+        ],
+        "Sell Price": "300g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/24/Bean_Hotpot.png",
+        "Name": "Bean Hotpot",
+        "Description": "It sure is healthy.",
+        "Ingredients": [
+            "Green Bean"
+        ],
+        "Energy": "125",
+        "Health": "56",
+        "Buffs": [
+            "Max Energy",
+            "Magnetism"
+        ],
+        "Buff Duration": "7m",
+        "Recipe Source": [
+            "Clint"
+        ],
+        "Sell Price": "100g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png",
+        "Name": "Glazed Yams",
+        "Description": "Sweet and satisfying... The sugar gives it a hint of caramel.",
+        "Ingredients": [
+            "Yam",
+            "Sugar"
+        ],
+        "Energy": "200",
+        "Health": "90",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "200g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/c/cc/Carp_Surprise.png",
+        "Name": "Carp Surprise",
+        "Description": "It's bland and oily.",
+        "Ingredients": [
+            "Carp"
+        ],
+        "Energy": "90",
+        "Health": "40",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "150g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Hashbrowns.png",
+        "Name": "Hashbrowns",
+        "Description": "Crispy and golden-brown!",
+        "Ingredients": [
+            "Potato",
+            "Oil"
+        ],
+        "Energy": "90",
+        "Health": "40",
+        "Buffs": [
+            "Farming"
+        ],
+        "Buff Duration": "5m 35s",
+        "Recipe Source": [
+            "The Queen of Sauce",
+            "Stardrop Saloon"
+        ],
+        "Sell Price": "120g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Pancakes.png",
+        "Name": "Pancakes",
+        "Description": "A double stack of fluffy, soft pancakes.",
+        "Ingredients": [
+            "Wheat Flour",
+            "Egg"
+        ],
+        "Energy": "90",
+        "Health": "40",
+        "Buffs": [
+            "Foraging"
+        ],
+        "Buff Duration": "11m 11s",
+        "Recipe Source": [
+            "The Queen of Sauce",
+            "Stardrop Saloon"
+        ],
+        "Sell Price": "80g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png",
+        "Name": "Salmon Dinner",
+        "Description": "The lemon spritz makes it special.",
+        "Ingredients": [
+            "Salmon",
+            "Amaranth",
+            "Kale"
+        ],
+        "Energy": "125",
+        "Health": "56",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Gus"
+        ],
+        "Sell Price": "300g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png",
+        "Name": "Fish Taco",
+        "Description": "It smells delicious.",
+        "Ingredients": [
+            "Tuna",
+            "Tortilla",
+            "Red Cabbage",
+            "Mayonnaise"
+        ],
+        "Energy": "165",
+        "Health": "74",
+        "Buffs": [
+            "Fishing"
+        ],
+        "Buff Duration": "7m",
+        "Recipe Source": [
+            "Linus"
+        ],
+        "Sell Price": "500g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/53/Crispy_Bass.png",
+        "Name": "Crispy Bass",
+        "Description": "Wow, the breading is perfect.",
+        "Ingredients": [
+            "Largemouth Bass",
+            "Wheat Flour",
+            "Oil"
+        ],
+        "Energy": "90",
+        "Health": "40",
+        "Buffs": [
+            "Magnetism"
+        ],
+        "Buff Duration": "7m",
+        "Recipe Source": [
+            "Kent"
+        ],
+        "Sell Price": "150g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/08/Pepper_Poppers.png",
+        "Name": "Pepper Poppers",
+        "Description": "Spicy breaded peppers filled with cheese.",
+        "Ingredients": [
+            "Hot Pepper",
+            "Cheese"
+        ],
+        "Energy": "130",
+        "Health": "58",
+        "Buffs": [
+            "Farming",
+            "Speed"
+        ],
+        "Buff Duration": "7m",
+        "Recipe Source": [
+            "Shane"
+        ],
+        "Sell Price": "200g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Bread.png",
+        "Name": "Bread",
+        "Description": "A crusty baguette.",
+        "Ingredients": [
+            "Wheat Flour"
+        ],
+        "Energy": "50",
+        "Health": "22",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce",
+            "Stardrop Saloon"
+        ],
+        "Sell Price": "60g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3b/Tom_Kha_Soup.png",
+        "Name": "Tom Kha Soup",
+        "Description": "These flavors are incredible!",
+        "Ingredients": [
+            "Coconut",
+            "Shrimp",
+            "Common Mushroom"
+        ],
+        "Energy": "175",
+        "Health": "78",
+        "Buffs": [
+            "Farming",
+            "Max Energy"
+        ],
+        "Buff Duration": "7m",
+        "Recipe Source": [
+            "Sandy"
+        ],
+        "Sell Price": "250g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/48/Trout_Soup.png",
+        "Name": "Trout Soup",
+        "Description": "Pretty salty.",
+        "Ingredients": [
+            "Rainbow Trout",
+            "Green Algae"
+        ],
+        "Energy": "100",
+        "Health": "45",
+        "Buffs": [
+            "Fishing"
+        ],
+        "Buff Duration": "4m 39s",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "100g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png",
+        "Name": "Chocolate Cake",
+        "Description": "Rich and moist with a thick fudge icing.",
+        "Ingredients": [
+            "Wheat Flour",
+            "Sugar",
+            "Egg"
+        ],
+        "Energy": "150",
+        "Health": "67",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "200g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png",
+        "Name": "Pink Cake",
+        "Description": "There's little heart candies on top.",
+        "Ingredients": [
+            "Melon",
+            "Wheat Flour",
+            "Sugar",
+            "Egg"
+        ],
+        "Energy": "250",
+        "Health": "112",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "480g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/21/Rhubarb_Pie.png",
+        "Name": "Rhubarb Pie",
+        "Description": "Mmm, tangy and sweet!",
+        "Ingredients": [
+            "Rhubarb",
+            "Wheat Flour",
+            "Sugar"
+        ],
+        "Energy": "215",
+        "Health": "96",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Marnie"
+        ],
+        "Sell Price": "400g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/70/Cookie.png",
+        "Name": "Cookie",
+        "Description": "Very chewy.",
+        "Ingredients": [
+            "Wheat Flour",
+            "Sugar",
+            "Egg"
+        ],
+        "Energy": "90",
+        "Health": "40",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Evelyn"
+        ],
+        "Sell Price": "140g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png",
+        "Name": "Spaghetti",
+        "Description": "An old favorite.",
+        "Ingredients": [
+            "Wheat Flour",
+            "Tomato"
+        ],
+        "Energy": "75",
+        "Health": "33",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Lewis"
+        ],
+        "Sell Price": "120g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/84/Fried_Eel.png",
+        "Name": "Fried Eel",
+        "Description": "Greasy but flavorful.",
+        "Ingredients": [
+            "Eel",
+            "Oil"
+        ],
+        "Energy": "75",
+        "Health": "33",
+        "Buffs": [
+            "Luck"
+        ],
+        "Buff Duration": "7m",
+        "Recipe Source": [
+            "George"
+        ],
+        "Sell Price": "120g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Spicy_Eel.png",
+        "Name": "Spicy Eel",
+        "Description": "It's really spicy! Be careful.",
+        "Ingredients": [
+            "Eel",
+            "Hot Pepper"
+        ],
+        "Energy": "115",
+        "Health": "51",
+        "Buffs": [
+            "Luck",
+            "Speed"
+        ],
+        "Buff Duration": "7m",
+        "Recipe Source": [
+            "George"
+        ],
+        "Sell Price": "175g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png",
+        "Name": "Sashimi",
+        "Description": "Raw fish sliced into thin pieces.",
+        "Ingredients": [
+            "Fish"
+        ],
+        "Energy": "75",
+        "Health": "33",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Linus"
+        ],
+        "Sell Price": "75g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png",
+        "Name": "Maki Roll",
+        "Description": "Fish and rice wrapped in seaweed.",
+        "Ingredients": [
+            "Fish",
+            "Seaweed",
+            "Rice"
+        ],
+        "Energy": "100",
+        "Health": "45",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce",
+            "Stardrop Saloon"
+        ],
+        "Sell Price": "220g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d7/Tortilla.png",
+        "Name": "Tortilla",
+        "Description": "Can be used as a vessel for food or eaten by itself.",
+        "Ingredients": [
+            "Corn"
+        ],
+        "Energy": "50",
+        "Health": "22",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce",
+            "Stardrop Saloon"
+        ],
+        "Sell Price": "50g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/45/Red_Plate.png",
+        "Name": "Red Plate",
+        "Description": "Full of antioxidants.",
+        "Ingredients": [
+            "Red Cabbage",
+            "Radish"
+        ],
+        "Energy": "240",
+        "Health": "108",
+        "Buffs": [
+            "Max Energy"
+        ],
+        "Buff Duration": "3m 30s",
+        "Recipe Source": [
+            "Emily"
+        ],
+        "Sell Price": "400g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/73/Eggplant_Parmesan.png",
+        "Name": "Eggplant Parmesan",
+        "Description": "Tangy, cheesy, and wonderful.",
+        "Ingredients": [
+            "Eggplant",
+            "Tomato"
+        ],
+        "Energy": "175",
+        "Health": "78",
+        "Buffs": [
+            "Mining",
+            "Defense"
+        ],
+        "Buff Duration": "4m 39s",
+        "Recipe Source": [
+            "Lewis"
+        ],
+        "Sell Price": "200g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Rice_Pudding.png",
+        "Name": "Rice Pudding",
+        "Description": "It's creamy, sweet, and fun to eat.",
+        "Ingredients": [
+            "Milk",
+            "Sugar",
+            "Rice"
+        ],
+        "Energy": "115",
+        "Health": "51",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Evelyn"
+        ],
+        "Sell Price": "260g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png",
+        "Name": "Ice Cream",
+        "Description": "It's hard to find someone who doesn't like this.",
+        "Ingredients": [
+            "Milk",
+            "Sugar"
+        ],
+        "Energy": "100",
+        "Health": "45",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Jodi"
+        ],
+        "Sell Price": "120g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/9b/Blueberry_Tart.png",
+        "Name": "Blueberry Tart",
+        "Description": "It's subtle and refreshing.",
+        "Ingredients": [
+            "Blueberry",
+            "Wheat Flour",
+            "Sugar",
+            "Egg"
+        ],
+        "Energy": "125",
+        "Health": "56",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Pierre"
+        ],
+        "Sell Price": "150g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Autumn%27s_Bounty.png",
+        "Name": "Autumn's Bounty",
+        "Description": "A taste of the season.",
+        "Ingredients": [
+            "Yam",
+            "Pumpkin"
+        ],
+        "Energy": "220",
+        "Health": "99",
+        "Buffs": [
+            "Foraging",
+            "Defense"
+        ],
+        "Buff Duration": "7m 41s",
+        "Recipe Source": [
+            "Demetrius"
+        ],
+        "Sell Price": "350g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/59/Pumpkin_Soup.png",
+        "Name": "Pumpkin Soup",
+        "Description": "A seasonal favorite.",
+        "Ingredients": [
+            "Pumpkin",
+            "Milk"
+        ],
+        "Energy": "200",
+        "Health": "90",
+        "Buffs": [
+            "Defense",
+            "Luck"
+        ],
+        "Buff Duration": "7m 41s",
+        "Recipe Source": [
+            "Robin"
+        ],
+        "Sell Price": "300g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Super_Meal.png",
+        "Name": "Super Meal",
+        "Description": "It's a really energizing meal.",
+        "Ingredients": [
+            "Bok Choy",
+            "Cranberries",
+            "Artichoke"
+        ],
+        "Energy": "160",
+        "Health": "72",
+        "Buffs": [
+            "Max Energy",
+            "Speed"
+        ],
+        "Buff Duration": "3m 30s",
+        "Recipe Source": [
+            "Kent"
+        ],
+        "Sell Price": "220g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Cranberry_Sauce.png",
+        "Name": "Cranberry Sauce",
+        "Description": "A festive treat.",
+        "Ingredients": [
+            "Cranberries",
+            "Sugar"
+        ],
+        "Energy": "125",
+        "Health": "56",
+        "Buffs": [
+            "Mining"
+        ],
+        "Buff Duration": "3m 30s",
+        "Recipe Source": [
+            "Gus"
+        ],
+        "Sell Price": "120g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/9a/Stuffing.png",
+        "Name": "Stuffing",
+        "Description": "Ahh... the smell of warm bread and sage.",
+        "Ingredients": [
+            "Bread",
+            "Cranberries",
+            "Hazelnut"
+        ],
+        "Energy": "170",
+        "Health": "76",
+        "Buffs": [
+            "Defense"
+        ],
+        "Buff Duration": "5m 35s",
+        "Recipe Source": [
+            "Pam"
+        ],
+        "Sell Price": "165g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/79/Farmer%27s_Lunch.png",
+        "Name": "Farmer's Lunch",
+        "Description": "This'll keep you going.",
+        "Ingredients": [
+            "Omelet",
+            "Parsnip"
+        ],
+        "Energy": "200",
+        "Health": "90",
+        "Buffs": [
+            "Farming"        
+        ],
+        "Buff Duration": "5m 35s",
+        "Recipe Source": [
+            "Farming Level"
+        ],
+        "Sell Price": "150g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/87/Survival_Burger.png",
+        "Name": "Survival Burger",
+        "Description": "A convenient snack for the explorer.",
+        "Ingredients": [
+            "Bread",
+            "Cave Carrot",
+            "Eggplant"
+        ],
+        "Energy": "125",
+        "Health": "56",
+        "Buffs": [
+            "Foraging"
+
+        ],
+        "Buff Duration": "5m 35s",
+        "Recipe Source": [
+            "Foraging Level"
+        ],
+        "Sell Price": "180g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Dish_O%27_The_Sea.png",
+        "Name": "Dish O' The Sea",
+        "Description": "This'll keep you warm in the cold sea air.",
+        "Ingredients": [
+            "Sardine",
+            "Hashbrowns"
+        ],
+        "Energy": "150",
+        "Health": "67",
+        "Buffs": [
+            "Fishing"
+        ],
+        "Buff Duration": "5m 35s",
+        "Recipe Source": [
+            "Fishing Level"
+        ],
+        "Sell Price": "220g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/12/Miner%27s_Treat.png",
+        "Name": "Miner's Treat",
+        "Description": "This should keep your energy up.",
+        "Ingredients": [
+            "Cave Carrot",
+            "Sugar",
+            "Milk"
+        ],
+        "Energy": "125",
+        "Health": "56",
+        "Buffs": [
+            "Mining",
+            "Magnetism"
+        ],
+        "Buff Duration": "5m 35s",
+        "Recipe Source": [
+            "Mining Level"
+        ],
+        "Sell Price": "200g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e0/Roots_Platter.png",
+        "Name": "Roots Platter",
+        "Description": "This'll get you digging for more.",
+        "Ingredients": [
+            "Cave Carrot",
+            "Winter Root"
+        ],
+        "Energy": "125",
+        "Health": "56",
+        "Buffs": [
+            "Attack"
+        ],
+        "Buff Duration": "5m 35s",
+        "Recipe Source": [
+            "Combat Level"
+        ],
+        "Sell Price": "100g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/36/Triple_Shot_Espresso.png",
+        "Name": "Triple Shot Espresso",
+        "Description": "It's more potent than regular coffee!",
+        "Ingredients": [
+            "Coffee"
+        ],
+        "Energy": "8",
+        "Health": "3",
+        "Buffs": [
+            "Speed"
+        ],
+        "Buff Duration": "4m 12s",
+        "Recipe Source": [
+            "Stardrop Saloon"
+        ],
+        "Sell Price": "450g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/33/Seafoam_Pudding.png",
+        "Name": "Seafoam Pudding",
+        "Description": "This briny pudding will really get you into the maritime mindset!",
+        "Ingredients": [
+            "Flounder",
+            "Midnight Carp",
+            "Squid Ink"
+        ],
+        "Energy": "175",
+        "Health": "78",
+        "Buffs": [
+            "Fishing"
+        ],
+        "Buff Duration": "3m 30s",
+        "Recipe Source": [
+            "Fishing Level"
+        ],
+        "Sell Price": "300g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/53/Algae_Soup.png",
+        "Name": "Algae Soup",
+        "Description": "It's a little slimy.",
+        "Ingredients": [
+            "Green Algae"
+        ],
+        "Energy": "75",
+        "Health": "33",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Clint"
+        ],
+        "Sell Price": "100g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Pale_Broth.png",
+        "Name": "Pale Broth",
+        "Description": "A delicate broth with a hint of sulfur.",
+        "Ingredients": [
+            "White Algae"
+        ],
+        "Energy": "125",
+        "Health": "56",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Marnie"
+        ],
+        "Sell Price": "150g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/a0/Plum_Pudding.png",
+        "Name": "Plum Pudding",
+        "Description": "A traditional holiday treat.",
+        "Ingredients": [
+            "Wild Plum",
+            "Wheat Flour",
+            "Sugar"
+        ],
+        "Energy": "175",
+        "Health": "78",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "260g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/77/Artichoke_Dip.png",
+        "Name": "Artichoke Dip",
+        "Description": "It's cool and refreshing.",
+        "Ingredients": [
+            "Artichoke",
+            "Milk"
+        ],
+        "Energy": "100",
+        "Health": "45",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "210g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Stir_Fry.png",
+        "Name": "Stir Fry",
+        "Description": "Julienned vegetables on a bed of rice.",
+        "Ingredients": [
+            "Cave Carrot",
+            "Common Mushroom",
+            "Kale",
+            "Oil"
+        ],
+        "Energy": "200",
+        "Health": "90",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "335g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/18/Roasted_Hazelnuts.png",
+        "Name": "Roasted Hazelnuts",
+        "Description": "The roasting process creates a rich forest flavor.",
+        "Ingredients": [
+            "Hazelnut"
+        ],
+        "Energy": "175",
+        "Health": "78",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "270g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Pumpkin_Pie.png",
+        "Name": "Pumpkin Pie",
+        "Description": "Silky pumpkin cream in a flaky crust.",
+        "Ingredients": [
+            "Pumpkin",
+            "Wheat Flour",
+            "Milk",
+            "Sugar"
+        ],
+        "Energy": "225",
+        "Health": "101",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "385g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/b9/Radish_Salad.png",
+        "Name": "Radish Salad",
+        "Description": "The radishes are so crisp!",
+        "Ingredients": [
+            "Oil",
+            "Vinegar",
+            "Radish"
+        ],
+        "Energy": "200",
+        "Health": "90",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "300g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/9e/Fruit_Salad.png",
+        "Name": "Fruit Salad",
+        "Description": "A delicious combination of summer fruits.",
+        "Ingredients": [
+            "Blueberry",
+            "Melon",
+            "Apricot"
+        ],
+        "Energy": "263",
+        "Health": "118",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "450g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/70/Blackberry_Cobbler.png",
+        "Name": "Blackberry Cobbler",
+        "Description": "There's nothing quite like it.",
+        "Ingredients": [
+            "Blackberry",
+            "Sugar",
+            "Wheat Flour"
+        ],
+        "Energy": "175",
+        "Health": "78",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "260g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Cranberry_Candy.png",
+        "Name": "Cranberry Candy",
+        "Description": "It's sweet enough to mask the bitter fruit.",
+        "Ingredients": [
+            "Cranberries",
+            "Apple",
+            "Sugar"
+        ],
+        "Energy": "125",
+        "Health": "56",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "175g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/c/ca/Bruschetta.png",
+        "Name": "Bruschetta",
+        "Description": "Roasted tomatoes on a crisp white bread.",
+        "Ingredients": [
+            "Bread",
+            "Oil",
+            "Tomato"
+        ],
+        "Energy": "113",
+        "Health": "50",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "210g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Coleslaw.png",
+        "Name": "Coleslaw",
+        "Description": "It's light, fresh and very healthy.",
+        "Ingredients": [
+            "Red Cabbage",
+            "Vinegar",
+            "Mayonnaise"
+        ],
+        "Energy": "213",
+        "Health": "95",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "345g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/2d/Fiddlehead_Risotto.png",
+        "Name": "Fiddlehead Risotto",
+        "Description": "A creamy rice dish served with sauteed fern heads. It's a little bland.",
+        "Ingredients": [
+            "Oil",
+            "Fiddlehead Fern",
+            "Garlic"
+        ],
+        "Energy": "225",
+        "Health": "101",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "350g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Poppyseed_Muffin.png",
+        "Name": "Poppyseed Muffin",
+        "Description": "It has a soothing effect.",
+        "Ingredients": [
+            "Poppy",
+            "Wheat Flour",
+            "Sugar"
+        ],
+        "Energy": "150",
+        "Health": "67",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "250g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/95/Chowder.png",
+        "Name": "Chowder",
+        "Description": "A perfect way to warm yourself after a cold night at sea.",
+        "Ingredients": [
+            "Clam",
+            "Milk"
+        ],
+        "Energy": "225",
+        "Health": "101",
+        "Buffs": [
+            "Fishing"
+        ],
+        "Buff Duration": "16m 47s",
+        "Recipe Source": [
+            "Willy"
+        ],
+        "Sell Price": "135g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Fish_Stew.png",
+        "Name": "Fish Stew",
+        "Description": "It smells a lot like the sea. Tastes better, though.",
+        "Ingredients": [
+            "Crayfish",
+            "Mussel",
+            "Periwinkle",
+            "Tomato"
+        ],
+        "Energy": "225",
+        "Health": "101",
+        "Buffs": [
+            "Fishing"
+        ],
+        "Buff Duration": "16m 47s",
+        "Recipe Source": [
+            "Willy"
+        ],
+        "Sell Price": "175g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/78/Escargot.png",
+        "Name": "Escargot",
+        "Description": "Butter-soaked snails cooked to perfection.",
+        "Ingredients": [
+            "Snail",
+            "Garlic"
+        ],
+        "Energy": "225",
+        "Health": "101",
+        "Buffs": [
+            "Fishing"
+        ],
+        "Buff Duration": "16m 47s",
+        "Recipe Source": [
+            "Willy"
+        ],
+        "Sell Price": "125g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/0a/Lobster_Bisque.png",
+        "Name": "Lobster Bisque",
+        "Description": "This delicate soup is a secret family recipe of Willy's.",
+        "Ingredients": [
+            "Lobster",
+            "Milk"
+        ],
+        "Energy": "225",
+        "Health": "101",
+        "Buffs": [
+            "Fishing",
+            "Max Energy"
+        ],
+        "Buff Duration": "16m 47s",
+        "Recipe Source": [
+            "The Queen of Sauce",
+            "Willy"
+        ],
+        "Sell Price": "205g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/18/Maple_Bar.png",
+        "Name": "Maple Bar",
+        "Description": "It's a sweet doughnut topped with a rich maple glaze.",
+        "Ingredients": [
+            "Maple Syrup",
+            "Sugar",
+            "Wheat Flour"
+        ],
+        "Energy": "225",
+        "Health": "101",
+        "Buffs": [
+            "Farming",
+            "Fishing",
+            "Mining"
+        ],
+        "Buff Duration": "16m 47s",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "300g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/70/Crab_Cakes.png",
+        "Name": "Crab Cakes",
+        "Description": "Crab, bread crumbs, and egg formed into patties then fried to a golden brown.",
+        "Ingredients": [
+            "Crab",
+            "Wheat Flour",
+            "Egg",
+            "Oil"
+        ],
+        "Energy": "225",
+        "Health": "101",
+        "Buffs": [
+            "Speed",
+            "Defense"
+        ],
+        "Buff Duration": "16m 47s",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "275g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Shrimp_Cocktail.png",
+        "Name": "Shrimp Cocktail",
+        "Description": "A sumptuous appetizer made with freshly-caught shrimp.",
+        "Ingredients": [
+            "Tomato",
+            "Shrimp",
+            "Wild Horseradish"
+        ],
+        "Energy": "225",
+        "Health": "101",
+        "Buffs": [
+            "Fishing",
+            "Luck"
+        ],
+        "Buff Duration": "10m 2s",
+        "Recipe Source": [
+            "The Queen of Sauce"
+        ],
+        "Sell Price": "160g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/1a/Ginger_Ale.png",
+        "Name": "Ginger Ale",
+        "Description": "A zesty soda known for its soothing effect on the stomach.",
+        "Ingredients": [
+            "Ginger",
+            "Sugar"
+        ],
+        "Energy": "63",
+        "Health": "28",
+        "Buffs": [
+            "Luck"
+        ],
+        "Buff Duration": "5m",
+        "Recipe Source": [
+            "Dwarf Shop"
+        ],
+        "Sell Price": "200g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/40/Banana_Pudding.png",
+        "Name": "Banana Pudding",
+        "Description": "A creamy dessert with a wonderful tropical flavor.",
+        "Ingredients": [
+            "Banana",
+            "Milk",
+            "Sugar"
+        ],
+        "Energy": "125",
+        "Health": "56",
+        "Buffs": [
+            "Mining",
+            "Luck",
+            "Defense"
+        ],
+        "Buff Duration": "5m 1s",
+        "Recipe Source": [
+            "Island Trader"
+        ],
+        "Sell Price": "260g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Mango_Sticky_Rice.png",
+        "Name": "Mango Sticky Rice",
+        "Description": "Sweet mango and coconut transforms this rice into something very special.",
+        "Ingredients": [
+            "Mango",
+            "Coconut",
+            "Rice"
+        ],
+        "Energy": "113",
+        "Health": "50",
+        "Buffs": [
+            "Defense"
+        ],
+        "Buff Duration": "5m 1s",
+        "Recipe Source": [
+            "Leo"
+        ],
+        "Sell Price": "250g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Poi.png",
+        "Name": "Poi",
+        "Description": "A traditional food with a delicate, sweet flavor when eaten fresh.",
+        "Ingredients": [
+            "Taro Root"
+        ],
+        "Energy": "75",
+        "Health": "33",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Leo"
+        ],
+        "Sell Price": "400g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/32/Tropical_Curry.png",
+        "Name": "Tropical Curry",
+        "Description": "An exotic, fragrant curry served in a pineapple bowl.",
+        "Ingredients": [
+            "Coconut",
+            "Pineapple",
+            "Hot Pepper"
+        ],
+        "Energy": "150",
+        "Health": "67",
+        "Buffs": [
+            "Foraging"
+        ],
+        "Buff Duration": "5m 1s",
+        "Recipe Source": [
+            "Ginger Island Resort"
+        ],
+        "Sell Price": "500g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/86/Squid_Ink_Ravioli.png",
+        "Name": "Squid Ink Ravioli",
+        "Description": "Temporarily protects from debuffs.",
+        "Ingredients": [
+            "Squid Ink",
+            "Wheat Flour",
+            "Tomato"
+        ],
+        "Energy": "125",
+        "Health": "56",
+        "Buffs": [
+            "Mining",
+            "Squid Ink Ravioli Buff"
+        ],
+        "Buff Duration": ["4m 39s (Mining)",
+        "2m 59s (Squid Ink Ravioli Buff)"],
+        "Recipe Source": [
+            "Combat Level"
+        ],
+        "Sell Price": "150g"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/df/Moss_Soup.png",
+        "Name": "Moss Soup",
+        "Description": "It's thick and slimy, but edible.",
+        "Ingredients": [
+            "Moss"
+        ],
+        "Energy": "70",
+        "Health": "31",
+        "Buffs": [
+            "N/A"
+        ],
+        "Buff Duration": "N/A",
+        "Recipe Source": [
+            "Foraging Level"
+        ],
+        "Sell Price": "80g"
+    }
+]

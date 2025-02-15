@@ -1,0 +1,918 @@
+[
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png",
+        "Name": "Quartz",
+        "Description": "A clear crystal commonly found in caves and mines.",
+        "Base Sell Price": 25,
+        "Gemologist Sell Price": 33,
+        "Sources": [
+            "The Mines",
+            "Garbage Can",
+            "Stone Golem"
+        ],
+        "Used In": [
+            "Geologist's Bundle",
+            "Refined Quartz",
+            "Fish Pond"
+        ],
+        "Loved By": ["None"],
+        "Hated By": ["Alex", "Caroline", "Elliott", "George", "Gus", "Lewis", "Shane"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/74/Earth_Crystal.png",
+        "Name": "Earth Crystal",
+        "Description": "A resinous substance found near the surface.",
+        "Base Sell Price": 50,
+        "Gemologist Sell Price": 65,
+        "Sources": [
+            "The Mines",
+            "Duggy",
+            "Haunted Skull",
+            "Fishing Treasure Chest",
+            "Panning",
+            "Geode",
+            "Omni Geode",
+            "Garbage Can"
+        ],
+        "Used In": [
+            "Geologist's Bundle",
+            "Mayonnaise Machine",
+            "Fish Pond"
+        ],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png",
+        "Name": "Frozen Tear",
+        "Description": "A crystal fabled to be the frozen tears of a yeti.",
+        "Base Sell Price": 75,
+        "Gemologist Sell Price": 98,
+        "Sources": [
+            "The Mines",
+            "Fishing Treasure Chest",
+            "Panning",
+            "Frozen Geode",
+            "Omni Geode",
+            "Dust Sprite",
+            "Garbage Can"
+        ],
+        "Used In": [
+            "Geologist's Bundle",
+            "Warrior Ring",
+            "Fish Pond"
+        ],
+        "Loved By": ["Sebastian"],
+        "Hated By": ["None"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/5b/Fire_Quartz.png",
+        "Name": "Fire Quartz",
+        "Description": "A glowing red crystal commonly found near hot lava.",
+        "Base Sell Price": 100,
+        "Gemologist Sell Price": 130,
+        "Sources": [
+            "The Mines",
+            "Fishing Treasure Chest",
+            "Panning",
+            "Magma Geode",
+            "Omni Geode",
+            "Garbage Can"
+        ],
+        "Used In": [
+            "Geologist's Bundle",
+            "Slime Egg-Press",
+            "Refined Quartz",
+            "Fish Pond"
+        ],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png",
+        "Name": "Emerald",
+        "Description": "A precious stone with a brilliant green color.",
+        "Base Sell Price": 250,
+        "Gemologist Sell Price": 325,
+        "Sources": [
+            "Emerald Node",
+            "Gem Node",
+            "Dwarvish Sentry",
+            "Panning",
+            "Garbage Can",
+            "Fishing Treasure Chest",
+            "Feast of the Winter Star"
+        ],
+        "Used In": [
+            "Fish Pond",
+            "Forge"
+        ],
+        "Loved By": ["Clint", "Dwarf", "Emily", "Penny"],
+        "Hated By": ["None"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png",
+        "Name": "Aquamarine",
+        "Description": "A shimmery blue-green gem.",
+        "Base Sell Price": 180,
+        "Gemologist Sell Price": 234,
+        "Sources": [
+            "Aquamarine Node",
+            "Gem Node",
+            "Dwarvish Sentry",
+            "Panning",
+            "Garbage Can",
+            "Fishing Treasure Chest"
+        ],
+        "Used In": [
+            "Dye Bundle",
+            "Marble Brazier",
+            "Fish Pond",
+            "Forge"
+        ],
+        "Loved By": ["Clint", "Dwarf", "Emily"],
+        "Hated By": ["None"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Ruby.png",
+        "Name": "Ruby",
+        "Description": "A precious stone that is sought after for its rich color and beautiful luster.",
+        "Base Sell Price": 250,
+        "Gemologist Sell Price": 325,
+        "Sources": [
+            "Ruby Node",
+            "Gem Node",
+            "Dwarvish Sentry",
+            "Panning",
+            "Garbage Can",
+            "Fishing Treasure Chest",
+            "Feast of the Winter Star"
+        ],
+        "Used In": [
+            "Forge"
+        ],
+        "Loved By": ["Clint", "Dwarf", "Emily"],
+        "Hated By": ["None"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png",
+        "Name": "Amethyst",
+        "Description": "A purple variant of quartz.",
+        "Base Sell Price": 100,
+        "Gemologist Sell Price": 130,
+        "Sources": [
+            "Amethyst Node",
+            "Gem Node",
+            "Green Slimes",
+            "Dwarvish Sentry",
+            "Panning",
+            "Garbage Can",
+            "Fishing Treasure Chest"
+        ],
+        "Used In": [
+            "Fish Pond",
+            "Forge"
+        ],
+        "Loved By": ["Abigail", "Clint", "Dwarf", "Emily"],
+        "Hated By": ["None"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png",
+        "Name": "Topaz",
+        "Description": "Fairly common but still prized for its beauty.",
+        "Base Sell Price": 80,
+        "Gemologist Sell Price": 104,
+        "Sources": [
+            "Topaz Node",
+            "Gem Node",
+            "Dwarvish Sentry",
+            "Panning",
+            "Garbage Can",
+            "Fishing Treasure Chest"
+        ],
+        "Used In": [
+            "Fish Pond",
+            "Forge"
+        ],
+        "Loved By": ["Clint", "Dwarf", "Emily"],
+        "Hated By": ["None"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Jade.png",
+        "Name": "Jade",
+        "Description": "A pale green ornamental stone.",
+        "Base Sell Price": 200,
+        "Gemologist Sell Price": 260,
+        "Sources": [
+            "Jade Node",
+            "Gem Node",
+            "Blue Slimes",
+            "Dwarvish Sentry",
+            "Garbage Can",
+            "Fishing Treasure Chest",
+            "Feast of the Winter Star"
+        ],
+        "Used In": [
+            "Fish Pond",
+            "Forge"
+        ],
+        "Loved By": ["Clint", "Dwarf", "Emily"],
+        "Hated By": ["None"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png",
+        "Name": "Diamond",
+        "Description": "A rare and valuable gem.",
+        "Base Sell Price": 750,
+        "Gemologist Sell Price": 975,
+        "Sources": [
+            "Diamond Node",
+            "Gem Node",
+            "Dwarvish Sentry",
+            "Panning",
+            "Garbage Can",
+            "Fishing Treasure Chest",
+            "Any Monster"
+        ],
+        "Used In": [
+            "Ring of Yoba",
+            "Geode Crusher",
+            "Fairy Dust",
+            "Fish Pond",
+            "Forge"
+        ],
+        "Loved By": ["Evelyn", "Gus", "Jodi", "Krobus", "Marnie", "Maru", "Penny", "Willy"],
+        "Hated By": ["None"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/56/Prismatic_Shard.png",
+        "Name": "Prismatic Shard",
+        "Description": "A very rare and powerful substance with unknown origins.",
+        "Base Sell Price": 2000,
+        "Gemologist Sell Price": 2600,
+        "Sources": [
+            "Iridium Node",
+            "Mystic Stone",
+            "Omni Geode",
+            "Shadow Brute",
+            "Shadow Shaman",
+            "Mummy",
+            "Serpent",
+            "Fishing Treasure Chest",
+            "Any Monster"
+        ],
+        "Used In": [
+            "Villagers",
+            "Galaxy Sword",
+            "the Desert",
+            "Dark Shrine of Selfishness",
+            "Enchant"
+        ],
+        "Loved By": ["Most"],
+        "Hated By": ["Haley"],
+        "Museum Donation": "No"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Tigerseye.png",
+        "Name": "Tigerseye",
+        "Description": "A stripe of shimmering gold gives this gem a warm luster.",
+        "Base Sell Price": 275,
+        "Gemologist Sell Price": 358,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["Sam"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3c/Opal.png",
+        "Name": "Opal",
+        "Description": "Its internal structure causes it to reflect a rainbow of light.",
+        "Base Sell Price": 150,
+        "Gemologist Sell Price": 195,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/60/Fire_Opal.png",
+        "Name": "Fire Opal",
+        "Description": "A rare variety of opal, named for its red spots.",
+        "Base Sell Price": 350,
+        "Gemologist Sell Price": 455,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/7/7c/Alamite.png",
+        "Name": "Alamite",
+        "Description": "Its distinctive fluorescence makes it a favorite among rock collectors.",
+        "Base Sell Price": 150,
+        "Gemologist Sell Price": 195,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/98/Bixite.png",
+        "Name": "Bixite",
+        "Description": "A dark metallic Mineral sought after for its cubic structure.",
+        "Base Sell Price": 300,
+        "Gemologist Sell Price": 390,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode",
+            "Black Slime"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Baryte.png",
+        "Name": "Baryte",
+        "Description": "The best specimens resemble a desert rose.",
+        "Base Sell Price": 50,
+        "Gemologist Sell Price": 65,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Aerinite.png",
+        "Name": "Aerinite",
+        "Description": "These crystals are curiously light.",
+        "Base Sell Price": 125,
+        "Gemologist Sell Price": 163,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/97/Calcite.png",
+        "Name": "Calcite",
+        "Description": "This yellow crystal is speckled with shimmering nodules.",
+        "Base Sell Price": 75,
+        "Gemologist Sell Price": 98,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Dolomite.png",
+        "Name": "Dolomite",
+        "Description": "It can occur in coral reefs, often near an underwater volcano.",
+        "Base Sell Price": 300,
+        "Gemologist Sell Price": 390,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Esperite.png",
+        "Name": "Esperite",
+        "Description": "The crystals glow bright green when stimulated.",
+        "Base Sell Price": 100,
+        "Gemologist Sell Price": 130,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/4a/Fluorapatite.png",
+        "Name": "Fluorapatite",
+        "Description": "Small amounts are found in human teeth.",
+        "Base Sell Price": 200,
+        "Gemologist Sell Price": 260,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/54/Geminite.png",
+        "Name": "Geminite",
+        "Description": "Occurs in brilliant clusters.",
+        "Base Sell Price": 150,
+        "Gemologist Sell Price": 195,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Helvite.png",
+        "Name": "Helvite",
+        "Description": "It grows in a triangular column.",
+        "Base Sell Price": 450,
+        "Gemologist Sell Price": 585,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Jamborite.png",
+        "Name": "Jamborite",
+        "Description": "The crystals are so tightly packed it almost looks fuzzy.",
+        "Base Sell Price": 150,
+        "Gemologist Sell Price": 195,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Jagoite.png",
+        "Name": "Jagoite",
+        "Description": "A high volume of tiny crystals makes it very glittery.",
+        "Base Sell Price": 115,
+        "Gemologist Sell Price": 150,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/e/e4/Kyanite.png",
+        "Name": "Kyanite",
+        "Description": "The geometric faces are as smooth as glass.",
+        "Base Sell Price": 250,
+        "Gemologist Sell Price": 325,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/06/Lunarite.png",
+        "Name": "Lunarite",
+        "Description": "The cratered white orbs form a tight cluster.",
+        "Base Sell Price": 200,
+        "Gemologist Sell Price": 260,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Malachite.png",
+        "Name": "Malachite",
+        "Description": "A popular ornamental stone, used in sculpture and to make green paint.",
+        "Base Sell Price": 100,
+        "Gemologist Sell Price": 130,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/0/05/Neptunite.png",
+        "Name": "Neptunite",
+        "Description": "A jet-black crystal that is unusually reflective.",
+        "Base Sell Price": 400,
+        "Gemologist Sell Price": 520,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode",
+            "Black Slime"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/31/Lemon_Stone.png",
+        "Name": "Lemon Stone",
+        "Description": "Some claim the powdered crystal is a dwarvish delicacy.",
+        "Base Sell Price": 200,
+        "Gemologist Sell Price": 260,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["Dwarf"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/53/Nekoite.png",
+        "Name": "Nekoite",
+        "Description": "The delicate shards form a tiny pink meadow.",
+        "Base Sell Price": 80,
+        "Gemologist Sell Price": 104,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/41/Orpiment.png",
+        "Name": "Orpiment",
+        "Description": "Despite its high toxicity, this Mineral is widely used in manufacturing and folk medicine.",
+        "Base Sell Price": 80,
+        "Gemologist Sell Price": 104,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/24/Petrified_Slime.png",
+        "Name": "Petrified Slime",
+        "Description": "This little guy may be 100,000 years old.",
+        "Base Sell Price": 120,
+        "Gemologist Sell Price": 156,
+        "Sources": [
+            "Geode",
+            "Omni Geode",
+            "Slime Ball"
+        ],
+        "Used In": [
+            "Fish Pond"
+        ],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/14/Thunder_Egg.png",
+        "Name": "Thunder Egg",
+        "Description": "According to legend, angry thunder spirits would throw these stones at one another.",
+        "Base Sell Price": 100,
+        "Gemologist Sell Price": 130,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pyrite.png",
+        "Name": "Pyrite",
+        "Description": "Commonly known as \"Fool's Gold\".",
+        "Base Sell Price": 120,
+        "Gemologist Sell Price": 156,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Ocean_Stone.png",
+        "Name": "Ocean Stone",
+        "Description": "An old legend claims these stones are the mosaics of ancient mermaids.",
+        "Base Sell Price": 220,
+        "Gemologist Sell Price": 286,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": [
+            "Fish Pond"
+        ],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d0/Ghost_Crystal.png",
+        "Name": "Ghost Crystal",
+        "Description": "There is an aura of coldness around this crystal.",
+        "Base Sell Price": 200,
+        "Gemologist Sell Price": 260,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/9b/Jasper.png",
+        "Name": "Jasper",
+        "Description": "When polished, this stone becomes attractively luminous. Prized by ancient peoples for thousands of years.",
+        "Base Sell Price": 150,
+        "Gemologist Sell Price": 195,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/1/19/Celestine.png",
+        "Name": "Celestine",
+        "Description": "Some early life forms had bones made from this.",
+        "Base Sell Price": 125,
+        "Gemologist Sell Price": 163,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/82/Marble.png",
+        "Name": "Marble",
+        "Description": "A very popular material for sculptures and construction.",
+        "Base Sell Price": 110,
+        "Gemologist Sell Price": 143,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": [
+            "Marble Brazier"
+        ],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d6/Sandstone.png",
+        "Name": "Sandstone",
+        "Description": "A common type of stone with red and brown striations.",
+        "Base Sell Price": 60,
+        "Gemologist Sell Price": 78,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/4a/Granite.png",
+        "Name": "Granite",
+        "Description": "A speckled Mineral that is commonly used in construction.",
+        "Base Sell Price": 75,
+        "Gemologist Sell Price": 98,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": [
+            "Fish Pond"
+        ],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/22/Basalt.png",
+        "Name": "Basalt",
+        "Description": "Forms near searing hot magma.",
+        "Base Sell Price": 175,
+        "Gemologist Sell Price": 228,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode"
+        ],
+        "Used In": [
+            "Fish Pond"
+        ],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Limestone.png",
+        "Name": "Limestone",
+        "Description": "A very common type of stone. It's not worth very much.",
+        "Base Sell Price": 15,
+        "Gemologist Sell Price": 20,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": [
+            "Fish Pond"
+        ],
+        "Loved By": [],
+        "Hated By": [],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/8/81/Soapstone.png",
+        "Name": "Soapstone",
+        "Description": "Because of its relatively soft consistency, this stone is very popular for carving.",
+        "Base Sell Price": 120,
+        "Gemologist Sell Price": 156,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Hematite.png",
+        "Name": "Hematite",
+        "Description": "An iron-based Mineral with interesting magnetic properties.",
+        "Base Sell Price": 150,
+        "Gemologist Sell Price": 195,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/5/52/Mudstone.png",
+        "Name": "Mudstone",
+        "Description": "A fine-grained rock made from ancient clay or mud.",
+        "Base Sell Price": 25,
+        "Gemologist Sell Price": 33,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": [
+            "Fish Pond"
+        ],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/2/23/Obsidian.png",
+        "Name": "Obsidian",
+        "Description": "A volcanic glass that forms when lava cools rapidly.",
+        "Base Sell Price": 200,
+        "Gemologist Sell Price": 260,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["Sebastian"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/9/97/Slate.png",
+        "Name": "Slate",
+        "Description": "It's extremely resistant to water, making it a good roofing material.",
+        "Base Sell Price": 85,
+        "Gemologist Sell Price": 111,
+        "Sources": [
+            "Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/d/d9/Fairy_Stone.png",
+        "Name": "Fairy Stone",
+        "Description": "An old miner's song suggests these are made from the bones of ancient fairies.",
+        "Base Sell Price": 250,
+        "Gemologist Sell Price": 325,
+        "Sources": [
+            "Frozen Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    },
+    {
+        "Image URL": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Star_Shards.png",
+        "Name": "Star Shards",
+        "Description": "No one knows how these form. Some scientists claim that the microscopic structure displays unnatural regularity.",
+        "Base Sell Price": 500,
+        "Gemologist Sell Price": 650,
+        "Sources": [
+            "Magma Geode",
+            "Omni Geode"
+        ],
+        "Used In": ["None"],
+        "Loved By": ["None"],
+        "Hated By": ["None"],
+        "Museum Donation": "Yes"
+    }
+]
