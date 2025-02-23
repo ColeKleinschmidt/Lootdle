@@ -1,0 +1,4108 @@
+[
+    {
+        "Name": "Black Spear",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Black_Spear_item.png/revision/latest?cb=20240915030212",
+        "Category": "Starter",
+        "Cost": "0g",
+        "Stats": "None",
+        "Gold Efficiency": "0%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Cull",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/11/Cull_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201116174218",
+        "Category": "Starter",
+        "Cost": "450g",
+        "Stats": [
+            "Attack Damage",
+            "Life Steal"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "No",
+        "Passive": ["Gold"]
+    },
+    {
+        "Name": "Dark Seal",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Dark_Seal_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231011155132",
+        "Category": "Starter",
+        "Cost": "350g",
+        "Stats": [
+            "Ability Power",
+            "Health"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "No",
+        "Passive": ["Ability Power"]
+    },
+    {
+        "Name": "Doran's Blade",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Doran%27s_Blade_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109214555",
+        "Category": "Starter",
+        "Cost": "450g",
+        "Stats": [
+            "Attack Damage",
+            "Health"
+        ],
+        "Gold Efficiency": "161%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Doran's Ring",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Doran%27s_Ring_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109214727",
+        "Category": "Starter",
+        "Cost": "400g",
+        "Stats": [
+            "Ability Power",
+            "Health"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Mana Regeneration"]
+    },
+    {
+        "Name": "Doran's Shield",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/Doran%27s_Shield_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922212045",
+        "Category": "Starter",
+        "Cost": "450g",
+        "Stats": [
+            "Health",
+            "Health Regeneration"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Health Regeneration"]
+    },
+    {
+        "Name": "Gustwalker Hatchling",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Gustwalker_Hatchling_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221117185730",
+        "Category": "Starter",
+        "Cost": "450g",
+        "Stats": [
+            "None"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Quest"]
+    },
+    {
+        "Name": "Mosstomper Seedling",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Mosstomper_Seedling_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221117190416",
+        "Category": "Starter",
+        "Cost": "450g",
+        "Stats": [
+            "None"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Quest"]
+    },
+    {
+        "Name": "Scorchclaw Pup",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Scorchclaw_Pup_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221117184448",
+        "Category": "Starter",
+        "Cost": "450g",
+        "Stats": [
+            "None"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Quest"]
+    },
+    {
+        "Name": "Tear of the Goddess",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Tear_of_the_Goddess_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111004755",
+        "Category": "Starter",
+        "Cost": "400g",
+        "Stats": [
+            "Mana"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Mana"]
+    },
+    {
+        "Name": "World Atlas",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/World_Atlas_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214927",
+        "Category": "Starter",
+        "Cost": "400g",
+        "Stats": [
+            "Health",
+            "Health Regeneration",
+            "Mana Regeneration",
+            "Gold per Second"
+        ],
+        "Gold Efficiency": "64%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "No",
+        "Passive": ["Quest"]
+    },
+    {
+        "Name": "Berserker's Greaves",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Berserker%27s_Greaves_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240918170648",
+        "Category": "Boots",
+        "Cost": "1100g",
+        "Stats": [
+            "Attack Speed",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "106%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Gunmetal Greaves",
+        "Image URL": "https://wiki.leagueoflegends.com/en-us/images/Gunmetal_Greaves_item.png?f5849",
+        "Category": "Boots",
+        "Cost": "750g",
+        "Stats": [
+            "Attack Speed",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "86%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Movement Speed"]
+    },
+    {
+        "Name": "Boots",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Boots_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240825033017",
+        "Category": "Boots",
+        "Cost": "300g",
+        "Stats": [
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Boots of Swiftness",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Boots_of_Swiftness_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201116171938",
+        "Category": "Boots",
+        "Cost": "1000g",
+        "Stats": [
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "72%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Slow Resist"]
+    },
+    {
+        "Name": "Swiftmarch",
+        "Image URL": "https://wiki.leagueoflegends.com/en-us/images/Swiftmarch_item.png?50274",
+        "Category": "Boots",
+        "Cost": "750g",
+        "Stats": [
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "48%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Slow Resist", "Movement Speed"]
+    },
+    {
+        "Name": "Ionian Boots of Lucidity",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Ionian_Boots_of_Lucidity_item_HD.png/revision/latest/scale-to-width-down/64?cb=20210825182132",
+        "Category": "Boots",
+        "Cost": "900g",
+        "Stats": [
+            "Ability Haste",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "116%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Summoner Spell Haste"]
+    },
+    {
+        "Name": "Crimson Lucidity",
+        "Image URL": "https://wiki.leagueoflegends.com/en-us/images/Crimson_Lucidity_item.png?ff157",
+        "Category": "Boots",
+        "Cost": "750g",
+        "Stats": [
+            "Ability Haste",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "112%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Summoner Spell Haste", "Movement Speed"]
+    },
+    {
+        "Name": "Mercury's Treads",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Mercury%27s_Treads_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201116182101",
+        "Category": "Boots",
+        "Cost": "1300g",
+        "Stats": [
+            "Magic Resistance",
+            "Movement Speed",
+            "Tenacity"
+        ],
+        "Gold Efficiency": "72%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Chainlaced Crushers",
+        "Image URL": "https://wiki.leagueoflegends.com/en-us/images/Chainlaced_Crushers_item.png?c0063",
+        "Category": "Boots",
+        "Cost": "750g",
+        "Stats": [
+            "Magic Resistance",
+            "Movement Speed",
+            "Tenacity"
+        ],
+        "Gold Efficiency": "63%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Shield"]
+    },
+    {
+        "Name": "Plated Steelcaps",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Plated_Steelcaps_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111000436",
+        "Category": "Boots",
+        "Cost": "1200g",
+        "Stats": [
+            "Armor",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "87%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Damage Reduction"]
+    },
+    {
+        "Name": "Armored Advance",
+        "Image URL": "https://wiki.leagueoflegends.com/en-us/images/Armored_Advance_item.png?3d928",
+        "Category": "Boots",
+        "Cost": "750g",
+        "Stats": [
+            "Armor",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "72%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Shield"]
+    },
+    {
+        "Name": "Slightly Magical Boots",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Slightly_Magical_Boots_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240826175901",
+        "Category": "Boots",
+        "Cost": "None",
+        "Stats": [
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "∞%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Movement Speed"]
+    },
+    {
+        "Name": "Sorcerer's Shoes",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Sorcerer%27s_Shoes_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240915180245",
+        "Category": "Boots",
+        "Cost": "1100g",
+        "Stats": [
+            "Movement Speed",
+            "Magic Penetration (flat)"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Spellslinger's Shoes",
+        "Image URL": "https://wiki.leagueoflegends.com/en-us/images/Spellslinger%27s_Shoes_item.png?349925",
+        "Category": "Boots",
+        "Cost": "750g",
+        "Stats": [
+            "Movement Speed",
+            "Magic Penetration (flat)",
+            "Magic Penetration (%)"
+        ],
+        "Gold Efficiency": "98%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Symbiotic Soles",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Symbiotic_Soles_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240826183608",
+        "Category": "Boots",
+        "Cost": "900g",
+        "Stats": [
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "47%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Recall Speed", "Quest"]
+    },
+    {
+        "Name": "Synchronized Souls",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Synchronized_Souls_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240506150441",
+        "Category": "Boots",
+        "Cost": "900g",
+        "Stats": [
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "60%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Recall Speed", "Movement Speed"]
+    },
+    {
+        "Name": "Forever Forward",
+        "Image URL": "https://wiki.leagueoflegends.com/en-us/images/Forever_Forward_item.png?095cf",
+        "Category": "Boots",
+        "Cost": "750g",
+        "Stats": [
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "40%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Recall Speed", "Movement Speed"]
+    },
+    {
+        "Name": "Amplifying Tome",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Amplifying_Tome_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109215341",
+        "Category": "Basic",
+        "Cost": "400g",
+        "Stats": [
+            "Ability Power"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "B. F. Sword",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/49/B._F._Sword_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201116170859",
+        "Category": "Basic",
+        "Cost": "1300g",
+        "Stats": [
+            "Attack Damage"
+        ],
+        "Gold Efficiency": "108%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Blasting Wand",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Blasting_Wand_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109215517",
+        "Category": "Basic",
+        "Cost": "850g",
+        "Stats": [
+            "Ability Power"
+        ],
+        "Gold Efficiency": "106%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Cloak of Agility",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Cloak_of_Agility_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110221906",
+        "Category": "Basic",
+        "Cost": "600g",
+        "Stats": [
+            "Critical Strike Chance"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Cloth Armor",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Cloth_Armor_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201116173802",
+        "Category": "Basic",
+        "Cost": "300g",
+        "Stats": [
+            "Armor"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Dagger",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Dagger_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201116174346",
+        "Category": "Basic",
+        "Cost": "250g",
+        "Stats": [
+            "Attack Speed"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Faerie Charm",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Faerie_Charm_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922040239",
+        "Category": "Basic",
+        "Cost": "200g",
+        "Stats": [
+            "Mana Regeneration"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Glowing Mote",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Glowing_Mote_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214847",
+        "Category": "Basic",
+        "Cost": "250g",
+        "Stats": [
+            "Ability Haste"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Long Sword",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Long_Sword_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201116180330",
+        "Category": "Basic",
+        "Cost": "350g",
+        "Stats": [
+            "Attack Damage"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Needlessly Large Rod",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Needlessly_Large_Rod_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109210419",
+        "Category": "Basic",
+        "Cost": "1200g",
+        "Stats": [
+            "Ability Power"
+        ],
+        "Gold Efficiency": "108%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Null-Magic Mantle",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Null-Magic_Mantle_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922035813",
+        "Category": "Basic",
+        "Cost": "400g",
+        "Stats": [
+            "Magic Resistance"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Pickaxe",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Pickaxe_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240915002455",
+        "Category": "Basic",
+        "Cost": "875g",
+        "Stats": [
+            "Attack Damage"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Rejuvenation Bead",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Rejuvenation_Bead_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201116183256",
+        "Category": "Basic",
+        "Cost": "300g",
+        "Stats": [
+            "Health Regeneration"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Ruby Crystal",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/78/Ruby_Crystal_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221230175925",
+        "Category": "Basic",
+        "Cost": "400g",
+        "Stats": [
+            "Health"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Sapphire Crystal",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Sapphire_Crystal_item_HD.png/revision/latest/scale-to-width-down/64?cb=20210728195615",
+        "Category": "Basic",
+        "Cost": "300g",
+        "Stats": [
+            "Mana"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Aegis of the Legion",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Aegis_of_the_Legion_item.png/revision/latest?cb=20201104231855",
+        "Category": "Epic",
+        "Cost": "1100g",
+        "Stats": [
+            "Ability Haste",
+            "Armor",
+            "Magic Resistance"
+        ],
+        "Gold Efficiency": "136%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Aether Wisp",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Aether_Wisp_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240827153336",
+        "Category": "Epic",
+        "Cost": "900g",
+        "Stats": [
+            "Ability Power",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "104%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Bami's Cinder",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/96/Bami%27s_Cinder_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110215348",
+        "Category": "Epic",
+        "Cost": "900g",
+        "Stats": [
+            "Ability Haste",
+            "Health"
+        ],
+        "Gold Efficiency": "72%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["AoE Damage"]
+    },
+    {
+        "Name": "Bandleglass Mirror",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Bandleglass_Mirror_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201116172434",
+        "Category": "Epic",
+        "Cost": "900g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Mana Regeneration"
+        ],
+        "Gold Efficiency": "144%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Blighting Jewel",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Blighting_Jewel_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110220745",
+        "Category": "Epic",
+        "Cost": "1100g",
+        "Stats": [
+            "Ability Power",
+            "Magic Penetration (%)"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Bramble Vest",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Bramble_Vest_item_HD.png/revision/latest/scale-to-width-down/64?cb=20210728165602",
+        "Category": "Epic",
+        "Cost": "800g",
+        "Stats": [
+            "Armor"
+        ],
+        "Gold Efficiency": "75%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Thorns", "Grievous Wounds"]
+    },
+    {
+        "Name": "Catalyst of Aeons",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Catalyst_of_Aeons_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221115195201",
+        "Category": "Epic",
+        "Cost": "1300g",
+        "Stats": [
+            "Health",
+            "Mana"
+        ],
+        "Gold Efficiency": "95%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Mana"]
+    },
+    {
+        "Name": "Caulfield's Warhammer",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Caulfield%27s_Warhammer_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201116173132",
+        "Category": "Epic",
+        "Cost": "1050g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste"
+        ],
+        "Gold Efficiency": "114%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Chain Vest",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Chain_Vest_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221230180206",
+        "Category": "Epic",
+        "Cost": "800g",
+        "Stats": [
+            "Armor"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Crystalline Bracer",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Crystalline_Bracer_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922040918",
+        "Category": "Epic",
+        "Cost": "800g",
+        "Stats": [
+            "Health",
+            "Health Regeneration"
+        ],
+        "Gold Efficiency": "104%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Executioner's Calling",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Executioner%27s_Calling_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110223810",
+        "Category": "Epic",
+        "Cost": "800g",
+        "Stats": [
+            "Attack Damage"
+        ],
+        "Gold Efficiency": "66%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Grievous Wounds"]
+    },
+    {
+        "Name": "Fated Ashes",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Fated_Ashes_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240506150430",
+        "Category": "Epic",
+        "Cost": "900g",
+        "Stats": [
+            "Ability Power"
+        ],
+        "Gold Efficiency": "67%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Burn"]
+    },
+    {
+        "Name": "Fiendish Codex",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Fiendish_Codex_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240916223726",
+        "Category": "Epic",
+        "Cost": "850g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste"
+        ],
+        "Gold Efficiency": "118%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Forbidden Idol",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Forbidden_Idol_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110224151",
+        "Category": "Epic",
+        "Cost": "600g",
+        "Stats": [
+            "Mana Regeneration",
+            "Heal and Shield Power"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Giant's Belt",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Giant%27s_Belt_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110225043",
+        "Category": "Epic",
+        "Cost": "900g",
+        "Stats": [
+            "Health"
+        ],
+        "Gold Efficiency": "104%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Glacial Buckler",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Glacial_Buckler_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240827151522",
+        "Category": "Epic",
+        "Cost": "900g",
+        "Stats": [
+            "Ability Haste",
+            "Armor",
+            "Mana"
+        ],
+        "Gold Efficiency": "144%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Haunting Guise",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/39/Haunting_Guise_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204222821",
+        "Category": "Epic",
+        "Cost": "1300g",
+        "Stats": [
+            "Ability Power",
+            "Health"
+        ],
+        "Gold Efficiency": "87%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Combat Damage"]
+    },
+    {
+        "Name": "Hearthbound Axe",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/Hearthbound_Axe_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109212202",
+        "Category": "Epic",
+        "Cost": "1200g",
+        "Stats": [
+            "Attack Damage",
+            "Attack Speed"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Hexdrinker",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Hexdrinker_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221230172638",
+        "Category": "Epic",
+        "Cost": "1300g",
+        "Stats": [
+            "Attack Damage",
+            "Magic Resistance"
+        ],
+        "Gold Efficiency": "106%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Shield"]
+    },
+    {
+        "Name": "Hextech Alternator",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Hextech_Alternator_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109215050",
+        "Category": "Epic",
+        "Cost": "1100g",
+        "Stats": [
+            "Ability Power"
+        ],
+        "Gold Efficiency": "82%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Magic Damage"]
+    },
+    {
+        "Name": "Kindlegem",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Kindlegem_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221230180333",
+        "Category": "Epic",
+        "Cost": "800g",
+        "Stats": [
+            "Ability Haste",
+            "Health"
+        ],
+        "Gold Efficiency": "129%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Last Whisper",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Last_Whisper_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922045528",
+        "Category": "Epic",
+        "Cost": "1450g",
+        "Stats": [
+            "Attack Damage",
+            "Armor Penetration (%)"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Lost Chapter",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Lost_Chapter_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201116180528",
+        "Category": "Epic",
+        "Cost": "1200g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Mana"
+        ],
+        "Gold Efficiency": "133%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Mana"]
+    },
+    {
+        "Name": "Negatron Cloak",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Negatron_Cloak_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110235211",
+        "Category": "Epic",
+        "Cost": "850g",
+        "Stats": [
+            "Magic Resistance"
+        ],
+        "Gold Efficiency": "106%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Noonquiver",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Noonquiver_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240825035312",
+        "Category": "Epic",
+        "Cost": "1300g",
+        "Stats": [
+            "Attack Damage",
+            "Critical Strike Chance"
+        ],
+        "Gold Efficiency": "102%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Oblivion Orb",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Oblivion_Orb_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110235739",
+        "Category": "Epic",
+        "Cost": "800g",
+        "Stats": [
+            "Ability Power"
+        ],
+        "Gold Efficiency": "62%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Grievous Wounds"]
+    },
+    {
+        "Name": "Phage",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/27/Phage_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111000240",
+        "Category": "Epic",
+        "Cost": "1100g",
+        "Stats": [
+            "Attack Damage",
+            "Health"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Movement Speed On-hit"]
+    },
+    {
+        "Name": "Quicksilver Sash",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Quicksilver_Sash_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111000632",
+        "Category": "Epic",
+        "Cost": "1300g",
+        "Stats": [
+            "Magic Resistance"
+        ],
+        "Gold Efficiency": "46%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "Yes",
+        "Passive": ["Cleanse"]
+    },
+    {
+        "Name": "Rectrix",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Rectrix_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240827150308",
+        "Category": "Epic",
+        "Cost": "775g",
+        "Stats": [
+            "Attack Damage",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "111%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Recurve Bow",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Recurve_Bow_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922045819",
+        "Category": "Epic",
+        "Cost": "700g",
+        "Stats": [
+            "Attack Speed"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Damage On-hit"]
+    },
+    {
+        "Name": "Runic Compass",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Runic_Compass_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214902",
+        "Category": "Epic",
+        "Cost": "400g",
+        "Stats": [
+            "Health",
+            "Health Regeneration",
+            "Mana Regeneration",
+            "Gold per Second"
+        ],
+        "Gold Efficiency": "154%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "Yes",
+        "Passive": ["Vision"]
+    },
+    {
+        "Name": "Scout's Slingshot",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Scout%27s_Slingshot_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240506150437",
+        "Category": "Epic",
+        "Cost": "600g",
+        "Stats": [
+            "Attack Speed"
+        ],
+        "Gold Efficiency": "83%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Magic Damage"]
+    },
+    {
+        "Name": "Seeker's Armguard",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Seeker%27s_Armguard_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111002302",
+        "Category": "Epic",
+        "Cost": "1600g",
+        "Stats": [
+            "Ability Power",
+            "Armor"
+        ],
+        "Gold Efficiency": "81%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "Yes",
+        "Passive": ["Stasis"]
+    },
+    {
+        "Name": "Serrated Dirk",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Serrated_Dirk_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109213353",
+        "Category": "Epic",
+        "Cost": "1000g",
+        "Stats": [
+            "Attack Damage",
+            "Lethality"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Shattered Armguard",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Shattered_Armguard_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214904",
+        "Category": "Epic",
+        "Cost": "1600g",
+        "Stats": [
+            "Ability Power",
+            "Armor"
+        ],
+        "Gold Efficiency": "88%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Sheen",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Sheen_item_HD.png/revision/latest/scale-to-width-down/64?cb=20210728195354",
+        "Category": "Epic",
+        "Cost": "900g",
+        "Stats": [
+            "Ability Haste"
+        ],
+        "Gold Efficiency": "56%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Spellblade"]
+    },
+    {
+        "Name": "Spectre's Cowl",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/Spectre%27s_Cowl_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240827151844",
+        "Category": "Epic",
+        "Cost": "1250g",
+        "Stats": [
+            "Magic Resistance",
+            "Health",
+            "Health Regeneration"
+        ],
+        "Gold Efficiency": "123%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Steel Sigil",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Steel_Sigil_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214908",
+        "Category": "Epic",
+        "Cost": "1100g",
+        "Stats": [
+            "Attack Damage",
+            "Armor"
+        ],
+        "Gold Efficiency": "102%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "The Brutalizer",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/The_Brutalizer_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214917",
+        "Category": "Epic",
+        "Cost": "1337g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Lethality"
+        ],
+        "Gold Efficiency": "114%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Tiamat",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d1/Tiamat_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109211951",
+        "Category": "Epic",
+        "Cost": "1200g",
+        "Stats": [
+            "Attack Damage"
+        ],
+        "Gold Efficiency": "58%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "Yes",
+        "Passive": ["AoE Damage"]
+    },
+    {
+        "Name": "Tunneler",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Tunneler_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214921",
+        "Category": "Epic",
+        "Cost": "1150g",
+        "Stats": [
+            "Attack Damage",
+            "Health"
+        ],
+        "Gold Efficiency": "104%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Vampiric Scepter",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Vampiric_Scepter_item.png/revision/latest?cb=20201118210813",
+        "Category": "Epic",
+        "Cost": "900g",
+        "Stats": [
+            "Attack Damage",
+            "Life Steal"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Verdant Barrier",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Verdant_Barrier_item_HD.png/revision/latest/scale-to-width-down/64?cb=20210825183357",
+        "Category": "Epic",
+        "Cost": "1600g",
+        "Stats": [
+            "Ability Power",
+            "Magic Resistance"
+        ],
+        "Gold Efficiency": "81%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Spellshield"]
+    },
+    {
+        "Name": "Warden's Mail",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Warden%27s_Mail_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111011645",
+        "Category": "Epic",
+        "Cost": "1000g",
+        "Stats": [
+            "Armor"
+        ],
+        "Gold Efficiency": "80%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Damage Reduction"]
+    },
+    {
+        "Name": "Watchful Wardstone",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Watchful_Wardstone_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111011927",
+        "Category": "Epic",
+        "Cost": "1100g",
+        "Stats": [
+            "Ability Haste",
+            "Armor",
+            "Magic Resistance",
+            "Health"
+        ],
+        "Gold Efficiency": "127%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "No",
+        "Passive": ["Vision"]
+    },
+    {
+        "Name": "Winged Moonplate",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Winged_Moonplate_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221230181308",
+        "Category": "Epic",
+        "Cost": "800g",
+        "Stats": [
+            "Health",
+            "Movement Speed",
+            "Armor"
+        ],
+        "Gold Efficiency": "109%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Zeal",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Zeal_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111012514",
+        "Category": "Epic",
+        "Cost": "1200g",
+        "Stats": [
+            "Attack Speed",
+            "Critical Strike Chance",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "109%",
+        "Unique": "No",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Abyssal Mask",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Abyssal_Mask_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221115195027",
+        "Category": "Legendary",
+        "Cost": "2650g",
+        "Stats": [
+            "Ability Haste",
+            "Magic Resistance",
+            "Health"
+        ],
+        "Gold Efficiency": "92%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Magic Resistance Reduction"]
+    },
+    {
+        "Name": "Archangel's Staff",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Archangel%27s_Staff_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111002421",
+        "Category": "Legendary",
+        "Cost": "2900g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Mana"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Mana", "Ability Power", "Quest"]
+    },
+    {
+        "Name": "Ardent Censer",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Ardent_Censer_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110215606",
+        "Category": "Legendary",
+        "Cost": "2200g",
+        "Stats": [
+            "Ability Power",
+            "Mana Regeneration",
+            "Heal and Shield Power",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Attack Speed", "Damage On-hit"]
+    },
+    {
+        "Name": "Axiom Arc",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Axiom_Arc_item_HD.png/revision/latest/scale-to-width-down/64?cb=20211116191653",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Lethality"
+        ],
+        "Gold Efficiency": "116%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Ultimate Haste"]
+    },
+    {
+        "Name": "Banshee's Veil",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Banshee%27s_Veil_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109210523",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Ability Power",
+            "Magic Resistance"
+        ],
+        "Gold Efficiency": "97%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Spell Shield"]
+    },
+    {
+        "Name": "Black Cleaver",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Black_Cleaver_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110220105",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Health"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Movement Speed On-hit", "Armor Reduction"]
+    },
+    {
+        "Name": "Blackfire Torch",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Blackfire_Torch_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240506150426",
+        "Category": "Legendary",
+        "Cost": "2800g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Mana"
+        ],
+        "Gold Efficiency": "114%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Ability Power", "Burn"]
+    },
+    {
+        "Name": "Blade of the Ruined King",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Blade_of_the_Ruined_King_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109211240",
+        "Category": "Legendary",
+        "Cost": "3200g",
+        "Stats": [
+            "Attack Damage",
+            "Attack Speed",
+            "Health"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Damage On-hit"]
+    },
+    {
+        "Name": "Bloodletter's Curse",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/22/Bloodletter%27s_Veil_item.png/revision/latest?cb=20180517220505",
+        "Category": "Legendary",
+        "Cost": "2900g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Health"
+        ],
+        "Gold Efficiency": "99%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Magic Resist Reduction"]
+    },
+    {
+        "Name": "Bloodsong",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Bloodsong_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214410",
+        "Category": "Legendary",
+        "Cost": "400g",
+        "Stats": [
+            "Health",
+            "Health Regeneration",
+            "Mana Regeneration",
+            "Gold per Second"
+        ],
+        "Gold Efficiency": "265%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "Yes",
+        "Passive": ["Vision", "Spellblade"]
+    },
+    {
+        "Name": "Bloodthirster",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Bloodthirster_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922042553",
+        "Category": "Legendary",
+        "Cost": "3400g",
+        "Stats": [
+            "Attack Damage",
+            "Life Steal"
+        ],
+        "Gold Efficiency": "106%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Shield"]
+    },
+    {
+        "Name": "Bounty of Worlds",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Bounty_of_Worlds_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214831",
+        "Category": "Legendary",
+        "Cost": "400g",
+        "Stats": [
+            "Health",
+            "Health Regeneration",
+            "Mana Regeneration",
+            "Gold per Second"
+        ],
+        "Gold Efficiency": "265%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "Yes",
+        "Passive": ["Vision", "Quest"]
+    },
+    {
+        "Name": "Celestial Opposition",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Celestial_Opposition_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214836",
+        "Category": "Legendary",
+        "Cost": "400g",
+        "Stats": [
+            "Health",
+            "Health Regeneration",
+            "Mana Regeneration",
+            "Gold per Second"
+        ],
+        "Gold Efficiency": "265%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "Yes",
+        "Passive": ["Vision", "Damage Reduction"]
+    },
+    {
+        "Name": "Chempunk Chainsword",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Chempunk_Chainsword_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110221734",
+        "Category": "Legendary",
+        "Cost": "3100g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Health"
+        ],
+        "Gold Efficiency": "114%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Grievous Wounds"]
+    },
+    {
+        "Name": "Cosmic Drive",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ab/Cosmic_Drive_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240917004710",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Health",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Movement Speed"]
+    },
+    {
+        "Name": "Cryptbloom",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Cryptbloom_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214726",
+        "Category": "Legendary",
+        "Cost": "2850g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Magic Penetration (%)"
+        ],
+        "Gold Efficiency": "117%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Healing"]
+    },
+    {
+        "Name": "Dawncore",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Dawncore_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214840",
+        "Category": "Legendary",
+        "Cost": "2500g",
+        "Stats": [
+            "Ability Power",
+            "Mana Regeneration",
+            "Heal and Shield Power"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Ability Power", "Heal and Shield Power"]
+    },
+    {
+        "Name": "Dead Man's Plate",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Dead_Man%27s_Plate_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109212711",
+        "Category": "Legendary",
+        "Cost": "2900g",
+        "Stats": [
+            "Armor",
+            "Health",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Slow Resist", "Movement Speed", "Damage On-hit"]
+    },
+    {
+        "Name": "Death's Dance",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Death%27s_Dance_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922034453",
+        "Category": "Legendary",
+        "Cost": "3300g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Armor"
+        ],
+        "Gold Efficiency": "117%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Damage Reduction", "Healing"]
+    },
+    {
+        "Name": "Dream Maker",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fd/Dream_Maker_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240827150125",
+        "Category": "Legendary",
+        "Cost": "400g",
+        "Stats": [
+            "Health",
+            "Health Regeneration",
+            "Mana Regeneration",
+            "Gold per Second"
+        ],
+        "Gold Efficiency": "265%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "Yes",
+        "Passive": ["Damage Reduction", "Damage On-hit"]
+    },
+    {
+        "Name": "Echoes of Helia",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Echoes_of_Helia_item_HD.png/revision/latest/scale-to-width-down/64?cb=20230518120814",
+        "Category": "Legendary",
+        "Cost": "2200g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Health",
+            "Mana Regeneration"
+        ],
+        "Gold Efficiency": "124%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Healing", "Magic Damage"]
+    },
+    {
+        "Name": "Eclipse",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Eclipse_item.png/revision/latest?cb=20201118204016",
+        "Category": "Legendary",
+        "Cost": "2900g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste"
+        ],
+        "Gold Efficiency": "98%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Shield"]
+    },
+    {
+        "Name": "Edge of Night",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Edge_of_Night_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110223151",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Lethality",
+            "Health"
+        ],
+        "Gold Efficiency": "96%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Spell Shield"]
+    },
+    {
+        "Name": "Essence Reaver",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Essence_Reaver_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109214442",
+        "Category": "Legendary",
+        "Cost": "2900g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Critical Strike Chance"
+        ],
+        "Gold Efficiency": "133%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Mana"]
+    },
+    {
+        "Name": "Experimental Hexplate",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Experimental_Hexplate_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240916221318",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Attack Speed",
+            "Health"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Ultimate Haste", "Movement Speed", "Attack Speed"]
+    },
+    {
+        "Name": "Fimbulwinter",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Fimbulwinter_item_HD.png/revision/latest/scale-to-width-down/64?cb=20211116191950",
+        "Category": "Legendary",
+        "Cost": "2400g",
+        "Stats": [
+            "Ability Haste",
+            "Health",
+            "Mana"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ], 
+        "Active": "No",
+        "Passive": ["Bonus Health", "Shield"]
+    },
+    {
+        "Name": "Force of Nature",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Force_of_Nature_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109212810",
+        "Category": "Legendary",
+        "Cost": "2800g",
+        "Stats": [
+            "Magic Resistance",
+            "Health",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Movement Speed", "Bonus Resistances"]
+    },
+    {
+        "Name": "Frozen Heart",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/86/Frozen_Heart_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240917003558",
+        "Category": "Legendary",
+        "Cost": "2500g",
+        "Stats": [
+            "Ability Haste",
+            "Armor",
+            "Mana"
+        ],
+        "Gold Efficiency": "116%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Attack Speed Reduction"]
+    },
+    {
+        "Name": "Guardian Angel",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Guardian_Angel_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109213832",
+        "Category": "Legendary",
+        "Cost": "3200g",
+        "Stats": [
+            "Attack Damage",
+            "Armor"
+        ],
+        "Gold Efficiency": "88%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Resurrection"]
+    },
+    {
+        "Name": "Guinsoo's Rageblade",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/64/Guinsoo%27s_Rageblade_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110230134",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Power",
+            "Attack Speed"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Bonus Attack Speed", "Damage On-hit"]
+    },
+    {
+        "Name": "Heartsteel",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Heartsteel_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221115195510",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Health",
+            "Health Regeneration"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Size", "Bonus Health", "Damage On-hit"]
+    },
+    {
+        "Name": "Hextech Rocketbelt",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Hextech_Rocketbelt_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922043316",
+        "Category": "Legendary",
+        "Cost": "2600g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Health"
+        ],
+        "Gold Efficiency": "111%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["Dash", "Magic Damage"]
+    },
+    {
+        "Name": "Hollow Radiance",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Hollow_Radiance_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231205225746",
+        "Category": "Legendary",
+        "Cost": "2800g",
+        "Stats": [
+            "Ability Haste",
+            "Magic Resistance",
+            "Health",
+            "Health Regeneration"
+        ],
+        "Gold Efficiency": "95%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["AoE Damage"]
+    },
+    {
+        "Name": "Horizon Focus",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e8/Horizon_Focus_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240917004232",
+        "Category": "Legendary",
+        "Cost": "2700g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste"
+        ],
+        "Gold Efficiency": "102%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Vision", "Combat Damage"]
+    },
+    {
+        "Name": "Hubris",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Hubris_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214849",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Lethality"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Attack Damage"]
+    },
+    {
+        "Name": "Hullbreaker",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Hullbreaker_item_HD.png/revision/latest/scale-to-width-down/64?cb=20210824190552",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Health",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "102%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Damage On-hit", "Minions"]
+    },
+    {
+        "Name": "Iceborn Gauntlet",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Iceborn_Gauntlet_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221117180527",
+        "Category": "Legendary",
+        "Cost": "2900g",
+        "Stats": [
+            "Ability Haste",
+            "Armor",
+            "Health"
+        ],
+        "Gold Efficiency": "88%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Spellblade"]
+    },
+    {
+        "Name": "Immortal Shieldbow",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Immortal_Shieldbow_item.png/revision/latest?cb=20201118205028",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Critical Strike Chance"
+        ],
+        "Gold Efficiency": "98%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Shield"]
+    },
+    {
+        "Name": "Imperial Mandate",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bc/Imperial_Mandate_item.png/revision/latest?cb=20201104212814",
+        "Category": "Legendary",
+        "Cost": "2250g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Mana Regeneration"
+        ],
+        "Gold Efficiency": "120%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Magic Damage"]
+    },
+    {
+        "Name": "Infinity Edge",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Infinity_Edge_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109213737",
+        "Category": "Legendary",
+        "Cost": "3600g",
+        "Stats": [
+            "Attack Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage"
+        ],
+        "Gold Efficiency": "96%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Jak'Sho, The Protean",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Jak%27Sho%2C_The_Protean_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221115193817",
+        "Category": "Legendary",
+        "Cost": "3200g",
+        "Stats": [
+            "Armor",
+            "Magic Resistance",
+            "Health"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Bonus Resistances"]
+    },
+    {
+        "Name": "Kaenic Rookern",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Kaenic_Rookern_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214851",
+        "Category": "Legendary",
+        "Cost": "2900g",
+        "Stats": [
+            "Magic Resistance",
+            "Health",
+            "Health Regeneration"
+        ],
+        "Gold Efficiency": "102%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Shield"]
+    },
+    {
+        "Name": "Knight's Vow",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Knight%27s_Vow_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109213037",
+        "Category": "Legendary",
+        "Cost": "2300g",
+        "Stats": [
+            "Ability Haste",
+            "Armor",
+            "Health",
+            "Health Regeneration"
+        ],
+        "Gold Efficiency": "93%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["Healing", "Damage Reduction"]
+    },
+    {
+        "Name": "Kraken Slayer",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Kraken_Slayer_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110232124",
+        "Category": "Legendary",
+        "Cost": "3100g",
+        "Stats": [
+            "Attack Damage",
+            "Attack Speed",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "94%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Damage On-hit"]
+    },
+    {
+        "Name": "Liandry's Torment",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Liandry%27s_Torment_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922043519",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Ability Power",
+            "Health"
+        ],
+        "Gold Efficiency": "73%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Burn", "Combat Damage"]
+    },
+    {
+        "Name": "Lich Bane",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Lich_Bane_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109211107",
+        "Category": "Legendary",
+        "Cost": "3200g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "98%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Spellblade"]
+    },
+    {
+        "Name": "Locket of the Iron Solari",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Locket_of_the_Iron_Solari_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109212528",
+        "Category": "Legendary",
+        "Cost": "2200g",
+        "Stats": [
+            "Ability Haste",
+            "Armor",
+            "Magic Resistance",
+            "Health"
+        ],
+        "Gold Efficiency": "92%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["Shield"]
+    },
+    {
+        "Name": "Lord Dominik's Regards",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Lord_Dominik%27s_Regards_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109214027",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Critical Strike Chance",
+            "Armor Penetration (%)"
+        ],
+        "Gold Efficiency": "123%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Luden's Companion",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Luden%27s_Companion_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240916225518",
+        "Category": "Legendary",
+        "Cost": "2850g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Mana"
+        ],
+        "Gold Efficiency": "109%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Magic Damage"]
+    },
+    {
+        "Name": "Malignance",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Malignance_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214853",
+        "Category": "Legendary",
+        "Cost": "2700g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Mana"
+        ],
+        "Gold Efficiency": "113%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Ultimate Haste", "Magic Damage"]
+    },
+    {
+        "Name": "Manamune",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Manamune_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922042507",
+        "Category": "Legendary",
+        "Cost": "2900g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Mana"
+        ],
+        "Gold Efficiency": "Variable",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Attack Damage", "Mana", "Quest"]
+    },
+    {
+        "Name": "Maw of Malmortius",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/51/Maw_of_Malmortius_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240827151928",
+        "Category": "Legendary",
+        "Cost": "3100g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Magic Resistance"
+        ],
+        "Gold Efficiency": "118%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Shield", "Omnivamp"]
+    },
+    {
+        "Name": "Mejai's Soulstealer",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Mejai%27s_Soulstealer_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221103165010",
+        "Category": "Legendary",
+        "Cost": "1500g",
+        "Stats": [
+            "Ability Power",
+            "Health"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "No",
+        "Passive": ["Ability Power", "Movement Speed"]
+    },
+    {
+        "Name": "Mercurial Scimitar",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Mercurial_Scimitar_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110234009",
+        "Category": "Legendary",
+        "Cost": "3200g",
+        "Stats": [
+            "Attack Damage",
+            "Magic Resistance",
+            "Life Steal"
+        ],
+        "Gold Efficiency": "85%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["Cleanse"]
+    },
+    {
+        "Name": "Mikael's Blessing",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Mikael%27s_Blessing_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922034151",
+        "Category": "Legendary",
+        "Cost": "2300g",
+        "Stats": [
+            "Ability Haste",
+            "Health",
+            "Mana Regeneration",
+            "Heal and Shield Power"
+        ],
+        "Gold Efficiency": "105%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["Cleanse", "Healing"]
+    },
+    {
+        "Name": "Moonstone Renewer",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Moonstone_Renewer_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110234334",
+        "Category": "Legendary",
+        "Cost": "2200g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Health",
+            "Mana Regeneration"
+        ],
+        "Gold Efficiency": "115%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Healing", "Shield"]
+    },
+    {
+        "Name": "Morellonomicon",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Morellonomicon_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110234439",
+        "Category": "Legendary",
+        "Cost": "2950g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Health"
+        ],
+        "Gold Efficiency": "108%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Grievous Wounds"]
+    },
+    {
+        "Name": "Mortal Reminder",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Mortal_Reminder_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110234613",
+        "Category": "Legendary",
+        "Cost": "3200g",
+        "Stats": [
+            "Attack Damage",
+            "Critical Strike Chance",
+            "Armor Penetration (%)"
+        ],
+        "Gold Efficiency": "109%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Grievous Wounds"]
+    },
+    {
+        "Name": "Muramana",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/Muramana_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922035250",
+        "Category": "Legendary",
+        "Cost": "2900g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Mana"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Attack Damage", "Damage On-hit"]
+    },
+    {
+        "Name": "Nashor's Tooth",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Nashor%27s_Tooth_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201110234914",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Attack Speed"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Damage On-hit"]
+    },
+    {
+        "Name": "Navori Flickerblade",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Navori_Flickerblade_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240506150432",
+        "Category": "Legendary",
+        "Cost": "2650g",
+        "Stats": [
+            "Attack Speed",
+            "Critical Strike Chance",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "88%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Cooldown Reduction"]
+    },
+    {
+        "Name": "Opportunity",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Opportunity_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240827150210",
+        "Category": "Legendary",
+        "Cost": "2700g",
+        "Stats": [
+            "Attack Damage",
+            "Lethality"
+        ],
+        "Gold Efficiency": "88%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Movement Speed", "Bonus Lethality"]
+    },
+    {
+        "Name": "Overlord's Bloodmail",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Overlord%27s_Bloodmail_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240511195413",
+        "Category": "Legendary",
+        "Cost": "3300g",
+        "Stats": [
+            "Attack Damage",
+            "Health"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Bonus Attack Damage"]
+    },
+    {
+        "Name": "Phantom Dancer",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Phantom_Dancer_item_HD.png/revision/latest/scale-to-width-down/64?cb=20230613182250",
+        "Category": "Legendary",
+        "Cost": "2650g",
+        "Stats": [
+            "Attack Speed",
+            "Critical Strike Chance",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "120%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Ghosted"]
+    },
+    {
+        "Name": "Profane Hydra",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Profane_Hydra_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240915025338",
+        "Category": "Legendary",
+        "Cost": "3200g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Lethality"
+        ],
+        "Gold Efficiency": "98%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["AoE Damage"]
+    },
+    {
+        "Name": "Rabadon's Deathcap",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Rabadon%27s_Deathcap_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240918170301",
+        "Category": "Legendary",
+        "Cost": "3600g",
+        "Stats": [
+            "Ability Power"
+        ],
+        "Gold Efficiency": "94%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Ability Power"]
+    },
+    {
+        "Name": "Randuin's Omen",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Randuin%27s_Omen_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240917003716",
+        "Category": "Legendary",
+        "Cost": "2700g",
+        "Stats": [
+            "Armor",
+            "Health"
+        ],
+        "Gold Efficiency": "90%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["Damage Reduction"]
+    },
+    {
+        "Name": "Rapid Firecannon",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Rapid_Firecannon_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109214154",
+        "Category": "Legendary",
+        "Cost": "2650g",
+        "Stats": [
+            "Attack Speed",
+            "Critical Strike Chance",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "83%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Energize", "Magic Damage"]
+    },
+    {
+        "Name": "Ravenous Hydra",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Ravenous_Hydra_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109211614",
+        "Category": "Legendary",
+        "Cost": "3300g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Life Steal"
+        ],
+        "Gold Efficiency": "111%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["AoE Damage"]
+    },
+    {
+        "Name": "Redemption",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e6/Redemption_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111001608",
+        "Category": "Legendary",
+        "Cost": "2300g",
+        "Stats": [
+            "Ability Haste",
+            "Health",
+            "Mana Regeneration",
+            "Heal and Shield Power"
+        ],
+        "Gold Efficiency": "95%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Riftmaker",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Riftmaker_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240918173916",
+        "Category": "Legendary",
+        "Cost": "3100g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Health"
+        ],
+        "Gold Efficiency": "99%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Omnivamp", "Ability Power"]
+    },
+    {
+        "Name": "Rod of Ages",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Rod_of_Ages_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221115195303",
+        "Category": "Legendary",
+        "Cost": "2600g",
+        "Stats": [
+            "Ability Power",
+            "Health",
+            "Mana"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Mana", "Ability Power", "Bonus Health", "Level Up"]
+    },
+    {
+        "Name": "Runaan's Hurricane",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Runaan%27s_Hurricane_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111001820",
+        "Category": "Legendary",
+        "Cost": "2650g",
+        "Stats": [
+            "Attack Speed",
+            "Critical Strike Chance",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "88%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Damage On-hit", "AoE Damage"]
+    },
+    {
+        "Name": "Rylai's Crystal Scepter",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Rylai%27s_Crystal_Scepter_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240827151832",
+        "Category": "Legendary",
+        "Cost": "2600g",
+        "Stats": [
+            "Ability Power",
+            "Health"
+        ],
+        "Gold Efficiency": "91%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Slow"]
+    },
+    {
+        "Name": "Seraph's Embrace",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Seraph%27s_Embrace_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111002614",
+        "Category": "Legendary",
+        "Cost": "2900g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Mana"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Ability Power", "Shield"]
+    },
+    {
+        "Name": "Serpent's Fang",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Serpent%27s_Fang_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240917005031",
+        "Category": "Legendary",
+        "Cost": "2500g",
+        "Stats": [
+            "Attack Damage",
+            "Lethality"
+        ],
+        "Gold Efficiency": "95%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Shield Reduction"]
+    },
+    {
+        "Name": "Serylda's Grudge",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/12/Serylda%27s_Grudge_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109213226",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Armor Penetration (%)"
+        ],
+        "Gold Efficiency": "128%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Slow"]
+    },
+    {
+        "Name": "Shadowflame",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Shadowflame_item_HD.png/revision/latest/scale-to-width-down/64?cb=20211116192225",
+        "Category": "Legendary",
+        "Cost": "3200g",
+        "Stats": [
+            "Ability Power",
+            "Magic Penetration (flat)"
+        ],
+        "Gold Efficiency": "86%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Magic Damage", "Critical"]
+    },
+    {
+        "Name": "Shurelya's Battlesong",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Shurelya%27s_Battlesong_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922044223",
+        "Category": "Legendary",
+        "Cost": "2200g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Mana Regeneration",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "118%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Solstice Sleigh",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Solstice_Sleigh_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240827150430",
+        "Category": "Legendary",
+        "Cost": "400g",
+        "Stats": [
+            "Health",
+            "Health Regeneration",
+            "Mana Regeneration",
+            "Gold per Second"
+        ],
+        "Gold Efficiency": "265%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "Yes",
+        "Passive": ["Vision", "Movement Speed", "Healing"]
+    },
+    {
+        "Name": "Spear of Shojin",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Spear_of_Shojin_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221115194227",
+        "Category": "Legendary",
+        "Cost": "3100g",
+        "Stats": [
+            "Attack Damage",
+            "Health"
+        ],
+        "Gold Efficiency": "90%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Ability Haste", "Combat Damage"]
+    },
+    {
+        "Name": "Spirit Visage",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Spirit_Visage_item_HD.png/revision/latest/scale-to-width-down/64?cb=20221223051628",
+        "Category": "Legendary",
+        "Cost": "2700g",
+        "Stats": [
+            "Ability Haste",
+            "Magic Resistance",
+            "Health",
+            "Health Regeneration"
+        ],
+        "Gold Efficiency": "112%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Healing", "Shield"]
+    },
+    {
+        "Name": "Staff of Flowing Water",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Staff_of_Flowing_Water_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109214821",
+        "Category": "Legendary",
+        "Cost": "2250g",
+        "Stats": [
+            "Ability Power",
+            "Ability Haste",
+            "Mana Regeneration",
+            "Heal and Shield Power"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Ability Power"]
+    },
+    {
+        "Name": "Statikk Shiv",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Statikk_Shiv_item_HD.png/revision/latest/scale-to-width-down/64?cb=20230518120817",
+        "Category": "Legendary",
+        "Cost": "2700g",
+        "Stats": [
+            "Attack Damage",
+            "Attack Speed",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "99%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Magic Damage", "Damage On-hit"]
+    },
+    {
+        "Name": "Sterak's Gage",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Sterak%27s_Gage_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109220051",
+        "Category": "Legendary",
+        "Cost": "3200g",
+        "Stats": [
+            "Health",
+            "Tenacity"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Attack Damage", "Shield"]
+    },
+    {
+        "Name": "Stormsurge",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Stormsurge_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214910",
+        "Category": "Legendary",
+        "Cost": "2900g",
+        "Stats": [
+            "Ability Power",
+            "Magic Penetration (flat)",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "93%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Movement Speed", "Magic Damage"]
+    },
+    {
+        "Name": "Stridebreaker",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7a/Stridebreaker_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111004515",
+        "Category": "Legendary",
+        "Cost": "3300g",
+        "Stats": [
+            "Attack Damage",
+            "Attack Speed",
+            "Health"
+        ],
+        "Gold Efficiency": "98%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["AoE Damage", "Movement Speed"]
+    },
+    {
+        "Name": "Sundered Sky",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/86/Sundered_Sky_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214913",
+        "Category": "Legendary",
+        "Cost": "3100g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Health"
+        ],
+        "Gold Efficiency": "96%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Healing", "Critical"]
+    },
+    {
+        "Name": "Sunfire Aegis",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Sunfire_Aegis_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240916221143",
+        "Category": "Legendary",
+        "Cost": "2700g",
+        "Stats": [
+            "Ability Haste",
+            "Armor",
+            "Health"
+        ],
+        "Gold Efficiency": "90%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["AoE Damage"]
+    },
+    {
+        "Name": "Terminus",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Terminus_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214915",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Attack Speed"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Damage On-hit", "Bonus Resistances"]
+    },
+    {
+        "Name": "The Collector",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/The_Collector_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240922034639",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Lethality",
+            "Critical Strike Chance"
+        ],
+        "Gold Efficiency": "102%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Execute", "Gold"]
+    },
+    {
+        "Name": "Thornmail",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Thornmail_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111005023",
+        "Category": "Legendary",
+        "Cost": "2450g",
+        "Stats": [
+            "Armor",
+            "Health"
+        ],
+        "Gold Efficiency": "78%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Thorns", "Grievous Wounds"]
+    },
+    {
+        "Name": "Titanic Hydra",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Titanic_Hydra_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109211812",
+        "Category": "Legendary",
+        "Cost": "3300g",
+        "Stats": [
+            "Attack Damage",
+            "Health"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["AoE Damage"]
+    },
+    {
+        "Name": "Trailblazer",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Trailblazer_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214919",
+        "Category": "Legendary",
+        "Cost": "2400g",
+        "Stats": [
+            "Armor",
+            "Health",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Movement Speed", "Slow"]
+    },
+    {
+        "Name": "Trinity Force",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Trinity_Force_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111011055",
+        "Category": "Legendary",
+        "Cost": "3333g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Attack Speed",
+            "Health"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Spellblade", "Movement Speed On-hit"]
+    },
+    {
+        "Name": "Umbral Glaive",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Umbral_Glaive_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109213521",
+        "Category": "Legendary",
+        "Cost": "2600g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Lethality"
+        ],
+        "Gold Efficiency": "104%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Vision"]
+    },
+    {
+        "Name": "Unending Despair",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Unending_Despair_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214923",
+        "Category": "Legendary",
+        "Cost": "2800g",
+        "Stats": [
+            "Ability Haste",
+            "Armor",
+            "Magic Resistance",
+            "Health"
+        ],
+        "Gold Efficiency": "92%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Magic Damage", "Healing"]
+    },
+    {
+        "Name": "Vigilant Wardstone",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Vigilant_Wardstone_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111011537",
+        "Category": "Legendary",
+        "Cost": "2300g",
+        "Stats": [
+            "Ability Haste",
+            "Armor",
+            "Magic Resistance",
+            "Health"
+        ],
+        "Gold Efficiency": "120%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "No",
+        "Passive": ["Vision", "Quest"]
+    },
+    {
+        "Name": "Void Staff",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Void_Staff_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109210758",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Ability Power",
+            "Magic Penetration (%)"
+        ],
+        "Gold Efficiency": "125%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["None"]
+    },
+    {
+        "Name": "Voltaic Cyclosword",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Voltaic_Cyclosword_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214925",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Ability Haste",
+            "Lethality"
+        ],
+        "Gold Efficiency": "99%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Damage On-hit", "Energize", "Slow"]
+    },
+    {
+        "Name": "Warmog's Armor",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6e/Warmog%27s_Armor_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240918170750",
+        "Category": "Legendary",
+        "Cost": "3300g",
+        "Stats": [
+            "Health",
+            "Health Regeneration",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Healing", "Movement Speed"]
+    },
+    {
+        "Name": "Winter's Approach",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Winter%27s_Approach_item_HD.png/revision/latest/scale-to-width-down/64?cb=20211116191607",
+        "Category": "Legendary",
+        "Cost": "2400g",
+        "Stats": [
+            "Ability Haste",
+            "Health",
+            "Mana"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Bonus Health", "Mana", "Quest"]
+    },
+    {
+        "Name": "Wit's End",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Wit%27s_End_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111012107",
+        "Category": "Legendary",
+        "Cost": "2800g",
+        "Stats": [
+            "Magic Resistance",
+            "Attack Speed",
+            "Tenacity"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Damage On-hit"]
+    },
+    {
+        "Name": "Youmuu's Ghostblade",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Youmuu%27s_Ghostblade_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111012227",
+        "Category": "Legendary",
+        "Cost": "2800g",
+        "Stats": [
+            "Attack Damage",
+            "Lethality",
+            "Movement Speed"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["Movement Speed"]
+    },
+    {
+        "Name": "Yun Tal Wildarrows",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Yun_Tal_Wildarrows_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240506150444",
+        "Category": "Legendary",
+        "Cost": "3000g",
+        "Stats": [
+            "Attack Damage",
+            "Attack Speed"
+        ],
+        "Gold Efficiency": "Varies",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz"
+        ],
+        "Active": "No",
+        "Passive": ["Critical", "Attack Speed"]
+    },
+    {
+        "Name": "Zaz'Zak's Realmspike",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Zaz%27Zak%27s_Realmspike_item_HD.png/revision/latest/scale-to-width-down/64?cb=20231204214930",
+        "Category": "Legendary",
+        "Cost": "400g",
+        "Stats": [
+            "Health",
+            "Health Regeneration",
+            "Mana Regeneration",
+            "Gold per Second"
+        ],
+        "Gold Efficiency": "265%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift"
+        ],
+        "Active": "Yes",
+        "Passive": ["Vision", "Magic Damage"]
+    },
+    {
+        "Name": "Zeke's Convergence",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Zeke%27s_Convergence_item_HD.png/revision/latest/scale-to-width-down/64?cb=20240109220207",
+        "Category": "Legendary",
+        "Cost": "2300g",
+        "Stats": [
+            "Ability Haste",
+            "Armor",
+            "Magic Resistance",
+            "Health"
+        ],
+        "Gold Efficiency": "100%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "No",
+        "Passive": ["Magic Damage", "Slow"]
+    },
+    {
+        "Name": "Zhonya's Hourglass",
+        "Image URL": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Zhonya%27s_Hourglass_item_HD.png/revision/latest/scale-to-width-down/64?cb=20201111012842",
+        "Category": "Legendary",
+        "Cost": "3250g",
+        "Stats": [
+            "Ability Power",
+            "Armor"
+        ],
+        "Gold Efficiency": "95%",
+        "Unique": "Yes",
+        "Component": "No",
+        "Maps": [
+            "Summoner's Rift",
+            "ARAM",
+            "Nexus Blitz",
+            "Arena"
+        ],
+        "Active": "Yes",
+        "Passive": ["Stasis"]
+    }
+]

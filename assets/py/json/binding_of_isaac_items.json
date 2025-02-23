@@ -1,0 +1,170 @@
+[
+    {
+        "Name": "A Pony",
+        "Image URL": "https://bindingofisaacrebirth.wiki.gg/images/1/15/Collectible_A_Pony_icon.png",
+        "Active": "Yes",
+        "Quote": "Flight + dash attack",
+        "Charge": "2 rooms",
+        "Quality": "2",
+        "Item Pool": [
+            "None"
+        ],
+        "Unlock": "Defeat  Mom",
+        "Description": [
+            "Cards",
+            "Contact Damage",
+            "Damage",
+            "Dash",
+            "Flight",
+            "Invincibility",
+            "Shield",
+            "Speed"
+        ],
+        "Released": "Rebirth"
+    },
+    {
+        "Name": "Anarchist Cookbook",
+        "Image URL": "https://bindingofisaacrebirth.wiki.gg/images/c/c6/Collectible_Anarchist_Cookbook_icon.png",
+        "Active": "Yes",
+        "Quote": "Summon bombs",
+        "Charge": "3 rooms",
+        "Quality": "1",
+        "Item Pool": [
+            "Library",
+            "Treasure Room"
+        ],
+        "Unlock": "Default",
+        "Description": [
+            "No effects listed"
+        ],
+        "Released": "Rebirth"
+    },
+    {
+        "Name": "Best Friend",
+        "Image URL": "https://bindingofisaacrebirth.wiki.gg/images/a/af/Collectible_Best_Friend_icon.png",
+        "Active": "Yes",
+        "Quote": "Friends 'till the end",
+        "Charge": "3 rooms",
+        "Quality": "1",
+        "Item Pool": [
+            "Crane Game",
+            "Treasure Room"
+        ],
+        "Unlock": "Default",
+        "Description": [
+            "No effects listed"
+        ],
+        "Released": "Rebirth"
+    },
+    {
+        "Name": "Blank Card",
+        "Image URL": "https://bindingofisaacrebirth.wiki.gg/images/6/6c/Collectible_Blank_Card_icon.png",
+        "Active": "Yes",
+        "Quote": "Card mimic",
+        "Charge": "4 rooms",
+        "Quality": "2",
+        "Item Pool": [
+            "Treasure Room",
+            "Secret Room",
+            "Shop"
+        ],
+        "Unlock": "Defeat  Isaac as  Eden",
+        "Description": [
+            "Cards"
+        ],
+        "Released": "Rebirth"
+    },
+    {
+        "Name": "Blood Rights",
+        "Image URL": "https://bindingofisaacrebirth.wiki.gg/images/b/b8/Collectible_Blood_Rights_icon.png",
+        "Active": "Yes",
+        "Quote": "Mass enemy damage at a cost",
+        "Charge": "N/A",
+        "Quality": "0",
+        "Item Pool": [
+            "Devil Room",
+            "Treasure Room"
+        ],
+        "Unlock": "Defeat  Satan as  Samson",
+        "Description": [
+            "No effects listed"
+        ],
+        "Released": "Rebirth"
+    },
+    {
+        "Name": "Bob's Rotten Head",
+        "Image URL": "https://bindingofisaacrebirth.wiki.gg/images/f/f6/Collectible_Bob%27s_Rotten_Head_icon.png",
+        "Active": "Yes",
+        "Quote": "Reusable ranged bomb",
+        "Charge": "2 rooms",
+        "Quality": "1",
+        "Item Pool": [
+            "Golden Chest",
+            "Rotten Beggar",
+            "Treasure Room"
+        ],
+        "Unlock": "Default",
+        "Description": [
+            "Bombs",
+            "Damage",
+            "Poison"
+        ],
+        "Released": "Rebirth"
+    },
+    {
+        "Name": "Schoolbag",
+        "Image URL": "https://bindingofisaacrebirth.wiki.gg/images/d/d7/Collectible_Schoolbag_icon.png",
+        "Active": "No",
+        "Quote": "Extra active item room",
+        "Charge": "N/A",
+        "Quality": "3",
+        "Item Pool": [
+            "Golden Chest",
+            "Shop"
+        ],
+        "Unlock": "Enter 6 Shops in one run",
+        "Description": [
+            "No effects listed"
+        ],
+        "Released": "Afterbirth+"
+    },
+    {
+        "Name": "Restock",
+        "Image URL": "https://bindingofisaacrebirth.wiki.gg/images/3/37/Collectible_Restock_icon.png",
+        "Active": "No",
+        "Quote": "Never ending stores!",
+        "Charge": "N/A",
+        "Quality": "2",
+        "Item Pool": [
+            "Beggar",
+            "Shop"
+        ],
+        "Unlock": "Default",
+        "Description": [
+            "Items",
+            "Range"
+        ],
+        "Released": "Afterbirth"
+    },
+    {
+        "Name": "Mega Mush",
+        "Image URL": "https://bindingofisaacrebirth.wiki.gg/images/b/b6/Collectible_Mega_Mush_icon.png",
+        "Active": "Yes",
+        "Quote": "I'm a big boy now!",
+        "Charge": "12 rooms",
+        "Quality": "4",
+        "Item Pool": [
+            "Secret Room",
+            "Treasure Room"
+        ],
+        "Unlock": "Earn all Hard mode Completion Marks for all non-Tainted characters",
+        "Description": [
+            "Bombs",
+            "Contact Damage",
+            "Damage",
+            "Range",
+            "Tears"
+        ],
+        "Released": "Repentance"
+    }
+]
