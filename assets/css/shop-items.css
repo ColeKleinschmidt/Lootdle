@@ -1,0 +1,80 @@
+#shop-items-container 
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+    gap: 20px;
+}
+
+.shop-item 
+{
+    text-align: center;
+    color: white;
+    font-family: 'Press Start 2P', sans-serif;
+    width: 75px;
+    max-height: auto;
+    margin-top: 15.5em;
+    position: relative;
+    animation: shake 5s ease-in-out infinite;
+    animation-delay: calc(var(--random-delay, 0) * 1s);
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover animation */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    user-select: none; /* Prevent text selection on hover */
+}
+
+.shop-item:hover 
+{
+    transform: translateY(-20px); /* Raise the item by 20px */
+    animation: none; /* Stop the shaking animation */
+}
+
+.shop-item img
+{
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease; /* Ensure smooth transition for images */
+}
+
+@keyframes shake {
+    0% {
+        transform: translate(0, 0);
+    }
+    25% {
+        transform: translate(-1px, 1px);
+    }
+    50% {
+        transform: translate(1px, -1px);
+    }
+    75% {
+        transform: translate(-1px, -1px);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+.shop-item .tooltip 
+{
+    display: none;
+    position: absolute;
+    bottom: 65%; /* Position above the item, stays static */
+    left: 60%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    text-align: center;
+    white-space: nowrap;
+    z-index: 10;
+    pointer-events: none; /* Prevent tooltip from interfering with hover */
+}
+
+.shop-item:hover .tooltip 
+{
+    display: block; /* Show the tooltip on hover */
+}
