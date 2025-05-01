@@ -83,3 +83,34 @@ body
 .user-button.active .textbox {
     opacity: 1;
 }
+
+#game-description {
+    position: absolute; /* Position it independently of other elements */
+    top: 37%; /* Adjust the vertical position */
+    left: 50%; /* Center it horizontally */
+    transform: translateX(-50%); /* Center alignment */
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 16px;
+    color: #c67cdd;
+    z-index: 1000; /* Ensure it appears above other elements */
+    pointer-events: none; /* Prevent it from interfering with clicks */
+    font-style: italic;
+
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+#game-description span {
+    display: inline-block; /* Ensure each letter is treated as a block for animation */
+    animation: dance 5s infinite ease-in-out;
+    animation-delay: calc(var(--index) * 0.1s); /* Stagger animation for each letter */
+}
+
+/* Keyframes for the dancing animation */
+@keyframes dance {
+    0%, 100% {
+        transform: translateY(0); /* Start and end at the original position */
+    }
+    50% {
+        transform: translateY(-5px); /* Move up slightly */
+    }
+}

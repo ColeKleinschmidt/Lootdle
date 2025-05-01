@@ -8,38 +8,96 @@
     <link rel="stylesheet" href="assets/css/index.css">
     <link rel="stylesheet" href="assets/css/crt.css">
     <link rel="stylesheet" href="assets/css/shop-items.css">
+    <link rel="stylesheet" href="assets/css/modal.css">
+    <link rel="stylesheet" href="assets/css/shopkeeper.css">
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
     <style>
     </style>
 </head>
 <body>
-    <div id="shop-items-container">
-        <a href="assets/html/minecraft-wordle.html" class="shop-item" data-title="Crafting Table" data-description="Minecraft Wordle">
-            <img src="assets/shop-items-static/Item_CraftingTable.png" alt="Shop Item 1">
-        </a>
-        <a href="assets/html/the-binding-of-isaac-wordle.html" class="shop-item" data-title="Guppy's Head" data-description="The Binding of Isaac Wordle">
-            <img src="assets/shop-items-static/Item_Guppy.png" alt="Shop Item 2">
-        </a>
-        <a href="assets/html/stardew-valley-wordle.html" class="shop-item" data-title="Junimo" data-description="Stardew Valley Wordle">
-            <img src="assets/shop-items-static/Item_Junimo.png" alt="Shop Item 3">
-        </a>
-        <a href="assets/html/pokemon-wordle.html" class="shop-item" data-title="Pokéball" data-description="Pokémon Wordle">
-            <img src="assets/shop-items-static/Item_Pokeball.png" alt="Shop Item 4">
-        </a>
-        <a href="assets/html/league-of-legends-wordle.html" class="shop-item" data-title="Poro" data-description="League of Legends Wordle">
-            <img src="assets/shop-items-static/Item_Poro.png" alt="Shop Item 5">
-        </a>
-        <a href="assets/html/enter-the-gungeon-wordle.html" class="shop-item" data-title="Ser Junkan" data-description="Enter the Gungeon Wordle">
-            <img src="assets/shop-items-static/Item_SerJunkan.png" alt="Shop Item 6">
-        </a>
-        <a href="assets/html/terraria-wordle.html" class="shop-item" data-title="Slime" data-description="Terraria Wordle">
-            <img src="assets/shop-items-static/Item_Slime.png" alt="Shop Item 7">
-        </a>
-        <a href="assets/html/risk-of-rain-wordle.html" class="shop-item" data-title="Tougher Times" data-description="Risk of Rain Wordle">
-            <img src="assets/shop-items-static/Item_TougherTimes.png" alt="Shop Item 8">
-        </a>
+    <div id="game-description">
+        <span>W</span><span>o</span><span>r</span><span>d</span><span>l</span><span>e</span>
+        <span>f</span><span>o</span><span>r</span>
+        <span>v</span><span>i</span><span>d</span><span>e</span><span>o</span>
+        <span>g</span><span>a</span><span>m</span><span>e</span>
+        <span>i</span><span>t</span><span>e</span><span>m</span><span>s</span>
     </div>
-    <div id="crt-overlay"></div>
+    <div id="user-container">
+        <div id="shopkeeper">
+            <div id="exclamation-point">!</div>
+            <div id="text-bubble" style="display: none;">
+                <span id="user-display">What is your name, traveler?</span>
+                <input type="text" id="user-input" style="display: inline-block;">
+                <button id="user-submit" style="display: inline-block;">Continue</button>
+            </div>
+        </div>
+    </div>
+    <div id="shop-items-container">
+        <div class="shop-item" data-title="Crafting Table" data-description="Minecraft Wordle" data-content="assets/html/minecraft-wordle.html" style="--title-color: #f1c97d;">
+            <img src="assets/shop-items-static/Item_CraftingTable.png" alt="Shop Item 1">
+            <div class="tooltip-container">
+                <div class="tooltip-title">Minecraft</div>
+                <div class="tooltip">Crafting Table</div>
+            </div>
+        </div>
+        <div class="shop-item" data-title="Guppy's Head" data-description="The Binding of Isaac Wordle" data-content="assets/html/the-binding-of-isaac-wordle.html" style="--title-color: #beb9b0;">
+            <img src="assets/shop-items-static/Item_Guppy.png" alt="Shop Item 2">
+            <div class="tooltip-container">
+                <div class="tooltip-title">The Binding of Isaac</div>
+                <div class="tooltip">Guppy's Head</div>
+            </div>
+        </div>
+        <div class="shop-item" data-title="Junimo" data-description="Stardew Valley Wordle" data-content="assets/html/stardew-valley-wordle.html" style="--title-color: #33eb5b;">
+            <img src="assets/shop-items-static/Item_Junimo.png" alt="Shop Item 3">
+            <div class="tooltip-container">
+                <div class="tooltip-title">Stardew Valley</div>
+                <div class="tooltip">Junimo</div>
+            </div>
+        </div>
+        <div class="shop-item" data-title="Pokéball" data-description="Pokémon Wordle" data-content="assets/html/pokemon-wordle.html" style="--title-color: #d33b27;">
+            <img src="assets/shop-items-static/Item_Pokeball.png" alt="Shop Item 4">
+            <div class="tooltip-container">
+                <div class="tooltip-title">Pokémon</div>
+                <div class="tooltip">Pokéball</div>
+            </div>
+        </div>
+        <div class="shop-item" data-title="Poro" data-description="League of Legends Wordle" data-content="assets/html/league-of-legends-wordle.html" style="--title-color: #5d5bd3;">
+            <img src="assets/shop-items-static/Item_Poro.png" alt="Shop Item 5">
+            <div class="tooltip-container">
+                <div class="tooltip-title">League of Legends</div>
+                <div class="tooltip">Poro</div>
+            </div>
+        </div>
+        <div class="shop-item" data-title="Ser Junkan" data-description="Enter the Gungeon Wordle" data-content="assets/html/enter-the-gungeon-wordle.html" style="--title-color: #83571f;">
+            <img src="assets/shop-items-static/Item_SerJunkan.png" alt="Shop Item 6">
+            <div class="tooltip-container">
+                <div class="tooltip-title">Enter the Gungeon</div>
+                <div class="tooltip">Ser Junkan</div>
+            </div>
+        </div>
+        <div class="shop-item" data-title="Slime" data-description="Terraria Wordle" data-content="assets/html/terraria-wordle.html" style="--title-color: #099627;">
+            <img src="assets/shop-items-static/Item_Slime.png" alt="Shop Item 7">
+            <div class="tooltip-container">
+                <div class="tooltip-title">Terraria</div>
+                <div class="tooltip">Green Slime</div>
+            </div>
+        </div>
+        <div class="shop-item" data-title="Tougher Times" data-description="Risk of Rain Wordle" data-content="assets/html/risk-of-rain-wordle.html" style="--title-color: #6f7594;">
+            <img src="assets/shop-items-static/Item_TougherTimes.png" alt="Shop Item 8">
+            <div class="tooltip-container">
+                <div class="tooltip-title">Risk of Rain</div>
+                <div class="tooltip">Tougher Times</div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span id="modal-close" class="modal-close"></span>
+            <iframe id="modal-iframe" src="" frameborder="0"></iframe>
+        </div>
+    </div>
+
     <div id="button-container">
         <div class="button-label">
             <span>CRT</span>
@@ -50,8 +108,7 @@
             <button id="toggle-crt" title="Toggle CRT Filter"></button>
         </div>
     </div>
-    
-    <script src="assets/js/shop-items.js"></script>
+    <div id="crt-overlay"></div>
     <script>
         const crtButton = document.getElementById('toggle-crt');
         const button = document.getElementById('toggle-background');
@@ -75,6 +132,9 @@
             crtOverlay.style.display = crtOverlay.style.display === 'none' ? 'block' : 'none';
         });
     </script>
+    <script src="assets/js/index.js"></script>
     <script src="assets/js/shop-items.js"></script>
+    <script src="assets/js/modal.js"></script>
+    <script src="assets/js/shopkeeper.js"></script>
 </body>
 </html>

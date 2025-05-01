@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fruit Guesser</title>
+    <style>
+        body {
+            font-family: 'Press Start 2P', sans-serif;
+            text-align: center;
+            background-color: #222;
+            color: white;
+            margin: 0;
+            padding: 20px;
+        }
+
+        #game-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            margin: auto;
+            max-width: 600px;
+        }
+
+        #column-titles {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: bold;
+            color: #ddd;
+            margin-bottom: 10px;
+        }
+
+        #column-titles div {
+            width: 120px; /* Match the card width */
+            text-align: center; /* Center the text */
+        }
+
+        #cards {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+        }
+
+        .card-container {
+            position: relative;
+            perspective: 1000px;
+        }
+
+        .card {
+            width: 120px;
+            height: 120px; /* Make the card square */
+            background: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 4px solid #000;
+            border-radius: 15px; /* Rounded corners */
+            transform: rotateY(0deg);
+            transition: transform 0.8s;
+            backface-visibility: hidden;
+        }
+
+        .card.flipped {
+            transform: rotateY(180deg);
+        }
+
+        .card-back, .card-front {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            backface-visibility: hidden;
+            border-radius: 15px; /* Match the rounded corners */
+            border: 4px solid #000; /* Match the black card borders */
+        }
+
+        .card-back {
+            background: #444; /* Softer background for better text visibility */
+            transform: rotateY(180deg);
+            color: white;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .card-front {
+            background: #333;
+        }
+
+        .status.correct {
+            background-color: #6aa84f; /* Softer green */
+        }
+
+        .status.higher-lower {
+            background-color: #f6d55c; /* Softer yellow */
+        }
+
+        .status.incorrect {
+            background-color: #e06666; /* Softer red */
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+
+        input {
+            padding: 10px;
+            font-size: 16px;
+            width: 80%;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container">
+        <h1>Fruit Guesser</h1>
+        <input type="text" id="guess-input" placeholder="Enter your fruit guess">
+        <button id="submit-guess">Submit Guess</button>
+        <div id="column-titles">
+            <!-- Column titles -->
+        </div>
+        <div id="cards">
+            <!-- Cards will be dynamically generated here -->
+        </div>
+        <div id="feedback" class="status"></div>
+    </div>
+
+    <script>
+        // Dataset of fruits
+        const dataset = [
+            { name: "Apple", color: "Red", height: 10, weight: 200, sweetness: 7, grown: "Tree", price: 1 },
+            { name: "Banana", color: "Yellow", height: 15, weight: 120, sweetness: 8, grown: "Tree", price: 0.5 },
+            { name: "Cherry", color: "Red", height: 2, weight: 5, sweetness: 9, grown: "Bush", price: 0.2 },
+            { name: "Date", color: "Brown", height: 5, weight: 15, sweetness: 10, grown: "Tree", price: 1.5 },
+            { name: "Elderberry", color: "Purple", height: 1, weight: 1, sweetness: 6, grown: "Bush", price: 0.3 },
+            { name: "Fig", color: "Purple", height: 3, weight: 50, sweetness: 8, grown: "Tree", price: 2 },
+            { name: "Grape", color: "Green", height: 1, weight: 5, sweetness: 7, grown: "Vine", price: 0.2 },
+            { name: "Honeydew", color: "Green", height: 20, weight: 1500, sweetness: 6, grown: "Vine", price: 3 },
+            { name: "Kiwi", color: "Brown", height: 5, weight: 75, sweetness: 8, grown: "Vine", price: 1 },
+            { name: "Lemon", color: "Yellow", height: 10, weight: 150, sweetness: 4, grown: "Tree", price: 0.7 }
+        ];
+
+        // Randomly pick a target fruit
+        const target = dataset[Math.floor(Math.random() * dataset.length)];
+        console.log("Target:", target); // For debugging
+
+        const cardsContainer = document.getElementById("cards");
+        const columnTitles = document.getElementById("column-titles");
+        const feedback = document.getElementById("feedback");
+        const guessInput = document.getElementById("guess-input");
+        const submitButton = document.getElementById("submit-guess");
+
+        // Fields to compare
+        const fields = ["Color", "Height", "Weight", "Sweetness", "Grown", "Price"];
+
+        // Generate column titles
+        function generateColumnTitles() {
+            columnTitles.innerHTML = ""; // Clear previous titles
+            fields.forEach(field => {
+                const title = document.createElement("div");
+                title.textContent = field;
+                columnTitles.appendChild(title);
+            });
+        }
+
+        // Generate card placeholders for each field
+        function generateCards() {
+            cardsContainer.innerHTML = ""; // Clear previous cards
+            fields.forEach(() => {
+                const cardContainer = document.createElement("div");
+                cardContainer.classList.add("card-container");
+
+                const card = document.createElement("div");
+                card.classList.add("card");
+
+                const cardFront = document.createElement("div");
+                cardFront.classList.add("card-front");
+
+                const cardBack = document.createElement("div");
+                cardBack.classList.add("card-back");
+
+                card.appendChild(cardFront);
+                card.appendChild(cardBack);
+                cardContainer.appendChild(card);
+                cardsContainer.appendChild(cardContainer);
+            });
+        }
+
+        generateColumnTitles();
+        generateCards();
+
+        submitButton.addEventListener("click", () => {
+            const guess = guessInput.value.trim();
+            const guessedFruit = dataset.find(fruit => fruit.name.toLowerCase() === guess.toLowerCase());
+
+            if (!guessedFruit) {
+                feedback.textContent = "Invalid fruit! Try again.";
+                feedback.className = "status incorrect";
+                return;
+            }
+
+            const cards = document.querySelectorAll(".card");
+
+            fields.forEach((field, index) => {
+                setTimeout(() => {
+                    const card = cards[index];
+                    const cardBack = card.querySelector(".card-back");
+
+                    const fieldKey = field.toLowerCase(); // Match dataset keys
+                    if (guessedFruit[fieldKey] === target[fieldKey]) {
+                        cardBack.textContent = "Correct";
+                        cardBack.style.backgroundColor = "#6aa84f"; // Softer green
+                    } else if (["height", "weight", "sweetness", "price"].includes(fieldKey)) {
+                        const hint = guessedFruit[fieldKey] < target[fieldKey] ? "Higher" : "Lower";
+                        cardBack.textContent = hint;
+                        cardBack.style.backgroundColor = "#f6d55c"; // Softer yellow
+                    } else {
+                        cardBack.textContent = "Incorrect";
+                        cardBack.style.backgroundColor = "#e06666"; // Softer red
+                    }
+
+                    card.classList.add("flipped");
+                }, index * 800); // Delay flipping each card by 800ms
+            });
+        });
+    </script>
+</body>
+</html>

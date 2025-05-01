@@ -1,5 +1,4 @@
-#shop-items-container 
-{
+#shop-items-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -9,33 +8,39 @@
     gap: 20px;
 }
 
-.shop-item 
-{
+.shop-item {
     text-align: center;
     color: white;
     font-family: 'Press Start 2P', sans-serif;
     width: 75px;
     max-height: auto;
-    margin-top: 13em;
+    margin-top: 15em;
     position: relative;
     animation: shake 5s ease-in-out infinite;
     animation-delay: calc(var(--random-delay, 0) * 1s);
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover animation */
     cursor: pointer; /* Change cursor to pointer on hover */
     user-select: none; /* Prevent text selection on hover */
+    z-index: 1;
+    height: calc(100% - 75px); /* Crop the top 75px of the hitbox */
 }
 
-.shop-item:hover 
-{
-    transform: translateY(-20px); /* Raise the item by 20px */
+.shop-item.hover-active {
+    transform: translateY(-10px); /* Raise the item by 20px */
     animation: none; /* Stop the shaking animation */
 }
 
-.shop-item img
-{
+.shop-item img {
     width: 100%;
     height: auto;
+    clip-path: inset(20px 0 0 0);
+    filter: drop-shadow(2px 2px 1px rgba(0, 0, 0, 0.4));
     transition: transform 0.3s ease; /* Ensure smooth transition for images */
+}
+
+.shop-item img:hover {
+    transform: scale(1.2); /* Make the image look 1.1x bigger */
+    filter: brightness(1.3) drop-shadow(2px 2px 1px rgba(0, 0, 0, 0.4)); /* Add glowing white filter */
 }
 
 @keyframes shake {
@@ -56,25 +61,57 @@
     }
 }
 
-.shop-item .tooltip 
-{
+.shop-item .tooltip-container {
     display: none;
     position: absolute;
-    bottom: 65%; /* Position above the item, stays static */
-    left: 60%;
+    bottom: 75%; /* Position above the item */
+    left: 50%;
     transform: translateX(-50%);
-    background: rgba(0, 0, 0, 0.8);
-    color: white;
-    padding: 5px 10px;
-    border-radius: 5px;
-    font-size: 12px;
     text-align: center;
-    white-space: nowrap;
     z-index: 10;
     pointer-events: none; /* Prevent tooltip from interfering with hover */
+    background: rgba(0, 0, 0, 0.6); /* Black background for the entire container */
+    color: white;
+    padding: 15px 10px;
+    border-radius: 10px;
+    font-size: 12px;
+    white-space: nowrap;
 }
 
-.shop-item:hover .tooltip 
-{
-    display: block; /* Show the tooltip on hover */
+.shop-item .tooltip-title {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: var(--title-color, white); /* Set the base color of the text */
+    background: linear-gradient(
+        120deg,
+        var(--title-color, white) 0%, /* Base color */
+        rgba(255, 255, 255, .5) 50%, /* Shine effect */
+        var(--title-color, white) 100% /* Base color */
+    );
+    background-clip: text; /* Clip the gradient to the text */
+    -webkit-background-clip: text; /* Webkit compatibility */
+    color: transparent; /* Make the text transparent to show the gradient */
+    background-size: 200%; /* Make the gradient larger for smooth animation */
+    animation: shine 3s infinite; /* Infinite animation */
+}
+
+@keyframes shine {
+    0% {
+        background-position: -100% 0; /* Start off-screen */
+    }
+    100% {
+        background-position: 100% 0; /* Move off-screen to the right */
+    }
+}
+
+.shop-item .tooltip {
+    color: white;
+    padding: 5px 10px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+.shop-item:hover .tooltip-container {
+    display: block; /* Show the tooltip container on hover */
 }

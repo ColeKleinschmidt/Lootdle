@@ -1,23 +1,41 @@
 // Select all shop items
 const shopItems = document.querySelectorAll('.shop-item');
 
-// Add hover effect for title and description
 shopItems.forEach(item => {
-    const title = item.getAttribute('data-title');
-    const description = item.getAttribute('data-description');
-
-    // Create tooltip element
-    const tooltip = document.createElement('div');
-    tooltip.classList.add('tooltip');
-    tooltip.innerHTML = `<strong>${title}</strong><br>${description}`;
-
-    // Append tooltip to the shop item
-    item.appendChild(tooltip);
+    const randomDelay = Math.random() * 5; // Random delay between 0 and 5 seconds
+    item.style.animationDelay = `${randomDelay}s`;
 });
 
-// Assign a random delay to each shop item
+// Throttle function to limit hover events
+function throttle(func, delay) {
+    let isThrottled = false;
+    return function (...args) {
+        if (isThrottled) return;
+        isThrottled = true;
+        func.apply(this, args);
+        setTimeout(() => {
+            isThrottled = false;
+        }, delay);
+    };
+}
+
 shopItems.forEach(item => {
-    const randomDelay = Math.random() * 3; // Random delay between 0 and 3 seconds
-    item.style.setProperty('--random-delay', randomDelay.toFixed(2)); // Set the CSS variable
+    const handleMouseEnter = throttle(() => {
+        item.classList.add('hover-active'); // Apply hover effect
+    }, 200); // 0.2s throttle
+
+    const handleMouseLeave = () => {
+        item.classList.remove('hover-active'); // Remove hover effect
+    };
+
+    item.addEventListener('mouseenter', handleMouseEnter);
+    item.addEventListener('mouseleave', handleMouseLeave);
 });
 
+// Add click event to each shop item
+shopItems.forEach(item => {
+    item.addEventListener('click', () => {
+        const contentUrl = item.getAttribute('data-content'); // Get the content URL
+        openModal(contentUrl); // Call the openModal function from modal.js
+    });
+});

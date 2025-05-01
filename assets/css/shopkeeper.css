@@ -1,0 +1,104 @@
+/* Exclamation point */
+#exclamation-point {
+    position: fixed; /* Position relative to the viewport */
+    top: 43%; /* Adjust vertical position */
+    left: 49.7%; /* Adjust horizontal position */
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 24px;
+    color: #f1c40f; /* Yellow color */
+    cursor: pointer;
+    animation: bounce 3s infinite; /* Add a bounce animation */
+    z-index: 1000; /* Ensure it appears above other elements */
+}
+
+/* Bounce animation for the exclamation point */
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+/* Shopkeeper container */
+#shopkeeper {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+/* Shopkeeper image */
+#shopkeeper img {
+    width: 150px;
+    height: auto;
+}
+
+/* Text bubble */
+#text-bubble {
+    position: fixed;
+    top: 43%; /* Adjusted to ensure it's below the exclamation point */
+    left: 61%;
+    transform: translateX(-50%); /* Center the bubble horizontally */
+    background: #fff;
+    border: 2px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 12px;
+    color: #000;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    display: none;
+    filter: contrast(1.2) brightness(0.9) saturate(1.5); /* CRT-like effect */
+    text-shadow: 0 0 2px rgba(255, 255, 255, 0.8);
+    z-index: 1000;
+}
+
+/* Text bubble arrow */
+#text-bubble::after {
+    content: '';
+    position: absolute;
+    bottom: -10px; /* Position below the bubble */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #fff; /* Match the bubble background */
+    border-top-color: #000; /* Match the bubble border */
+    margin-top: -2px; /* Slight overlap for seamless look */
+}
+
+/* Input field inside the text bubble */
+#user-input {
+    margin-top: 10px;
+    width: 90%; /* Adjusted to fit better inside the bubble */
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 12px; /* Slightly larger for readability */
+    padding: 5px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+/* Submit button inside the text bubble */
+#user-submit {
+    margin-top: 10px;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 12px; /* Slightly larger for readability */
+    padding: 5px 15px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: #f1c97d;
+    cursor: pointer;
+    z-index: 1001; /* Ensure it is interactable */
+}
+
+#user-submit:hover {
+    background-color: #e0b86c; /* Slightly darker on hover */
+}

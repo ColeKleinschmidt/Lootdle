@@ -97,8 +97,8 @@ h1 {
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: 1000; /* Ensure the CRT overlay is above everything */
-    pointer-events: none;
+    z-index: 4000; /* Ensure it is above everything */
+    pointer-events: none; /* Allow interaction with elements underneath */
     background: repeating-linear-gradient(
         0deg,
         rgba(0, 0, 0, 0.2),
@@ -106,7 +106,9 @@ h1 {
         transparent 3px,
         transparent 5px
     );
-    mix-blend-mode: screen;
+    opacity: 0.5; /* Adjust opacity for the desired effect */
+    backdrop-filter: contrast(1.0) brightness(0.9) saturate(1.3) blur(0.5px); /* Apply CRT-like effect */
+    filter: contrast(1.2) brightness(0.9) saturate(1.2) blur(0.5px); /* Fallback for browsers without backdrop-filter */
 }
 
 #crt-overlay::after {
@@ -116,5 +118,7 @@ h1 {
     left: 0;
     width: 100%;
     height: 100%;
-    mix-blend-mode: lighten;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.1), transparent 60%);
+    mix-blend-mode: lighten; /* Enhance the CRT effect */
+    opacity: 0.2; /* Subtle glow effect */
 }

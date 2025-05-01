@@ -1,0 +1,73 @@
+/* Modal Styles */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent background */
+    z-index: 2000;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Prevent scrolling or extra content */
+}
+
+.modal-content {
+    position: relative;
+    width: 80%;
+    height: 80%;
+    border-radius: 10px;
+    overflow: hidden; /* Ensure no content overflows */
+    background: linear-gradient(to bottom, #444, #000); /* Gradient from dark gray to black */
+    padding: 0; /* Remove any padding */
+    margin: 0; /* Remove any margin */
+    display: flex;
+    flex-direction: column;
+
+    /* Pixellated border effect */
+    box-shadow: 
+        0 0 0 40px black, /* Thick black border */
+        0 0 0 44px white; /* Outer white border */
+    image-rendering: pixelated; /* Ensure a pixellated look */
+
+    /* Animation setup */
+    transform: scale(0); /* Start small */
+    opacity: 0; /* Start invisible */
+    transition: transform 0.5s ease-out, opacity 0.5s ease-out; /* Smooth animation */
+}
+
+.modal-content.show {
+    transform: scale(1); /* Grow to full size */
+    opacity: 1; /* Fade in */
+}
+
+.modal-close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white; /* White text for visibility */
+    cursor: pointer;
+    z-index: 2001;
+    -webkit-text-stroke: .5px rgb(168, 168, 168);
+    background: none; /* Remove any background */
+    border: none; /* Remove any border */
+    padding: 5px 10px; /* Add some padding for better clickability */
+    font-family: 'Press Start 2P', sans-serif; /* Apply pixelated font */
+}
+
+.modal-close::after {
+    content: ' Close: X'; /* Add 'Close' text and the 'X' */
+}
+
+#modal-iframe {
+    width: 100%;
+    height: 100%; /* Ensure iframe fills the modal content */
+    border: none;
+    display: block; /* Ensure iframe takes up full space */
+    margin: 0; /* Remove any default margin */
+    padding: 0; /* Remove any default padding */
+    box-sizing: border-box; /* Ensure padding/margin doesn't affect size */
+}

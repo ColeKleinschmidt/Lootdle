@@ -1,11 +1,7 @@
-function activateButton(button, link) {
-    document.querySelectorAll('.user-button').forEach(btn => {
-        btn.classList.remove('active');
-    });
+const gameDescription = document.getElementById('game-description');
+const letters = gameDescription.querySelectorAll('span');
 
-    button.classList.add('active');
-
-    setTimeout(() => {
-        window.location.href = link;
-    }, 500);
-}
+// Assign a unique --index value to each letter
+letters.forEach((letter, index) => {
+    letter.style.setProperty('--index', index);
+});
