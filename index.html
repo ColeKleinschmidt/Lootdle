@@ -40,6 +40,41 @@
         </a>
     </div>
     <div id="crt-overlay"></div>
+    <div id="button-container">
+        <div class="button-label">
+            <span>CRT</span>
+            <button id="toggle-background" title="Switch Background"></button>
+        </div>
+        <div class="button-label">
+            <span>TIME</span>
+            <button id="toggle-crt" title="Toggle CRT Filter"></button>
+        </div>
+    </div>
+    
+    <script src="assets/js/shop-items.js"></script>
+    <script>
+        const crtButton = document.getElementById('toggle-crt');
+        const button = document.getElementById('toggle-background');
+        const body = document.body;
+        const crtOverlay = document.getElementById('crt-overlay');
+
+        button.addEventListener('click', () => 
+        {
+            if (body.style.backgroundImage.includes('Day_Mode.gif')) 
+            {
+                body.style.backgroundImage = "url('assets/backgrounds/Night_Mode.gif')";
+            } 
+            else 
+            {
+                body.style.backgroundImage = "url('assets/backgrounds/Day_Mode.gif')";
+            }
+        });
+
+        crtButton.addEventListener('click', () => 
+        {
+            crtOverlay.style.display = crtOverlay.style.display === 'none' ? 'block' : 'none';
+        });
+    </script>
     <script src="assets/js/shop-items.js"></script>
 </body>
 </html>

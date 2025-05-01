@@ -16,7 +16,7 @@
     font-family: 'Press Start 2P', sans-serif;
     width: 75px;
     max-height: auto;
-    margin-top: 15.5em;
+    margin-top: 13em;
     position: relative;
     animation: shake 5s ease-in-out infinite;
     animation-delay: calc(var(--random-delay, 0) * 1s);
