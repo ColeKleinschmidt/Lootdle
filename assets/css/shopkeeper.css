@@ -46,7 +46,7 @@
     border: 2px solid #000;
     border-radius: 10px;
     padding: 10px;
-    width: 250px;
+    width: min(250px, 82vw);
     text-align: center;
     font-family: 'Press Start 2P', sans-serif;
     font-size: 12px;
@@ -101,4 +101,25 @@
 
 #user-submit:hover {
     background-color: #e0b86c; /* Slightly darker on hover */
+}
+
+html[data-viewport='tablet'] #exclamation-point {
+    top: 38%;
+    left: 48%;
+}
+
+html[data-viewport='tablet'] #text-bubble {
+    top: 41%;
+    left: 62%;
+}
+
+html[data-viewport='mobile'] #exclamation-point {
+    top: 29%;
+    left: 50%;
+}
+
+html[data-viewport='mobile'] #text-bubble {
+    top: 35%;
+    left: 50%;
+    transform: translateX(-50%);
 }

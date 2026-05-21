@@ -15,8 +15,8 @@
 
 .modal-content {
     position: relative;
-    width: 80%;
-    height: 80%;
+    width: min(80vw, 1200px);
+    height: min(80dvh, 900px);
     border-radius: 10px;
     overflow: hidden; /* Ensure no content overflows */
     background: linear-gradient(to bottom, #444, #000); /* Gradient from dark gray to black */
@@ -27,8 +27,8 @@
 
     /* Pixellated border effect */
     box-shadow: 
-        0 0 0 40px black, /* Thick black border */
-        0 0 0 44px white; /* Outer white border */
+        0 0 0 var(--modal-border-inner) black, /* Thick black border */
+        0 0 0 var(--modal-border-outer) white; /* Outer white border */
     image-rendering: pixelated; /* Ensure a pixellated look */
 
     /* Animation setup */
@@ -70,4 +70,9 @@
     margin: 0; /* Remove any default margin */
     padding: 0; /* Remove any default padding */
     box-sizing: border-box; /* Ensure padding/margin doesn't affect size */
+}
+
+html[data-viewport='mobile'] .modal-content {
+    width: min(94vw, 640px);
+    height: min(88dvh, 920px);
 }
