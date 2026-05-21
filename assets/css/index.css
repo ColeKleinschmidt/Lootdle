@@ -4,7 +4,7 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: var(--viewport-height);
     background-color: #424242;
 }
 
@@ -86,17 +86,24 @@ body
 
 #game-description {
     position: absolute; /* Position it independently of other elements */
-    top: 37%; /* Adjust the vertical position */
+    top: clamp(11rem, 37vh, 21rem); /* Adjust the vertical position */
     left: 50%; /* Center it horizontally */
     transform: translateX(-50%); /* Center alignment */
     font-family: 'Press Start 2P', sans-serif;
-    font-size: 16px;
+    font-size: clamp(10px, 1.4vw, 16px);
+    width: min(92vw, 760px);
+    line-height: 1.6;
+    text-align: center;
     color: #c67cdd;
     z-index: 1000; /* Ensure it appears above other elements */
     pointer-events: none; /* Prevent it from interfering with clicks */
     font-style: italic;
 
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+html[data-viewport='mobile'] #game-description {
+    top: clamp(6rem, 17vh, 8rem);
 }
 
 #game-description span {

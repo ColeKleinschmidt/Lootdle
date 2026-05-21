@@ -3,18 +3,20 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    width: min(96vw, 960px);
+    padding-inline: var(--ui-edge-offset);
     position: relative;
     z-index: 1;
-    gap: 20px;
+    gap: clamp(10px, 2vw, 20px);
 }
 
 .shop-item {
     text-align: center;
     color: white;
     font-family: 'Press Start 2P', sans-serif;
-    width: 75px;
+    width: clamp(62px, 8.5vw, 75px);
     max-height: auto;
-    margin-top: 15em;
+    margin-top: clamp(5.5rem, 22vh, 15rem);
     position: relative;
     animation: shake 5s ease-in-out infinite;
     animation-delay: calc(var(--random-delay, 0) * 1s);
@@ -22,7 +24,7 @@
     cursor: pointer; /* Change cursor to pointer on hover */
     user-select: none; /* Prevent text selection on hover */
     z-index: 1;
-    height: calc(100% - 75px); /* Crop the top 75px of the hitbox */
+    height: auto;
 }
 
 .shop-item.hover-active {
@@ -74,12 +76,12 @@
     color: white;
     padding: 15px 10px;
     border-radius: 10px;
-    font-size: 12px;
+    font-size: clamp(10px, 1.3vw, 12px);
     white-space: nowrap;
 }
 
 .shop-item .tooltip-title {
-    font-size: 14px;
+    font-size: clamp(11px, 1.5vw, 14px);
     font-weight: bold;
     margin-bottom: 5px;
     color: var(--title-color, white); /* Set the base color of the text */
@@ -108,10 +110,14 @@
 .shop-item .tooltip {
     color: white;
     padding: 5px 10px;
-    font-size: 12px;
+    font-size: clamp(10px, 1.3vw, 12px);
     white-space: nowrap;
 }
 
 .shop-item:hover .tooltip-container {
     display: block; /* Show the tooltip container on hover */
+}
+
+html[data-viewport='mobile'] .shop-item {
+    margin-top: clamp(9rem, 24vh, 12rem);
 }

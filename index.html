@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lootdle</title>
     <link rel="icon" type="image/png" href="assets/images/lootdle-logo.png">
+    <link rel="stylesheet" href="assets/css/breakpoints.css">
     <link rel="stylesheet" href="assets/css/index.css">
     <link rel="stylesheet" href="assets/css/crt.css">
     <link rel="stylesheet" href="assets/css/shop-items.css">
@@ -109,29 +110,9 @@
         </div>
     </div>
     <div id="crt-overlay"></div>
-    <script>
-        const crtButton = document.getElementById('toggle-crt');
-        const button = document.getElementById('toggle-background');
-        const body = document.body;
-        const crtOverlay = document.getElementById('crt-overlay');
-
-        button.addEventListener('click', () => 
-        {
-            if (body.style.backgroundImage.includes('Day_Mode.gif')) 
-            {
-                body.style.backgroundImage = "url('assets/backgrounds/Night_Mode.gif')";
-            } 
-            else 
-            {
-                body.style.backgroundImage = "url('assets/backgrounds/Day_Mode.gif')";
-            }
-        });
-
-        crtButton.addEventListener('click', () => 
-        {
-            crtOverlay.style.display = crtOverlay.style.display === 'none' ? 'block' : 'none';
-        });
-    </script>
+    <script src="assets/js/breakpoints.js"></script>
+    <script src="assets/js/background-media-loader.js"></script>
+    <script src="assets/js/crt-filter.js"></script>
     <script src="assets/js/index.js"></script>
     <script src="assets/js/shop-items.js"></script>
     <script src="assets/js/modal.js"></script>

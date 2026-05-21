@@ -1,0 +1,21 @@
+/* Shared responsive tokens driven by assets/js/breakpoints.js */
+:root {
+    --bp-mobile: 480px;
+    --bp-tablet: 768px;
+    --viewport-height: 100dvh;
+    --ui-edge-offset: clamp(12px, 2.5vw, 20px);
+    --ui-gap: clamp(8px, 2vw, 16px);
+    --control-size: clamp(42px, 6vw, 50px);
+    --modal-border-inner: 40px;
+    --modal-border-outer: 44px;
+}
+
+html[data-viewport='tablet'] {
+    --modal-border-inner: 24px;
+    --modal-border-outer: 28px;
+}
+
+html[data-viewport='mobile'] {
+    --modal-border-inner: 12px;
+    --modal-border-outer: 14px;
+}
