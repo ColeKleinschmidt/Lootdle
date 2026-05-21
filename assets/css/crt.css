@@ -67,7 +67,7 @@ body
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    overflow-x: hidden;
+    overflow: hidden;
     margin: 0;
     display: flex;
     justify-content: center;

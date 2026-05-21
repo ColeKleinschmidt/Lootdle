@@ -2,7 +2,7 @@
  * Responsibility: centralize viewport breakpoints and keep responsive CSS state in sync.
  * Public API: window.LootdleBreakpoints.{ values, getViewport(), onChange(listener) }.
  */
-(function initializeBreakpoints() {
+(function initializeLootdleBreakpoints() {
     const values = Object.freeze({
         mobile: 480,
         tablet: 768
